@@ -4490,7 +4490,7 @@
 1401489 | Season Series Parachute (2026H1)
 1401490 | S28 Parachute
 1401491 | Jester's Gambit Parachute
-1401492 | New
+1401492 | Apollo Parachute
 1401493 | Coldsteel Hacker Parachute
 1401494 | Dimensional Convergence Parachute
 1401495 | New
@@ -9193,9 +9193,9 @@
 1407854 | Phoenixtra X-Suit (5-Star)
 1407855 | Phoenixtra X-Suit (6-Star)
 1407856 | Phoenixtra X-Suit (7-Star)
-1407857 | New
-1407858 | New
-1407859 | New
+1407857 | Meowlectric Flash Set
+1407858 | Nightfall Blade Set
+1407859 | Aerial Recon Set
 1407860 | Coldsteel Hacker Set
 1407861 | Richarlison Ace09
 1407862 | Juan Soto Set
@@ -10274,9 +10274,9 @@
 1411054 | Punk Vanguard Cover
 1411055 | Aoi Todo Cover
 1411056 | Choso Cover
-1411057 | New
-1411058 | New
-1411059 | New
+1411057 | Meowlectric Flash Cover
+1411058 | Nightfall Blade Cover
+1411059 | Aerial Recon Cover
 1411060 | Coldsteel Hacker Cover
 1411061 | Mutant Doctor Cover
 1411062 | Gothic Nurse Cover
@@ -14974,11 +14974,11 @@
 1515730 | Chaos Fantasy CRATE Pack
 1515731 | Neon Chaos CRATE
 1515732 | Chaos Fantasy SP CRATE
-1515733 | GW CRATE1
-1515734 | GW CRATE1 Pack
+1515733 | Desert Starry Night CRATE
+1515734 | Desert Starry Night CRATE Pack
 1515735 | Sandsinger CRATE
-1515736 | GW CRATE2
-1515737 | GW CRATE2 Pack
+1515736 | GW CRATE
+1515737 | GW CRATE Pack
 1515738 | Masked Psychic CRATE
 1515739 | Masked Psychic CRATE Pack
 1515740 | Masked Psychic SP CRATE
@@ -20792,9 +20792,9 @@
 1540302 | Advanced Crate
 1540303 | Intermediate Crate
 1540304 | Basic Crate
-1540305 | Premium Crate - Aoi Todo
-1540306 | Advanced Crate - Aoi Todo
-1540307 | Intermediate Crate - Aoi Todo
+1540305 | Premium Crate
+1540306 | Advanced Crate
+1540307 | Intermediate Crate
 1540308 | Basic Crate
 1540309 | PUBG Lucky Crate
 1540310 | PUBG Lucky Crate
@@ -24936,7 +24936,7 @@
 1702840 |  
 1702841 | Perk Voucher (V4.3)
 1702842 |  
-1702843 | MrBeast Ticket Fragment
+1702843 | Golden Ticket Fragment
 1702844 | Flag Exchange Token
 1702845 | Heart Exchange Token
 1702846 | Water Balloon Exchange Token
@@ -25002,7 +25002,7 @@
 1702910 | Exchange Coin (SAKAMOTO DAYS)
 1702911 | Cricket Spin Token
 1702912 | BMPS 2026 Exchange Token
-1702913 | MrBeast Ticket
+1702913 | Golden Ticket
 1702914 |  
 1702915 |  
 1702916 |  
@@ -27130,10 +27130,10 @@
 1903217 | Lotus Emeya (Purple Volt)
 1903218 | Porsche Panamera Turbo S (Sapphire Blue)
 1903219 | Porsche Panamera Turbo S (Vipergreen)
-1903220 | New
-1903221 | New
-1903222 | New
-1903223 | New
+1903220 | Apollo Intensa Emozione (Molten Inferno)
+1903221 | Apollo Intensa Emozione (Phantom Violet)
+1903222 | Apollo Intensa Emozione (Showdown)
+1903223 | Apollo Intensa Emozione (Tempest)
 1904001 | Mini Bus
 1904004 | White Rabbit Bus
 1904005 | Winning Chicken Bus
@@ -27514,9 +27514,9 @@
 1961062 | Porsche 918 Spyder (Aquastream)
 1961063 | Porsche 918 Spyder (964Polarsilvermetallic)
 1961064 | Porsche 918 Spyder (Pink Racing Edition)
-1961065 | New
-1961066 | New
-1961067 | New
+1961065 | Apollo EVO (Radiant Gold)
+1961066 | Apollo EVO (Sunset)
+1961067 | Apollo EVO (Glacier)
 1961136 | Dodge Challenger SRT Hellcat - Blaze
 1961137 | Bentley Batur (Holoprism)
 1961138 | Bentley Batur (Solar Pulse)
@@ -35773,7 +35773,7 @@
 43010036 | Rare Temporal Draw Voucher II
 43010037 | Regular Temporal Draw Voucher I
 43010038 | Regular Temporal Draw Voucher II
-43010039 | MrBeast Ticket Fragment
+43010039 | Golden Ticket Fragment
 43060001 | Challenge Crate
 43060002 | Challenge Crate (Large)
 43201581 | Mystery Crate
@@ -40111,7 +40111,7 @@
 417004436 | Jester's Gambit Ornament
 417004437 | Cursed Corpse Tsukamoto Ornament
 417004438 | Sukuna's Finger Ornament
-417004439 | New
+417004439 | Apollo Ornament
 417004440 | Coldsteel Hacker Ornament
 417004441 | Rhythmic Moment Ornament
 417004442 | Multiverse Nexus Ornament
@@ -40939,7 +40939,7 @@
 615004107 | Jester's Gambit Molotov Cocktail
 615004108 | Phoenix Rising Molotov Cocktail
 615004109 | Bloodwing Raven Molotov Cocktail
-615004110 | New
+615004110 | Neon Lumen Molotov Cocktail
 615004111 | Pulsing Light Molotov Cocktail
 615004112 | Pyrotechnic Chroma Molotov Cocktail
 619100001 | Companion Sharing Perk
@@ -43449,7 +43449,7 @@
 1101001265 | Sandspring Dominion - AKM (Lv. 8)
 1101001266 | Violet Revenant - AKM
 1101001267 | PUBGM X aespa - AKM
-1101001268 | New
+1101001268 | Swift Assault - AKM
 1101001269 | Pulsing Light - AKM (Lv. 1)
 1101001270 | Pulsing Light - AKM (Lv. 2)
 1101001271 | Pulsing Light - AKM (Lv. 3)
@@ -44729,7 +44729,7 @@
 1102003100 | Absolute Zero - Vector (Lv. 7)
 1102003101 | ORDER - Vector
 1102003102 | Standard Protocol - Vector
-1102003103 | New
+1102003103 | Neon Surge - Vector
 1102003199 | Guncraft Firearm - Vector
 1102004001 | Silver Plate - Thompson SMG
 1102004011 | Smooth Hitman - Thompson SMG
@@ -45294,7 +45294,7 @@
 1103004086 | Melodic Climax - SKS (Lv. 4)
 1103004087 | Melodic Climax - SKS (Lv. 5)
 1103004088 | Forest Stroll - SKS
-1103004089 | New
+1103004089 | Phantom Rush - SKS
 1103005010 | Botanical Garden - VSS
 1103005011 | Frost Ravager - VSS
 1103005012 | Venomous Skull - VSS
