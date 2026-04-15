@@ -906,7 +906,7 @@
 31403 | Astral Starscape Avatar
 31404 | Colossal Titan Avatar
 31405 | Optimus Prime Avatar
-31406 | みこち(SD)アイコン​
+31406 | みこち(ミニキャラ)アイコン​
 31407 | 35Pアイコン
 31408 | さくらみこコラボKVアイコン​
 31409 | PUBGM X QWER profile
@@ -944,7 +944,7 @@
 31441 | SAKAMOTO TARO Avatar
 31442 | Nakiri Ayame Avatar
 31443 | Nakiri Ayame(KV) Avatar
-31444 | Nakiri Ayame(SD) Avatar
+31444 | Nakiri Ayame(ミニキャラ) Avatar
 31445 | Joker Avatar
 31446 | Chennai Super Kings Avatar
 31447 | Kolkata Knight Riders Avatar
@@ -4493,7 +4493,7 @@
 1401492 | Apollo Parachute
 1401493 | Coldsteel Hacker Parachute
 1401494 | Dimensional Convergence Parachute
-1401495 | New
+1401495 | Catch! Teenieping Parachute
 1401496 | SAKAMOTO TARO Parachute
 1401497 | Nakiri Ayame Parachute
 1401498 | S29 Parachute
@@ -9217,8 +9217,8 @@
 1407878 | Sunshine Vigor Set
 1407879 | Starlight Vigor Set
 1407880 | Lightning Circuit Set
-1407881 | New
-1407882 | New
+1407881 | Catch! Teenieping Overalls set
+1407882 | Catch! Teenieping Princess Romi set
 1407883 | Nakiri Ayame Set
 1407884 | Thala Legacy Set
 1407885 | Knight Dominion Set
@@ -11010,7 +11010,6 @@
 1504654 | Harsh Rajput Crate
 1504655 | Hacker Crate
 1504656 | Ironthorn Anubis Crate
-1504657 | Gilded Galaxy Crate
 1504658 | River Styx Crate
 1504659 | Toxic Crate Event
 1504660 | Ironthorn Anubis Crate Event
@@ -20099,7 +20098,7 @@
 1534617 | Graceping
 1534618 | Bonnyping
 1534619 | SAKAMOTO TARO Space Gift
-1534620 | Nakiri Ayame(SD) Space Gift
+1534620 | Nakiri Ayame(ミニキャラ) Space Gift
 1534621 | Nakiri Ayame Space Gift
 1534622 | Joker Space Gift
 1534623 | Chennai Super Kings Space Gift
@@ -23919,7 +23918,7 @@
 1620304 | Multiverse Detective Voucher (60 UC)
 1620305 | Dimensional Diva Draw 10 Voucher
 1620306 | Multiverse Detective Draw 10 Voucher
-1620307 | Dimensional Diva Voucher (40 UC) (KR)
+1620307 | Dimensional Diva Voucher (30 UC) (KR)
 1620308 | Dimensional Diva Voucher (40 UC)
 1620309 | Dimensional Diva Voucher (50 UC) (KR)
 1620310 | Multiverse Detective Voucher (30 UC)(KR)
@@ -23927,7 +23926,7 @@
 1620312 | Multiverse Detective Voucher (50 UC)(KR)
 1620313 | Dimensional Diva Draw 10 Voucher
 1620314 | Multiverse Detective Draw 10 Voucher
-1620315 | Dimensional Diva Voucher (40 UC)(JP)
+1620315 | Dimensional Diva Voucher (30 UC)(JP)
 1620316 | Dimensional Diva Voucher (40 UC)
 1620317 | Dimensional Diva Voucher (50 UC) (JP)
 1620318 | Multiverse Detective Voucher (30 UC)
@@ -27213,7 +27212,7 @@
 1907070 | Dragon's Ascent Buggy (Lv. 2)
 1907071 | Dragon's Ascent Buggy (Lv. 3)
 1907072 | Dragon's Ascent Buggy (Lv. 4)
-1907073 | New
+1907073 | Catch! Teenieping - Buggy
 1907074 | Eden Charge Buggy
 1907099 |  
 1908001 | UAZ
@@ -29839,7 +29838,7 @@
 2310265 | SAKAMOTO TARO Graffiti
 2310266 | ASAKURA SHIN Graffiti
 2310267 | NAGUMO Graffiti
-2310268 | Nakiri Ayame(SD) Graffiti
+2310268 | Nakiri Ayame(ミニキャラ) Graffiti
 2310269 | Nakiri Ayame Graffiti
 2310270 | Nakiri Ayame(KV) Graffiti
 2310271 | Jujutsu Kaisen Graffiti
@@ -39386,11 +39385,11 @@
 99010043 | New Journey
 99010044 | Ray
 99010045 | Ancient Secret: Arise
-99010046 | 8-Year Old Friend!
+99010046 | 8-Year-Old Friend!
 99010047 | Fool Juggling
 99010048 | Sacred Fire Trial
-99010049 | To Be Determined
-99010050 | To Be Determined
+99010049 | Scorpion Crate
+99010050 | Ancient Secret Battle
 99010051 | Garand
 99010052 | Tracked Amphicarrier
 99010053 | Jester of Fate
@@ -44649,7 +44648,7 @@
 1102002426 | Little Lamb Blaster - UMP45
 1102002427 | Arctic Tracker - UMP45
 1102002428 | Mutant Corps - UMP45
-1102002429 | New
+1102002429 | Catch! Teenieping - UMP45
 1102002430 | S29 - UMP45
 1102002999 | Bloody Zone - UMP45
 1102003001 | White Rabbit - Vector
@@ -46999,7 +46998,7 @@
 1501000711 | Multiverse Traveler Backpack
 1501000712 | Eternal Vigil Backpack
 1501000713 | Arcade Kitty Backpack
-1501000714 | New
+1501000714 | Catch! Teenieping Graceping Backpack
 1501000715 | SAKAMOTO TARO Backpack
 1501000716 | Nakiri Ayame Backpack
 1501000717 | S29 Backpack
@@ -47615,7 +47614,7 @@
 1501001711 | Multiverse Traveler Backpack (Lv. 1)
 1501001712 | Eternal Vigil Backpack (Lv. 1)
 1501001713 | Arcade Kitty Backpack (Lv. 1)
-1501001714 | New
+1501001714 | Catch! Teenieping Graceping Backpack(Lv.1)
 1501001715 | SAKAMOTO TARO Backpack (Lv.1)
 1501001716 | Nakiri Ayame Backpack (Lv.1)
 1501001717 | S29 Backpack (Lv. 1)
@@ -48231,7 +48230,7 @@
 1501002711 | Multiverse Traveler Backpack (Lv. 2)
 1501002712 | Eternal Vigil Backpack (Lv. 2)
 1501002713 | Arcade Kitty Backpack (Lv. 2)
-1501002714 | New
+1501002714 | Catch! Teenieping Graceping Backpack(Lv.2)
 1501002715 | SAKAMOTO TARO Backpack (Lv.2)
 1501002716 | Nakiri Ayame Backpack (Lv.2)
 1501002717 | S29 Backpack (Lv. 2)
@@ -48804,6 +48803,146 @@
 1501003668 | Corrupted Crown Backpack (Lv. 3)
 1501003669 | Saccharine Riot Backpack (Lv. 3)
 1501003670 | Boxing Brawl Backpack (Lv. 3)
+1501003671 | Kaiju No. 8 Backpack (Lv. 3)
+1501003672 | Stellarwing Flutter Backpack (Lv. 3)
+1501003673 | Highstreet Haze Backpack (Lv. 3)
+1501003674 | Cotton Carnage Backpack (Lv. 3)
+1501003675 | Madcap Punk Backpack (Lv. 3)
+1501003676 | Specter Shrine Backpack (Lv. 3)
+1501003677 | Talisdrake Rift Backpack (Lv. 3)
+1501003678 | Colorburst Candy Backpack (Lv. 3)
+1501003679 | Spectral Dreamweaver Backpack (Lv. 3)
+1501003680 | Jungle Core Backpack (Lv. 3)
+1501003681 | Captain Cub Backpack (Lv. 3)
+1501003682 | Yarn Knight Backpack (Lv. 3)
+1501003683 | Balenciaga Backpack (Lv. 3)
+1501003684 | Whiteout Apex Backpack (Lv. 3)
+1501003685 | Onyxis Witch Backpack (Lv. 3)
+1501003686 | Blizzard Party Backpack (Lv. 3)
+1501003687 | Deathknell Shroud Backpack (Lv. 3)
+1501003688 | Polar Prism Backpack (Lv. 3)
+1501003689 | Snowy Weasel Backpack (Lv. 3)
+1501003690 | Melodic Crown Backpack (Lv. 3)
+1501003691 | Turbo Granny(Beckoning cat) Backpack (Lv. 3)
+1501003692 | Bamboo Treat Backpack (Lv. 3)
+1501003693 | Dune Prince Backpack (Lv. 3)
+1501003694 | Locked & Loaded Backpack (Lv. 3)
+1501003695 | Arcade KO Backpack (Lv. 3)
+1501003696 | Veiled Enchantress Backpack (Lv. 3)
+1501003697 | Celadon Aether Backpack (Lv. 3)
+1501003698 | Well of Souls Backpack (Lv. 3)
+1501003699 | Mystic Seal Backpack (Lv. 3)
+1501003700 | Fragmented Moon Backpack (Lv. 3)
+1501003701 | Auspicious Coffer Backpack (Lv. 3)
+1501003702 | Roadborn Rucksack Backpack (Lv. 3)
+1501003703 | Peaky Blinders Backpack (Lv. 3)
+1501003704 | S28 Backpack (Lv. 3)
+1501003705 | Twirling Sands Backpack (Lv. 3)
+1501003706 | Punk Vanguard Backpack (Lv. 3)
+1501003707 | Prison Realm Backpack (Lv. 3)
+1501003708 | Coldsteel Hacker Backpack (Lv. 3)
+1501003709 | Dynamic Realm Backpack (Lv. 3)
+1501003710 | Delicate Dance Backpack (Lv. 3)
+1501003711 | Multiverse Traveler Backpack (Lv. 3)
+1501003712 | Eternal Vigil Backpack (Lv. 3)
+1501003713 | Arcade Kitty Backpack (Lv. 3)
+1501003714 | Catch! Teenieping Graceping Backpack(Lv.3)
+1501003715 | SAKAMOTO TARO Backpack (Lv.3)
+1501003716 | Nakiri Ayame Backpack (Lv.3)
+1501003717 | S29 Backpack (Lv. 3)
+1502000022 | Black Magma Helmet
+1502000023 | Glacier Helmet
+1502000025 | Winter Guardian Helmet
+1502000026 | Yeti Helmet
+1502000027 | Cuddly Panda Helmet
+1502000028 | Scarlet Beast Helmet
+1502000029 | Soaring Eagle Helmet
+1502000030 | Stylish Santa Helmet
+1502000031 | Mutated Helmet
+1502000032 | Sinister Skull Helmet
+1502000033 | Intergalactic Helmet
+1502000034 | Max Drip Helmet
+1502000035 | Irradiated Frog Helmet
+1502000036 | Cupid Helmet
+1502000037 | X Marks the Spot Helmet
+1502000038 | Arachnoid Helmet
+1502000039 | Dragonling Helmet
+1502000040 | Mechanized Helmet
+1502000041 | Star Trooper Helmet
+1502000042 | Brilliant Anniversary Helmet
+1502000043 | Bloodthirsty Fiend Helmet
+1502000044 | Decorated Helmet
+1502000045 | Mech Rabbit Helmet
+1502000046 | Honorable Warrior Helmet
+1502000047 | Techno Helmet
+1502000048 | Dayman Helmet
+1502000049 | Army Men Helmet
+1502000050 | Cast Iron Helmet
+1502000051 | Pitch Master Helmet
+1502000052 | Crimson Fox Helmet
+1502000053 | Season 11 Arena Helmet
+1502000054 | Ryan Helmet 
+1502000055 | Pearl Hunter Helmet
+1502000058 | Royal Butterfly Helmet
+1502000060 | Explorer's Helmet
+1502000062 | Radiance Helmet
+1502000063 | Bloody Tide Helmet
+1502000064 | Winged Helmet
+1502000065 | Moon Bunny Helmet
+1502000069 | Masked Psychic Helmet
+1502000070 | Shining Star Helmet
+1502000071 | Past Glory Helmet
+1502000072 | Red - Helmet
+1502000073 | Cybernetic Guardian Helmet
+1502000074 | Snowflake Girl Helmet
+1502000075 | Jubilant Baby Seal Helmet
+1502000076 | Futuristic Streetwear Helmet
+1502000077 | Field Commander Helmet
+1502000078 | Forest Ninja Helmet
+1502000079 | Blood Lotus Helmet
+1502000080 | Sleepy Slug Helmet
+1502000081 | The Pummeler Helmet
+1502000082 | Sweet Treats Helmet
+1502000084 | Golden Eagle Helmet
+1502000085 | Armed Hound Helmet
+1502000086 | Adorable Mouse Helmet
+1502000087 | Arctic Hunter Helmet
+1502000088 | Rock 'n' Roll Helmet
+1502000089 | Baby Chick Helmet
+1502000090 | Pink Demoness Helmet
+1502000091 | Naughty Kitty Helmet
+1502000092 | Sky Barrier Helmet
+1502000093 | Anubian Magistrate Helmet
+1502000094 | Plump Strawberry Helmet
+1502000096 | Fortune Teller Helmet
+1502000097 | Gold Kitten Helmet
+1502000098 | Will of Horus Helmet
+1502000099 | Puppy Love Helmet
+1502000100 | GACKT Helmet (Lv. 1)
+1502000101 | Dazzling Youth Helmet
+1502000102 | Bad Apple Helmet
+1502000103 | Cuckoo Bird Helmet
+1502000104 | Anubis Acolyte Helmet
+1502000105 | Stealth Agent Helmet
+1502000106 | Rainbow Splash Helmet
+1502000107 | Sparkly Universe Helmet
+1502000108 | Ragtag Goon Helmet
+1502000109 | Lion's Claw Helmet
+1502000110 | Podium Placer Helmet
+1502000111 | Nightmare Helmet
+1502000113 | Rose Unicorn Helmet
+1502000114 | Mechforged Helmet
+1502000115 | Ladybug Helmet
+1502000116 | Retro Police Helmet
+1502000119 | Persian Warrior Helmet
+1502000121 | Waffle Cone Helmet
+1502000123 | Sleepy Bear Helmet
+1502000124 | Samurai Ops Helmet
+1502000125 | Squirrel Helmet
+1502000126 | Seductress Helmet
+1502000127 | Stars & Stripes Helmet
+1502000128 | Gold and Silk Helmet
+1502000129 | Violet Wonder Helmet
 1502000130 | Officer's Helmet
 1502000132 | Castle Helmet
 1502000133 | Jack-o'-lantern Helmet
