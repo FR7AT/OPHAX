@@ -49,7 +49,7 @@
 1120 | Prize Path Point
 1121 | Bonus Pass Points
 1122 | Prize Path Point
-1123 | New
+1123 | Prize Path Point
 1124 | Casual Points
 1125 | Advanced Casual Points
 1126 | Prize Path Point
@@ -591,8 +591,8 @@
 30623 | Mirage Phantom Avatar Frame
 30624 | Serpent Handler Avatar Frame
 30625 | Kindred Twins Avatar Frame
-30626 |  
-30627 |  
+30626 | Chaosphage Avatar
+30627 | Chaosphage Avatar Frame
 31001 | Air Drop Avatar Frame
 31003 | Dazzling Carnival Avatar
 31004 | Kashta Avatar
@@ -973,13 +973,13 @@
 31450 | PUBGM x Kia Profile
 31451 | WOW Curator Avatar (7d)
 31452 | 2026 Football Festival Avatar
-31453 | New
-31454 | New
-31455 | New
+31453 | Usada Pekora Avatar
+31454 | Usada Pekora(mini character) Avatar
+31455 | Usada Pekora(KV) Avatar
 31456 | Kindred Twins Avatar
 31457 | 5th Anniversary Avatar
 31458 | PUBGM 8th Anniversary Profile
-31459 | New
+31459 | BLUE LOCK Avatar
 31500 |  
 31501 |  
 31502 |  
@@ -2624,7 +2624,7 @@
 601101 | Monster Energy
 601102 | Senzu Bean
 601103 | Red Bull
-601104 | Kavurma
+601104 | Summer Bonfire Barbecue
 601118 | 7th Anniversary Cake
 601200 | Stealth Serum
 601211 | KFC Drink
@@ -4702,15 +4702,15 @@
 1401835 | Poker Duel Parachute
 1401836 | Paperfold Gambit Parachute
 1401837 | Mirage Phantom Parachute
-1401838 | New
-1401839 | New
-1401840 | New
+1401838 | BLUE LOCK Parachute
+1401839 | Ford Parachute
+1401840 | Harley-Davidson® Parachute
 1401841 | Rose Requiem Parachute
 1401842 | Dioscuri Parachute
 1401843 | Laurel Academy Parachute
 1401844 | New
 1401845 | S30 Parachute
-1401846 | Live Chicken Dinner Show Parachute
+1401846 | Trial of Fire Event Parachute
 1402000 | Streetwear Cap
 1402002 | Birthday Hat
 1402004 | Deadly Sweetheart Headband
@@ -9375,16 +9375,16 @@
 1407897 | Mirage Phantom Set
 1407898 | Queen of Suits Set
 1407899 | Legendary Noble Set
-1407900 | New
-1407901 | New
-1407902 | New
-1407903 | New
-1407904 | New
-1407905 | New
+1407900 | Maid Berserker Set
+1407901 | Isagi Yoichi Character Set
+1407902 | Bachira Meguru Character Set
+1407903 | Nagi Seishiro Character Set
+1407904 | Itoshi Rin Character Set
+1407905 | Training Outfit Set
 1407906 | Chaosphage Set
-1407907 | New
-1407908 | New
-1407909 | New
+1407907 | Clash of Duty Set
+1407908 | Harley-Davidson® Blacktop Biker Set
+1407909 | Harley-Davidson® Street Smart Set
 1407910 | Chicken Winner Set
 1407911 | Denim Rebel Set
 1407912 | Lethal Beat Set
@@ -9410,8 +9410,8 @@
 1407932 | New
 1407933 | New
 1407934 | New
-1407935 | New
-1407936 | New
+1407935 | Usada Pekora Set
+1407936 | Usada Pekora(Casual outfit) Set
 1407937 | Lightning Ring Robe Set
 1407938 | Veteran Guard Set
 1407939 | New
@@ -10501,10 +10501,10 @@
 1411087 | Thala Legacy Cover
 1411088 | Queen of Suits Cover
 1411089 | Legendary Noble Cover
-1411090 | New
-1411091 | New
-1411092 | New
-1411093 | New
+1411090 | Maid Berserker Cover
+1411091 | Clash of Duty Glasses
+1411092 | Harley-Davidson® Blacktop Biker Sunglasses
+1411093 | Harley-Davidson® Street Smart Bandana
 1411094 | Chicken Winner Cover
 1411095 | Denim Rebel Cover
 1411096 | Lethal Beat Cover
@@ -10523,7 +10523,7 @@
 1411109 | Stylish Traveler Cover
 1411110 | City Stroll Glasses
 1411111 | Street Wiz Cover
-1411112 | New
+1411112 | Wild rabbit Cover
 1411113 | Veteran Guard Cover
 1411114 | Magixx Cover
 1411115 | Tahilalats Sunset Rhythm Beanie
@@ -19092,7 +19092,7 @@
 1528101 | Progress Crate
 1528102 | Progress Crate
 1528103 | Progress Crate
-1528104 | New
+1528104 | Progress Crate
 1529000 | Daily Surprise Pack
 1529001 | Daily Deal Pack
 1529002 | Daily Deal Pack
@@ -20463,8 +20463,8 @@
 1534597 | Dimensional Diva Space Gift
 1534598 | Multiverse Detective Space Gift
 1534599 | Phoenixtra Space Gift
-1534600 | New
-1534601 | New
+1534600 | Chibi Bachira Meguru Space Gift
+1534601 | Chibi Isagi Yoichi Space Gift
 1534602 | Issam Chaouali Space Gift
 1534603 | Round Chicken Space Gift
 1534604 | WOW Celebrate
@@ -20489,8 +20489,8 @@
 1534623 | Chennai Super Kings Space Gift
 1534624 | Kolkata Knight Riders Space Gift
 1534625 | Toxic Space Gift
-1534626 | New
-1534627 | New
+1534626 | Usada Pekora(mini character) Space Gift
+1534627 | Usada Pekora(KV) Space Gift
 1534628 | Silent Night Unity
 1534629 | Purewing Pact
 1534630 | 5th Anniversary Space Gift
@@ -20634,8 +20634,8 @@
 1535416 | Kolkata Knight Riders Spin Voucher (30 UC)
 1535417 | KKR Spin Voucher (50 UC)
 1535418 | Jujutsu Kaisen Lucky Spin Single Draw Voucher
-1535419 | New
-1535420 | New
+1535419 | Usada Pekora Crate Coupon
+1535420 | BLUE LOCK Lucky Spin Single Draw Voucher
 1535555 | Results LIKE (RP Plus Exclusive)
 1536001 | Custom Pack
 1536002 | Custom Pack
@@ -21138,7 +21138,7 @@
 1540256 | PUBG Lucky Crate
 1540257 | Chaosphage Crate
 1540258 | Chaosphage Crate
-1540259 | PUBG Lucky Crate
+1540259 | Chaosphage Avatar Pack
 1540260 | PUBG Lucky Crate
 1540261 | Polar Spectrophage Select Crate
 1540262 | Polar Spectrophage Crate
@@ -21201,8 +21201,8 @@
 1540319 | PUBG Lucky Crate
 1540320 | PUBG Lucky Crate
 1540321 | Jujutsu Kaisen Character Selection Crate
-1540322 | New
-1540323 | New
+1540322 | BLUE LOCK Character Selection Crate
+1540323 | BLUE LOCK Voice Pack Selection Crate
 1540324 | Harley Crate
 1540325 | Harley Crate
 1540326 | Lion Buddy Outfit Selection Crate
@@ -21818,7 +21818,7 @@
 1601073 | Sailor Bunny Buddy Set
 1601074 | Dream Crystal Buddy Set
 1601075 | Victory Boogie Buddy Set
-1601076 | Color Splash Ray Finish
+1601076 | Color Splash Ray Set
 1601077 | Moonrealm Leo Buddy Set
 1601078 | Wasteland Lion Buddy Set
 1601079 | Tactical Protector Buddy Set
@@ -25485,7 +25485,7 @@
 1702936 | 5th Anniversary Exchange Token
 1702937 | Exclusive Event Toekn
 1702938 | Exchange Coin(JP 8th Anniv)
-1702939 | New
+1702939 | Exchange Coin (Usada Pekora)
 1702940 | 5th Anniversary Trial Key
 1702941 | BMPS 2026 Exchange Token
 1702942 | BGMI Design Contest Spin Token
@@ -27106,8 +27106,8 @@
 1900861 | Yash (Kannada) Limited Voice Pack
 1900862 | Yash (Hindi) Limited Voice Pack
 1900863 | BLUE LOCK Anime
-1900864 | New
-1900865 | New
+1900864 | Usada Pekora(Wild Event)
+1900865 | Usada Pekora(Wild Gift)
 1901001 | Motorcycle
 1901003 | Hot Pizza 2-Seat Motorcycle
 1901004 | Neon Punk 2-Seat Motorcycle (Blue)
@@ -27198,10 +27198,10 @@
 1901104 | Sable Forest Motorcycle
 1901105 | Royal Enfield Bullet 350
 1901106 | Royal Enfield Continental GT 650
-1901107 | New
-1901108 | New
-1901109 | New
-1901110 | New
+1901107 | CVO™ Road Glide® ST (Limited) Set (Midnight Blaze & Polished Chrome)
+1901108 | CVO™ Road Glide® ST (Limited) Full Set (Golden Navy & Champagne Gold)
+1901109 | CVO™ Road Glide® ST Paint (Turquoise Tide)
+1901110 | CVO™ Road Glide® ST Paint (Rally Red)
 1901500 | Arslan Ash Urdu Voice Pack (Ultimate Edition)
 1901501 | Arslan Ash Urdu Voice Pack (Basic Edition)
 1901502 | Capi Gaming Voice Pack (Basic Edition)
@@ -27623,8 +27623,8 @@
 1903222 | Apollo Intensa Emozione (Showdown)
 1903223 | Apollo Intensa Emozione (Tempest)
 1903225 | Starlight Galaxy Dacia
-1903226 | New
-1903227 | New
+1903226 | Kia EV4(Black)
+1903227 | Kia EV4(Yacht Blue Matte)
 1903228 | Starlight Galaxy Dacia
 1904001 | Mini Bus
 1904004 | White Rabbit Bus
@@ -27642,7 +27642,7 @@
 1904017 | Scraggle Plush Bus
 1904018 | Mini Bus(Frieren: Beyond Journey's End)
 1904019 | TV Anime DAN DA DAN Bus
-1904020 | New
+1904020 | Kia PV5(Soft Mint)
 1905001 | Pickup (Open Top)
 1905006 | Wolves Pickup
 1906001 | Pickup (Closed Top)
@@ -27801,7 +27801,7 @@
 1908109 | Porsche Cayenne Turbo GT (Lavaorange)
 1908110 | Misty Soul UAZ
 1908111 | Laurel Academy UAZ
-1908112 | New
+1908112 | Kia EV3(Ivory Silver)
 1908188 | Dodge Hornet GLH Concept - Redline
 1908189 | Dodge Hornet - Sunburst
 1909001 | UAZ (Closed Top)
@@ -27893,7 +27893,7 @@
 1915024 | Dimensional Shuttle Convertible (Lv. 2)
 1915025 | Dimensional Shuttle Convertible (Lv. 3)
 1915026 | Dimensional Shuttle Convertible (Lv. 4)
-1915027 | New
+1915027 | BLUE LOCK Convertible
 1915099 | Golden Mirado (Open Top)
 1916001 | Rony
 1916002 | Rony
@@ -27951,8 +27951,8 @@
 1953016 | Starlight Gleam Monster Truck (Lv. 4)
 1953017 | Thala Monster Truck
 1953018 | Painted Traveler Monster Truck
-1953019 | New
-1953020 | New
+1953019 | Ford F-150 Raptor R (Orange Flame)
+1953020 | Ford F-150 Raptor R (Ruby Red)
 1954001 | Armed Dacia
 1955001 | Armed Pickup
 1956001 | Armed Buggy
@@ -28015,8 +28015,8 @@
 1961065 | Apollo EVO (Radiant Gold)
 1961066 | Apollo EVO (Sunset)
 1961067 | Apollo EVO (Glacier)
-1961068 | New
-1961069 | New
+1961068 | Ford Mustang GTD (Verdant Legend)
+1961069 | Ford Mustang GTD (Spirit of America)
 1961136 | Dodge Challenger SRT Hellcat - Blaze
 1961137 | Bentley Batur (Holoprism)
 1961138 | Bentley Batur (Solar Pulse)
@@ -29761,11 +29761,11 @@
 2200241 | Toxic Avatar Frame
 2200242 | PUBGM x Kia Frame
 2200243 | 2026 Football Festival Frame
-2200244 | New
+2200244 | Usada Pekora Avatar Frame
 2200245 | WOW Curator Avatar Frame
 2200246 | 5th Anniversary Avatar Frame
 2200247 | PUBGM 8th Anniversary Frame
-2200248 | New
+2200248 | BLUE LOCK Avatar Frame
 2200301 | Applause
 2200401 | Laugh
 2200501 | Beckon
@@ -30388,11 +30388,11 @@
 2310284 |  
 2310285 |  
 2310286 |  
-2310287 | New
-2310288 | New
-2310289 | New
-2310290 | New
-2310291 | New
+2310287 | Usada Pekora Graffiti
+2310288 | Usada Pekora(mini character) Graffiti
+2310289 | Usada Pekora(KV) Graffiti
+2310290 | BLUE LOCK Graffiti
+2310291 | Absolute Self Graffiti
 2490001 | Solo Wins
 2490002 | Duo Wins
 2490003 | Squad Wins
@@ -31701,7 +31701,7 @@
 2494420 | PMGO Rising Star
 2494421 | PMGO Regional Elite
 2494422 | PMGO Global Star
-2494423 | Supreme Challenger
+2494423 | Myth Challenger
 2494424 |  
 2494425 |  
 2494426 |  
@@ -32792,7 +32792,7 @@
 4151135 | SAKAMOTO TARO Glider
 4151136 |  
 4151137 |  
-4151138 | New
+4151138 | Crimson Lightning Glider
 4151139 | Celestial Cataclysm Glider
 4151140 | Starlight Galaxy Glider
 4151141 | Cerberus Glider
@@ -32988,7 +32988,7 @@
 4303002 | Nebula
 4303003 |  
 4303004 |  
-4402914 |  
+4402914 | PUBG MOBILE Brainrot Royale Trial Card
 4531001 | Starry Purple Trail
 4531002 | Golden Leaves Trail
 4541001 | Cool Graffiti Footsteps
@@ -33197,7 +33197,7 @@
 4600324 | LEAN
 4600325 | Misaal
 4600326 | Shokir - Восьмой горизонт
-4600329 | HELIOS
+4600329 | HELION
 4700000 | Custom Status - Default
 4700001 | Custom Status - Social Star
 4700002 | Custom Status - Everyone's Favorite
@@ -35439,7 +35439,7 @@
 12220969 | The Pigeon Volley
 12220970 | Hyped Crowd
 12220971 | Extreme Save
-12220972 | New
+12220972 | Peko Rap
 12220975 | Home New Style Pack 3
 12220976 | Home New Style Pack 2
 12220977 | Home New Style Pack 1
@@ -36043,7 +36043,7 @@
 19200122 | Itoshi Rin
 19200123 | Nagi Seishiro
 19200124 | Bachira Meguru
-19200125 | New
+19200125 | Usada Pekora(Wild)
 19200126 | Ravi Gupta Special Voice
 19200127 | Bhuvan Bam Special Voice
 19610200 | Lamborghini Aventador SVJ Verde Alceo
@@ -37068,7 +37068,7 @@
 61100128 | Winged Pegasus Dynamic Info Card (Lv. 3)
 61100129 | Go for Gold Info Card
 61100130 | Finish Line Moment Dynamic Info Card
-61100131 | Helios Info Card
+61100131 | Helion Info Card
 61100132 | S30 Diamond Info Card
 61100134 | Glory Info Card
 61200001 | Default
@@ -37202,7 +37202,7 @@
 61200130 | Winged Pegasus Dynamic Player Card (Lv. 3)
 61200131 | Go for Gold Player Card
 61200132 | Finish Line Moment Dynamic Player Card
-61200133 | Helios Social Player Card
+61200133 | Helion Social Player Card
 61200134 | WOW Curator Player Card
 61300001 | Default
 61300002 | Neon Cat Dynamic Nickname
@@ -37516,7 +37516,7 @@
 61810107 | Relic Helm Sticker
 61810108 | Sanctum Ruins Sticker
 61810109 | Winged Pegasus Sticker
-61810110 | New
+61810110 | Ford Collection Sticker
 61810111 | Omniwarrior
 61820001 | Info Card Background (Basic)
 61820002 | Info Card Background (Advanced)
@@ -39469,10 +39469,10 @@
 66631532 | Royale Pass A18 Collectible Statue
 66631533 | Violeight Wave
 66631534 | Royale Pass A19 Collectible Statue
-66631535 | New
-66631536 | New
-66631537 | New
-66631538 | New
+66631535 | Isagi Yoichi Home Figure
+66631536 | Bachira Meguru Home Figure
+66631537 | Nagi Seishiro Home Figure
+66631538 | Itoshi Rin Home Figure
 66631704 | Black Photo Frame
 66631705 | White Photo Frame
 66631706 | Brown Photo Frame
@@ -40325,8 +40325,8 @@
 99010088 | Energon Core
 99010089 | Temporal Vault
 99010090 | Achilles' Phantom
-99010091 | Hand of the Almighty
-99010092 | Helios
+99010091 | Radiant Hand
+99010092 | Helion
 99010093 | Laurel
 99010096 | Training Ground
 99010097 | Sun Chariot
@@ -40377,8 +40377,12 @@
 99010144 | T. Rex
 99010145 | Velociraptor
 99010146 | Pterosaur
-99010147 | Convertible Car
+99010147 | Roadster
+99010148 | Ford Mustang GTD
+99010149 | PMGO S1 Winner's Trophy
 99010150 | Brilliant Shot
+99010151 | Ford F-150 Raptor
+99010152 | Harley-Davidson
 99010154 | Celebrate Together
 99010155 |  
 99010156 | V4.5 Mysterious Scroll
@@ -40412,8 +40416,8 @@
 99010184 | Rish Kharouf
 99010185 | Mahmoud Trezeguet
 99010186 | Feras Albrikan
-99010187 |  
-99010188 |  
+99010187 | Uğurcan Çakır
+99010188 | Uğurcan Çakır
 99010189 |  
 99010190 |  
 99010191 |  
@@ -41152,9 +41156,9 @@
 417004443 | Retro Moment Ornament
 417004444 | Trendy Cube Ornament
 417004445 | Mirage Phantom Ornament
-417004446 | New
-417004447 | New
-417004448 | New
+417004446 | BLUE LOCK Soccer Ball Ornament
+417004447 | BLUE LOCK Ornament
+417004448 | Ford Ornament
 417004449 | Rose Requiem Ornament
 417004450 | Golden Helm Ornament
 417004451 | Heartstring Bow Ornament
@@ -45237,7 +45241,7 @@
 1101006086 | Panda Darling - AUG
 1101006087 | Hazard Circuit - AUG
 1101006088 | Knight Dominion - AUG
-1101006089 | New
+1101006089 | AUG(Usada Pekora)
 1101007001 | Vampire - QBZ
 1101007002 | Phantom - QBZ
 1101007003 | Raging Chicken - QBZ
@@ -45915,7 +45919,7 @@
 1102003101 | ORDER - Vector
 1102003102 | Standard Protocol - Vector
 1102003103 | Neon Surge - Vector
-1102003104 | New
+1102003104 | Decisive Moment - Vector
 1102003105 | Moonlit Slumber - Vector
 1102003199 | Guncraft Firearm - Vector
 1102004001 | Silver Plate - Thompson SMG
@@ -46888,7 +46892,7 @@
 1104004050 | Okarun(transformed) - DBS (Lv. 4)
 1104004051 | Okarun(transformed) - DBS (Lv. 5)
 1104004052 | Veiled Enchantress - DBS
-1104004053 | New
+1104004053 | Speed Rush - DBS
 1104004054 | Civil Harmony - DBS
 1104101001 | Deadly Carnival - M1014
 1104101002 | Arctic Tracker - M1014
@@ -47222,9 +47226,9 @@
 1108001098 | Inverted Spear of Heaven - Machete (Lv. 3)
 1108001099 | Juan Soto Baseball Bat
 1108001100 | Powerful Pulse - Dagger
-1108001101 | New
-1108001102 | New
-1108001103 | New
+1108001101 | Chain Handcuffs - Machete (Lv. 1)
+1108001102 | Chain Handcuffs - Machete (Lv. 2)
+1108001103 | Chain Handcuffs - Machete (Lv. 3)
 1108001104 | Dioscuri - Machete
 1108002001 | Hockey Stick - Crowbar
 1108002003 | Golden Scepter - Crowbar
@@ -47626,7 +47630,7 @@
 1108004433 | Gold Energy Shield
 1108004434 | Gold Personal Shield
 1108004435 | Lightning Nitrous
-1108004436 | New
+1108004436 | Omelet Rice - Pan
 1108004437 | Foosball - Pan
 1108004438 | Ash Smoke
 1108004439 | Ash Smoke
@@ -48238,8 +48242,8 @@
 1501000717 | S29 Backpack
 1501000718 | Queen of Suits Backpack
 1501000719 | Legendary Noble Backpack
-1501000720 | New
-1501000721 | New
+1501000720 | BLUE LOCK Backpack
+1501000721 | Speed Rush Backpack
 1501000722 | Rose Requiem Backpack
 1501000723 | Mimic Jester Backpack
 1501000724 | Dioscuri Backpack
@@ -48248,7 +48252,7 @@
 1501000727 | Temptuous Whisper Backpack
 1501000728 | Laurel Academy Backpack
 1501000729 | Field Frenzy Backpack
-1501000730 | New
+1501000730 | Usada Pekora Backpack
 1501000731 | Rock Reverb Backpack
 1501000732 | Psionic Electrobolt Backpack
 1501000733 | S30 Backpack
@@ -48870,8 +48874,8 @@
 1501001717 | S29 Backpack (Lv. 1)
 1501001718 | Queen of Suits Backpack (Lv. 1)
 1501001719 | Legendary Noble Backpack (Lv. 1)
-1501001720 | New
-1501001721 | New
+1501001720 | BLUE LOCK Backpack (Lv. 1)
+1501001721 | Speed Rush Backpack (Lv. 1)
 1501001722 | Rose Requiem Backpack (Lv. 1)
 1501001723 | Mimic Jester Backpack (Lv. 1)
 1501001724 | Dioscuri Backpack (Lv. 1)
@@ -48880,7 +48884,7 @@
 1501001727 | Temptuous Whisper Backpack (Lv. 1)
 1501001728 | Laurel Academy Backpack (Lv. 1)
 1501001729 | Field Frenzy Backpack (Lv. 1)
-1501001730 | New
+1501001730 | Usada Pekora Backpack ​​(Lv.1)
 1501001731 | Rock Reverb Backpack (Lv. 1)
 1501001732 | Psionic Electrobolt Backpack (Lv. 1)
 1501001733 | S30 Backpack (Lv. 1)
@@ -49502,8 +49506,8 @@
 1501002717 | S29 Backpack (Lv. 2)
 1501002718 | Queen of Suits Backpack (Lv. 2)
 1501002719 | Legendary Noble Backpack (Lv. 2)
-1501002720 | New
-1501002721 | New
+1501002720 | BLUE LOCK Backpack (Lv. 2)
+1501002721 | Speed Rush Backpack (Lv. 2)
 1501002722 | Rose Requiem Backpack (Lv. 2)
 1501002723 | Mimic Jester Backpack (Lv. 2)
 1501002724 | Dioscuri Backpack (Lv. 2)
@@ -49512,7 +49516,7 @@
 1501002727 | Temptuous Whisper Backpack (Lv. 2)
 1501002728 | Laurel Academy Backpack (Lv. 2)
 1501002729 | Field Frenzy Backpack (Lv. 2)
-1501002730 | New
+1501002730 | Usada Pekora Backpack ​​(Lv.2)
 1501002731 | Rock Reverb Backpack (Lv. 2)
 1501002732 | Psionic Electrobolt Backpack (Lv. 2)
 1501002733 | S30 Backpack (Lv. 2)
@@ -50134,8 +50138,8 @@
 1501003717 | S29 Backpack (Lv. 3)
 1501003718 | Queen of Suits Backpack (Lv. 3)
 1501003719 | Legendary Noble Backpack (Lv. 3)
-1501003720 | New
-1501003721 | New
+1501003720 | BLUE LOCK Backpack (Lv. 3)
+1501003721 | Speed Rush Backpack (Lv. 3)
 1501003722 | Rose Requiem Backpack (Lv. 3)
 1501003723 | Mimic Jester Backpack (Lv. 3)
 1501003724 | Dioscuri Backpack (Lv. 3)
@@ -50144,7 +50148,7 @@
 1501003727 | Temptuous Whisper Backpack (Lv. 3)
 1501003728 | Laurel Academy Backpack (Lv. 3)
 1501003729 | Field Frenzy Backpack (Lv. 3)
-1501003730 | New
+1501003730 | Usada Pekora Backpack​​ (Lv.3)
 1501003731 | Rock Reverb Backpack (Lv. 3)
 1501003732 | Psionic Electrobolt Backpack (Lv. 3)
 1501003733 | S30 Backpack (Lv. 3)
@@ -50552,8 +50556,8 @@
 1502000492 | Mirage Phantom Helmet
 1502000493 | Queen of Suits Helmet
 1502000494 | Legendary Noble Helmet
-1502000495 | New
-1502000496 | New
+1502000495 | Jigsaw Puzzle Helmet
+1502000496 | Speed Rush Helmet
 1502000497 | Dioscuri Helmet
 1502000498 | Serpent Handler Helmet
 1502000499 | Bloodfeather Spartan Helmet
@@ -50984,8 +50988,8 @@
 1502001492 | Mirage Phantom Helmet (Lv. 1)
 1502001493 | Queen of Suits Helmet (Lv. 1)
 1502001494 | Legendary Noble Helmet (Lv. 1)
-1502001495 | New
-1502001496 | New
+1502001495 | Jigsaw Puzzle Helmet (Lv. 1)
+1502001496 | Speed Rush Helmet (Lv. 1)
 1502001497 | Dioscuri Helmet (Lv. 1)
 1502001498 | Serpent Handler Helmet (Lv. 1)
 1502001499 | Bloodfeather Spartan Helmet (Lv. 1)
@@ -51416,8 +51420,8 @@
 1502002492 | Mirage Phantom Helmet (Lv. 2)
 1502002493 | Queen of Suits Helmet (Lv. 2)
 1502002494 | Legendary Noble Helmet (Lv. 2)
-1502002495 | New
-1502002496 | New
+1502002495 | Jigsaw Puzzle Helmet (Lv. 2)
+1502002496 | Speed Rush Helmet (Lv. 2)
 1502002497 | Dioscuri Helmet (Lv. 2)
 1502002498 | Serpent Handler Helmet (Lv. 2)
 1502002499 | Bloodfeather Spartan Helmet (Lv. 2)
@@ -51848,8 +51852,8 @@
 1502003492 | Mirage Phantom Helmet (Lv. 3)
 1502003493 | Queen of Suits Helmet (Lv. 3)
 1502003494 | Legendary Noble Helmet (Lv. 3)
-1502003495 | New
-1502003496 | New
+1502003495 | Jigsaw Puzzle Helmet (Lv. 3)
+1502003496 | Speed Rush Helmet (Lv. 3)
 1502003497 | Dioscuri Helmet (Lv. 3)
 1502003498 | Serpent Handler Helmet (Lv. 3)
 1502003499 | Bloodfeather Spartan Helmet (Lv. 3)
@@ -51904,3 +51908,7 @@
 2103001002 | Scorching - Kar98K (30d)
 2103004003 | Skeleton Hand - SKS (7d)
 2108004002 | Two Eggs - Pan (7d)
+1515805 | Swim CRATE
+1515806 | Swim CRATE Pack
+1515807 | Vehicle CRATE
+1515808 | Vehicle CRATE Pack
