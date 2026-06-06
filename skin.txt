@@ -9301,10 +9301,10 @@
 1407823 | ASAKURA SHIN Set
 1407824 | OSARAGI Set
 1407825 | SAKAMOTO TARO Set
-1407826 | PUBGM X aespa KARINA set
-1407827 | PUBGM X aespa GISELLE set
-1407828 | PUBGM X aespa WINTER set
-1407829 | PUBGM X aespa NINGNING set
+1407826 | PUBG MOBILE × aespa KARINA Set
+1407827 | PUBG MOBILE × aespa GISELLE Set
+1407828 | PUBG MOBILE × aespa WINTER Set
+1407829 | PUBG MOBILE × aespa NINGNING Set
 1407830 | Revel 01 Set
 1407831 | Al Shami Stylish Set
 1407832 | Tailgate Craze Set
@@ -9414,14 +9414,14 @@
 1407936 | Usada Pekora(Casual outfit) Set
 1407937 | Lightning Ring Robe Set
 1407938 | Veteran Guard Set
-1407939 | New
-1407940 | New
-1407941 | New
-1407942 | New
-1407943 | New
-1407944 | New
-1407945 | New
-1407946 | New
+1407939 | Quinas Legacy Set
+1407940 | Uğurcan Çakır's Set
+1407941 | Striker Set
+1407942 | Coronation Kiss Set
+1407943 | White Wolves Jersey
+1407944 | Albiceleste Set
+1407945 | Overlord's Decree Set
+1407946 | Babylonian Lion Set
 1407947 | Magixx Set
 1407948 | Tahilalats Summer Chill Set
 1407949 | S30 Set
@@ -27098,7 +27098,7 @@
 1900853 | Not Your Type Basic Voice
 1900854 | Simpp Basic Voice
 1900855 | Zgod Basic Voice
-1900856 | PUBG MOBILE × aespa Voice Card (Event)
+1900856 | PUBG MOBILE × aespa Voice (Event)
 1900857 | SAKAMOTO TARO_B(EVENT)
 1900858 | Nakiri Ayame(Event)
 1900859 | Harsh Rajput Basic Voice
@@ -32988,7 +32988,7 @@
 4303002 | Nebula
 4303003 |  
 4303004 |  
-4402914 | PUBG MOBILE Brainrot Royale Trial Card
+4402914 | Brainrot Trial Card
 4531001 | Starry Purple Trail
 4531002 | Golden Leaves Trail
 4541001 | Cool Graffiti Footsteps
@@ -33179,6 +33179,7 @@
 4600289 | Frosted Dreams
 4600290 | Khel Meri Jaan
 4600291 | Eid Melady
+4600297 | Fight Until The End
 4600298 | Al Shami - Doctor
 4600299 | MALAPETAKA
 4600300 | AY YOLA - Homay
@@ -33198,6 +33199,8 @@
 4600325 | Misaal
 4600326 | Shokir - Восьмой горизонт
 4600329 | HELION
+4600330 | Dark Arts - aespa
+4600331 | Whiplash - aespa
 4700000 | Custom Status - Default
 4700001 | Custom Status - Social Star
 4700002 | Custom Status - Everyone's Favorite
@@ -35295,8 +35298,8 @@
 12220730 | Super Handshake
 12220731 |  
 12220732 | Cricket Emote
-12220733 | PUBGM X aespa - Whiplash
-12220734 | PUBGM X aespa - Dark Arts
+12220733 | PUBG MOBILE × aespa - Whiplash Emote
+12220734 | PUBG MOBILE × aespa - Dark Arts Emote
 12220735 | Step & Sway
 12220736 | Evolving Universe MVP Emote
 12220737 |  
@@ -36028,10 +36031,10 @@
 19200107 | Not Your Type Special Voice
 19200108 | Simpp Special Voice
 19200109 | Zgod Special Voice
-19200110 | PUBGM X aespa KARINA voice
-19200111 | PUBGM X aespa GISELLE voice
-19200112 | PUBGM X aespa WINTER voice
-19200113 | PUBGM X aespa NINGNING voice
+19200110 | PUBG MOBILE × aespa KARINA Voice
+19200111 | PUBG MOBILE × aespa GISELLE Voice
+19200112 | PUBG MOBILE × aespa WINTER Voice
+19200113 | PUBG MOBILE × aespa NINGNING Voice
 19200114 | SAKAMOTO TARO_A
 19200115 | ASAKURA SHIN
 19200116 | NAGUMO
@@ -40297,205 +40300,6 @@
 99010060 | TT
 99010061 | DK
 99010062 | DRX
-99010063 | DX
-99010064 | AE
-99010065 | AE-ROSEMARY
-99010066 | R8-AMOORI
-99010067 | KARA-CEO
-99010068 | ULF-KECTH
-99010069 | GOAT
-99010070 | REG
-99010071 | MAD
-99010072 | EA
-99010073 | R8
-99010074 | KARA
-99010075 | VPE
-99010076 | FL
-99010077 | Desert Camels
-99010078 | Celestial Golden Dome
-99010079 | Reversal Blade
-99010080 | The Princess' Dream
-99010081 | Attack Titan
-99010082 | Colossal Titan
-99010083 | Captain Levi
-99010084 | Train
-99010085 | Cybertron
-99010086 | Decepticon Leader
-99010087 | Autobot Leader
-99010088 | Energon Core
-99010089 | Temporal Vault
-99010090 | Achilles' Phantom
-99010091 | Radiant Hand
-99010092 | Helion
-99010093 | Laurel
-99010096 | Training Ground
-99010097 | Sun Chariot
-99010098 | Golden Ball
-99010099 | Sacred Fire
-99010100 | Wax Wings
-99010101 | Heart of Fury
-99010102 | Spartan Infantry
-99010103 | Battle Flag
-99010104 | Trial Point
-99010105 | Pandora's Crate
-99010106 | Floating Door
-99010107 | Crown's Abode
-99010108 | BLUE LOCK
-99010109 | Nagi Seishiro
-99010110 | Isagi Yoichi
-99010111 | Bachira Meguru
-99010112 | Chigiri Hyoma Vehicle
-99010113 | Itoshi Rin
-99010114 | BLUE LOCK Backpack
-99010115 | Prison Shackles
-99010116 | Soccer Ball Pendant
-99010117 | 67
-99010118 | Droppalero Droppala
-99010119 | Simit Kedi
-99010120 | Pingu
-99010121 | Habibini Panini
-99010122 | La Esok Sekolah
-99010123 | Bananino Taurino
-99010124 | Pesciolino Cascolino
-99010125 | Capibarello Cocosini
-99010126 | Padellone Testosterone
-99010127 | Maasai Maasai Maasai Sahur
-99010128 | Rickshaw TukTukini
-99010129 | Caramello Filtrello
-99010130 | Pato Pato Quack Quack
-99010131 | Argentina National Football Team
-99010132 | Portugal National Football Team
-99010134 | Iraq National Football Team
-99010135 | Uzbekistan National Football Team
-99010136 | Richarlison
-99010137 | Rizky Ridho
-99010138 | Mahmoud Trezeguet
-99010139 | Issam Chaouali
-99010140 | Feras Albrikan
-99010141 | Richarlison
-99010143 | Rizky Ridho
-99010144 | T. Rex
-99010145 | Velociraptor
-99010146 | Pterosaur
-99010147 | Roadster
-99010148 | Ford Mustang GTD
-99010149 | PMGO S1 Winner's Trophy
-99010150 | Brilliant Shot
-99010151 | Ford F-150 Raptor
-99010152 | Harley-Davidson
-99010154 | Celebrate Together
-99010155 |  
-99010156 | V4.5 Mysterious Scroll
-99010157 |  
-99010158 |  
-99010159 | Prometheus' Trial
-99010160 | Spartan's Trial
-99010161 |  
-99010162 | Centaur Warrior
-99010163 | Elite Heroic Spirit
-99010164 | Icarus Pickup
-99010165 | Kabsa
-99010166 | Dolma
-99010167 | Kharouf Mashwi
-99010168 | Kebdah
-99010169 | Ra's kharoof
-99010170 | Mashawi Mshakal
-99010171 | Malfouf
-99010172 | Hummus with Spiced Meat
-99010173 | Mandi
-99010174 | Fattah
-99010175 | Shish Kebab
-99010176 | Kofta
-99010177 | Mansaf
-99010178 | Couscous
-99010179 | Kibbeh
-99010180 | Ma'amul
-99010181 | Kunafa
-99010182 | Baklava
-99010183 | Tabbouleh
-99010184 | Rish Kharouf
-99010185 | Mahmoud Trezeguet
-99010186 | Feras Albrikan
-99010187 | Uğurcan Çakır
-99010188 | Uğurcan Çakır
-99010189 |  
-99010190 |  
-99010191 |  
-99010192 |  
-99010193 |  
-99010194 |  
-99010195 |  
-99010196 |  
-99010197 |  
-99010198 |  
-99010199 |  
-99010200 |  
-99010201 |  
-99010202 |  
-99010203 |  
-99010204 |  
-99010205 |  
-99010206 |  
-99010207 |  
-99010208 |  
-99010209 |  
-99010210 |  
-99010211 |  
-99010212 |  
-99010213 |  
-99010214 |  
-99010215 |  
-99999999 | Ignis X-Suit (4-Star)
-101001002 | Glory - AKM
-101001027 | Bright Yellow - AKM
-101002001 | Sharktooth - M16A4
-101002002 | Blue Tint - M16A4
-101003001 | Rage - SCAR-L
-102001001 | Rage - UZI
-102002001 |  
-102002002 | Glory - UMP45
-102004001 | Blue Tint - Thompson SMG
-103001001 | Blue Tint - Kar98K
-106001001 | Rage - P92
-106002001 | Blue Tint - P1911
-140008945 | Sea Spirit Cap (45d)
-140008960 | Sea Spirit Cap (60d)
-140015503 | Horse Mask (3d)
-140023703 | White Rabbit Set (3d)
-140028260 | Skeleton Suit (60d)
-140032803 | Bunny Swimsuit Headband (3d)
-140032903 | Bunny Swimsuit (Black) (3d)
-140038945 | Lucky Chicken Cover (45d)
-140038960 | Lucky Chicken Cover (60d)
-140041403 | Angry Teddy Mask (3d)
-140041503 | Angry Teddy Suit (3d)
-140046460 | Riveting Set (Male) (60d)
-140047320 | Racer Set (Blue) (20d)
-140047330 | Racer Set (Blue) (30d)
-140047845 | Lumberjack Set (Female) (45d)
-140047860 | Lumberjack Set (Female) (60d)
-140052645 | Slayer Bear Set (45d)
-140052660 | Slayer Bear Set (60d)
-140066120 | Mountaineer Set (20d)
-140066130 | Mountaineer Set (30d)
-140070801 | Crew Uniform
-140070802 | Crew Uniform
-140070803 | Crew Uniform
-140070804 | Crew Uniform
-140070805 | Crew Uniform
-140070806 | Crew Uniform
-140210745 | Operation Leo Beret (45d)
-140210760 | Operation Leo Beret (60d)
-140224445 | S6 Crew Challenge Victor Mask (45d)
-140224460 | S6 Crew Challenge Victor Mask (60d)
-140225700 | Riot Force Cover
-140245415 | Sonic Hunter Headgear (15d)
-140256807 | Karaagekun Headgear (7d)
-140256814 | Karaagekun Headgear (14d)
-140256830 | Karaagekun Headgear (30d)
-140259207 | ZENITH Graphic Helmet (7d)
-140260207 | Karaagekun Headgear (Red) (7d)
-140260214 | Karaagekun Headgear (Red) (14d)
 140260230 | Karaagekun Headgear (Red) (30d)
 140301645 | Crew Challenge Victor Mask (45d)
 140301660 | Crew Challenge Victor Mask (60d)
@@ -42768,6 +42572,7 @@
 1010012593 | Quickdraw Mag
 1010012594 | Extended Quickdraw Mag
 1010012595 | Canted Sight
+1010012671 | PUBG MOBILE × aespa - AKM Mag
 1010012692 | 6x Scope
 1010012693 | 4x Scope
 1010012694 | 3x Scope
@@ -44352,6 +44157,8 @@
 1050010644 | Gun Shield
 1050010645 | 6x Scope
 1050010646 | Canted Sight
+1050010771 | PUBG MOBILE × aespa - M249 Mag
+1050010772 | PUBG MOBILE × aespa - M249 Stock
 1050020842 | 6x Scope
 1050020843 | 4x Scope
 1050020844 | 3x Scope
@@ -44606,7 +44413,7 @@
 1101001264 | Sandspring Dominion - AKM (Lv. 7)
 1101001265 | Sandspring Dominion - AKM (Lv. 8)
 1101001266 | Violet Revenant - AKM
-1101001267 | PUBGM X aespa - AKM
+1101001267 | PUBG MOBILE × aespa - AKM
 1101001268 | Swift Assault - AKM
 1101001269 | Pulsing Light - AKM (Lv. 1)
 1101001270 | Pulsing Light - AKM (Lv. 2)
@@ -46960,7 +46767,7 @@
 1105001074 | Predator Protocol - M249 (Lv. 4)
 1105001075 | Predator Protocol - M249 (Lv. 5)
 1105001076 | C9S27 - M249
-1105001077 | PUBGM X aespa - M249
+1105001077 | PUBG MOBILE × aespa - M249
 1105001078 | Pineapple Summer - M249
 1105001079 | Wingless Pigeon - M249
 1105002001 | Silver Plate - DP-28
@@ -47613,7 +47420,7 @@
 1108004416 | Flame Dance Fan - Pan (Lv. 3)
 1108004417 | Arcane Mirror - Pan
 1108004418 | SAKAMOTO TARO Pan
-1108004419 | PUBGM X aespa - Pan
+1108004419 | PUBG MOBILE × aespa - Pan
 1108004420 | Pollen Smoke
 1108004421 | Five-Color Deer
 1108004422 | Fluorescent Vine
@@ -50541,7 +50348,7 @@
 1502000477 | Jade Viper Helmet
 1502000478 | Fragmented Moon Helmet
 1502000479 | Lotus Koi Helmet
-1502000480 | PUBGM X aespa helmet
+1502000480 | PUBG MOBILE × aespa Helmet
 1502000481 | CrankGuard Helmet
 1502000482 | S28 Helmet
 1502000483 | Jester's Gambit Helmet
@@ -50973,7 +50780,7 @@
 1502001477 | Jade Viper Helmet (Lv. 1)
 1502001478 | Fragmented Moon Helmet (Lv. 1)
 1502001479 | Lotus Koi Helmet (Lv. 1)
-1502001480 | PUBGM X aespa helmet(Lv.1)
+1502001480 | PUBG MOBILE × aespa Helmet (Lv. 1)
 1502001481 | CrankGuard Helmet (Lv. 1)
 1502001482 | S28 Helmet (Lv. 1)
 1502001483 | Jester's Gambit Helmet (Lv. 1)
@@ -51405,7 +51212,7 @@
 1502002477 | Jade Viper Helmet (Lv. 2)
 1502002478 | Fragmented Moon Helmet (Lv. 2)
 1502002479 | Lotus Koi Helmet (Lv. 2)
-1502002480 | PUBGM X aespa helmet(Lv.2)
+1502002480 | PUBG MOBILE × aespa Helmet (Lv. 2)
 1502002481 | CrankGuard Helmet (Lv. 2)
 1502002482 | S28 Helmet (Lv. 2)
 1502002483 | Jester's Gambit Helmet (Lv. 2)
@@ -51837,7 +51644,7 @@
 1502003477 | Jade Viper Helmet (Lv. 3)
 1502003478 | Fragmented Moon Helmet (Lv. 3)
 1502003479 | Lotus Koi Helmet (Lv. 3)
-1502003480 | PUBGM X aespa helmet(Lv.3)
+1502003480 | PUBG MOBILE × aespa Helmet (Lv. 3)
 1502003481 | CrankGuard Helmet (Lv. 3)
 1502003482 | S28 Helmet (Lv. 3)
 1502003483 | Jester's Gambit Helmet (Lv. 3)
