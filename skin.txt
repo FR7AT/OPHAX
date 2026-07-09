@@ -123,7 +123,7 @@
 1317 | Katia's Support Lv. 3
 1318 |  
 1319 | Metro Royale Honor
-1320 | Rookie Roulette Lottery Ticket
+1320 | Rookie Points
 1321 | Rookie Mission Points
 1322 | Ray Pass Points
 1323 | Exploration Points
@@ -150,7 +150,7 @@
 2353 | Exclusive Voucher
 2354 | Deal Voucher
 2355 | Home Face-Off Mystery Reward
-2356 | USD
+2356 | Reward
 2357 | US $100
 2401 | Exclusive Voucher
 10001 | Newbie
@@ -162,7 +162,8 @@
 20004 | Remove Card
 20005 | Shared Portable Closet
 20006 | Season Portable Closet (Plus Exclusive)
-23561 | USD
+23561 | Reward
+23562 | Ninja Rank Credits
 30001 | Berserker
 30002 | Sharpshooter
 30003 | Rookie
@@ -566,6 +567,7 @@
 30420 | S28 Arena Elite Avatar
 30421 | S29 Arena Elite Avatar
 30422 | S30 Arena Elite Avatar
+30423 | S31 Arena Elite Avatar
 30601 | Sugarcone Darling Avatar Frame
 30602 | Blizzard Belle Avatar Frame
 30603 | Cryonix Wraith Avatar
@@ -593,6 +595,12 @@
 30625 | Kindred Twins Avatar Frame
 30626 | Chaosphage Avatar
 30627 | Chaosphage Avatar Frame
+30628 | Naruto (Six Paths Mode) Avatar
+30629 | Phantasia Siren Avatar
+30630 | Naruto (Six Paths Mode) Avatar Frame
+30631 | Phantasia Siren Avatar Frame
+30632 | Cybernetic Samurai Avatar Frame
+30633 | Sakura Neko Avatar Frame
 31001 | Air Drop Avatar Frame
 31003 | Dazzling Carnival Avatar
 31004 | Kashta Avatar
@@ -921,12 +929,14 @@
 31330 | Speed Victory Avatar
 31331 | RP Avatar (A19)
 31332 | Valiant Crown Avatar
+31333 | RP Avatar (A20)
+31334 | Sakura Haruno Avatar
 31400 | Shared Home Avatar
 31401 | Godzilla King of the Monsters Avatar
 31403 | Astral Starscape Avatar
 31404 | Colossal Titan Avatar
 31405 | Optimus Prime Avatar
-31406 | mikochi(mini character) Avatar
+31406 | みこち(ミニキャラ)アイコン​
 31407 | 35Pアイコン
 31408 | さくらみこコラボKVアイコン​
 31409 | PUBGM X QWER profile
@@ -964,7 +974,7 @@
 31441 | SAKAMOTO TARO Avatar
 31442 | Nakiri Ayame Avatar
 31443 | Nakiri Ayame(KV) Avatar
-31444 | Nakiri Ayame(mini character) Avatar
+31444 | Nakiri Ayame(ミニキャラ) Avatar
 31445 | Joker Avatar
 31446 | Chennai Super Kings Avatar
 31447 | Kolkata Knight Riders Avatar
@@ -980,16 +990,24 @@
 31457 | 5th Anniversary Avatar
 31458 | PUBGM 8th Anniversary Profile
 31459 | BLUE LOCK Avatar
-31500 |  
-31501 |  
-31502 |  
-31503 |  
-31504 |  
-31505 |  
-31506 |  
-31507 |  
-31508 |  
-31509 |  
+31460 | Spider-Man: Brand New Day Avatar
+31461 | NARUTO Avatar
+31462 | New
+31463 | New
+31464 | New
+31465 | New
+31466 | New
+31467 | New
+31468 | New
+31501 | Vibrant Vacation Avatar
+31502 | Golden Legacy Avatar
+31503 | Independence Day Avatar
+31504 | Four Great Houses Avatar
+31505 | Ayo Maff Avatar
+31506 | Rhyming Tentacle Avatar
+31507 | Dare to 1v1? Avatar
+31508 | 2026 PMGO S2 Avatar
+31509 | Turf Goat Avatar
 31510 |  
 31511 |  
 31512 |  
@@ -1040,6 +1058,7 @@
 32007 | Guardian Dragon Avatar
 32008 | Sound Wave Vision Avatar
 32009 | Winged Pegasus Avatar
+32010 | Mystic Fox Avatar
 32416 |  
 35000 | Pan of Gold Avatar
 35001 | Cherished Firearm Avatar
@@ -1097,10 +1116,15 @@
 40043 | Chapter 32 Elite Avatar
 40044 | Chapter 32 Hero Avatar Frame
 40045 | Chapter 32 Legend Name Tag
+40046 | Chapter 33 Elite Avatar
+40047 | Chapter 33 Hero Avatar Frame
+40048 | Chapter 33 Legend Name Tag
 40232 | S29 Ace Dominator Avatar
 40233 | S29 Supreme 30-Star Dynamic Avatar
 40242 | S30 Ace Dominator Avatar
 40243 | S30 Supreme 30-Star Dynamic Avatar
+40252 | S31 Ace Dominator Avatar
+40253 | S31 Supreme 30-Star Dynamic Avatar
 41001 |  
 41002 |  
 41003 |  
@@ -1108,7 +1132,7 @@
 41005 |  
 41006 |  
 41007 | Season 11 Arena Scoreboard
-50000 |  
+50000 | Ray
 50001 | Falcon
 50002 | German Shepherd
 50003 | Buddy Godzilla
@@ -1155,6 +1179,7 @@
 50044 | Cocoa Cub Buddy
 50045 | Bunny Buddy
 50046 | Cursed Corpse Tsukamoto Buddy
+50047 | Kurama Buddy
 60001 | C7S20 Casual Crown Avatar
 60002 | C7S20 Casual Crown Name Tag
 60003 | C7S20 Casual Ace Avatar Frame
@@ -1222,6 +1247,12 @@
 60065 | S30 Casual Ace Name Tag
 60066 | S30 Dual Ace Avatar Frame
 60067 | S30 Dual Ace Name Tag
+60068 | S31 Casual Crown Avatar
+60069 | S31 Casual Crown Name Tag
+60070 | S31 Casual Ace Avatar Frame
+60071 | S31 Casual Ace Name Tag
+60072 | S31 Dual Ace Avatar Frame
+60073 | S31 Dual Ace Name Tag
 61010 | Recall Beacon
 70001 | Wonder Season S1 Avatar 
 70002 | Wonder Season S1 Avatar Frame
@@ -1417,6 +1448,7 @@
 108035 | Portable Med Pack
 108099 | Vanquisher's Blade
 108194 | Rocket Pillow
+108200 | Peter Parker's Gloves
 111504 | SWEETS PARADISE Creat
 111505 | Daily Deal Pack (Prime Plus Exclusive)
 150001 | Halloweeks Doll - Egyptian Dance
@@ -1791,6 +1823,12 @@
 221394 | S30 Ace Master Name Tag
 221395 | S30 Ace Dominator Name Tag
 221396 | S30 Conqueror Name Tag
+221492 | S31 Crown Name Tag
+221493 | S31 Ace Name Tag
+221494 | S31 Ace Master Name Tag
+221495 | S31 Ace Dominator Name Tag
+221496 | S31 Conqueror Name Tag
+221497 | NARUTO Name Tag
 230219 | Lucky Chicken Mate Draw Voucher
 230220 | Gilded Emerald - UZI (3d)
 230221 | Support & Win Spin Token
@@ -2492,6 +2530,8 @@
 452001 | Icy Gloves
 452002 | Ink Mist Gloves
 452003 | Quicksand Gloves
+452004 | Web Gloves Model
+452105 | Web-Swinging Gloves Model
 474031 | Cloth Bandana (Leopard)
 480101 | Returner Purchase Rebate Pack
 490101 | Returner Purchase Rebate Pack
@@ -2631,6 +2671,7 @@
 601212 | KFC Nuggets
 601213 | KFC Chicken Bucket
 601214 | KFC Chicken Dinner
+601463 | Special Challenge Card
 602001 | Stun Grenade
 602002 | Smoke Grenade
 602003 | Molotov Cocktail
@@ -2739,6 +2780,9 @@
 602129 | Dragonborne Wings Glider
 602130 | Default Glider
 602131 | Imperial Phoenix Glider
+602132 | Earthly Pedestal Glider
+602133 | Earthly Pedestal Glider
+602134 | Earthly Pedestal Glider
 602200 |  
 602201 | Proxy Scout Device
 602202 | The Fool Card
@@ -2755,6 +2799,7 @@
 602215 | Gemini Crate
 602420 | Co-op Wristband
 602602 | Grooving Grenade
+602603 | Blue Octo Grenade
 603001 | Fuel Battery Pack
 603003 | Vehicle Repair Pack
 603004 | Armor Repair Item (Basic)
@@ -2850,6 +2895,8 @@
 604146 |  
 604147 | Magic Ice Skates
 604148 | Puff-Puff Inflatable Suit
+604149 | Peter Parker's Hoodie
+604150 | CarryMinati Exchange Token
 604154 | Magic Broom
 604157 | Floating Balloon
 604158 | Floating Balloon
@@ -3055,6 +3102,7 @@
 888128 | Turf New Star
 888129 | Turf Master
 888130 | Peerless Soccer Champ
+888131 | Nine-Tails
 999997 | Character Selection Crate
 1000001 | Warm Heart Pack
 1000002 | Premium Warm Heart Pack
@@ -3141,6 +3189,7 @@
 1000084 | Vera's Return Gift
 1000085 | Katia's Return Gift
 1000098 | Advanced Firearm Pack
+1000100 | Mysterious Voucher
 1004001 | Alloy Armor
 1010011 | AKM (Damaged)
 1010012 | AKM (Repaired)
@@ -3493,6 +3542,8 @@
 1081202 | Thunderclap Judicator
 1081203 | Glacix Arbiter
 1081204 | Glacix Arbiter
+1081205 | Karambit - Blazing Sun
+1081206 | Karambit - Blazing Sun
 1201001 | Healing Wave
 1201002 | Shockwave Generator
 1201003 | Explosive Ammo
@@ -4288,7 +4339,7 @@
 1401133 | Season 15 Parachute
 1401134 | Tulip Parachute
 1401135 | Fiend's Ire Parachute
-1401137 | Stylin' 14 Ace Parachute
+1401137 | Season 14 Ace Parachute
 1401138 | Pro League - Parachute (Gold)
 1401139 | Pro League - Parachute (Silver)
 1401140 | Cool Camel Parachute
@@ -4711,6 +4762,16 @@
 1401844 | New
 1401845 | S30 Parachute
 1401846 | Trial of Fire Event Parachute
+1401847 | Cybernetic Samurai Parachute
+1401848 | Naruto Parachute
+1401849 | Atlantean Ranger Parachute
+1401850 | Ferrari Parachute
+1401851 | Wave Cascade Parachute
+1401852 | New
+1401853 | Keep Away Parachute
+1401854 | Darkwing Aura Parachute
+1401855 | Meow Fuzzster Parachute
+1401856 | Infinix Parachute
 1402000 | Streetwear Cap
 1402002 | Birthday Hat
 1402004 | Deadly Sweetheart Headband
@@ -5082,7 +5143,7 @@
 1402445 | Iron Crown Headgear
 1402446 | Masked Comedian Hat
 1402447 | Antelope Scout Cover
-1402448 | Stylin' 14 Headgear
+1402448 | Season 14 Headgear
 1402449 | Mr. Fox Headgear
 1402450 | Scarlet Rogue Cover
 1402451 | Dazzling Youth Headgear
@@ -5423,7 +5484,7 @@
 1402905 | C1S3 Cover
 1402906 | Disco Champ Cover
 1402907 | Deep Sea Cyscout Cover
-1402908 | Casino Mogul Cover
+1402908 | Tycoon Mogul Cover
 1402909 | Lethal Creepster Cover
 1402910 | Cactus Constable Cover
 1402912 | Ironblood Sheriff Cover
@@ -5624,7 +5685,7 @@
 1403153 | Snow Speedster Mask
 1403154 | Blood Lotus Mask
 1403155 | Dark Assassin Mask
-1403156 | Sacred Sentinel Mask
+1403156 | Temple Guardian Mask
 1403157 | Jungle Ranger Mask
 1403158 | Phantom Catgirl Headgear
 1403159 | Masked Hunter Mask
@@ -5732,7 +5793,7 @@
 1403314 | Punk Goon Mask
 1403315 | Farm Fresh Mask
 1403316 | Dream Rancher Glasses
-1403317 | Casino Mogul Glasses
+1403317 | Tycoon Mogul Glasses
 1403318 | Lethal Creepster Mask
 1403323 | Underworld Outlaw Mask
 1403324 | Mystic Vagabond Mask
@@ -6047,6 +6108,14 @@
 1403767 | Street Wiz Glasses
 1403768 | S30 Glasses
 1403769 | S30 Mask
+1403770 | Tobi's Mask
+1403771 | Konoha Anbu Mask
+1403772 | Crimson Bigcat Glasses
+1403773 | Sunbasker Glasses
+1403774 | Tide Tracker Glasses
+1403775 | Meow Fuzzster Cover
+1403776 | Meow Fuzzster Mask
+1403777 | Carry Minati Glasses
 1404000 | BAPE City Camo Hoodie
 1404001 | Creator T-Shirt
 1404002 | BAPE City Camo Pants
@@ -6558,6 +6627,15 @@
 1404526 | Turf Superfan Top
 1404527 | Turf Superfan Skirt
 1404528 | Turf Superfan Shoes
+1404529 | New
+1404530 | New
+1404531 | New
+1404532 | New
+1404534 | Seaside Traveler Top
+1404535 | Seaside Traveler Bottoms
+1404536 | Light Ninjawear Top
+1404537 | Light Ninjawear Bottoms
+1404538 | Light Ninjawear Shoes
 1405000 | Winter Dress
 1405001 | Yeti Suit
 1405002 | Extreme Punk Set
@@ -7134,7 +7212,7 @@
 1405595 | Night Commander Set
 1405596 | Super Agent Set
 1405597 | Urban Stroll Set
-1405598 | Stylin' 14 Outfit
+1405598 | Season 14 Outfit
 1405599 | Temporal Ninja Set
 1405600 | Night Warrior Set
 1405601 | Cyber Assassin Set
@@ -7753,7 +7831,7 @@
 1406260 | Plated Guardian Set
 1406261 | Goth Aviator Set
 1406262 | Scarlet Ranger Set
-1406263 | Casino Mogul Set
+1406263 | Tycoon Mogul Set
 1406264 | Cactus Constable Set
 1406265 | Executioner Set
 1406266 | Scorpion Assassin Set
@@ -9427,7 +9505,101 @@
 1407949 | S30 Set
 1407955 |  
 1407956 |  
+1407957 | Cybernetic Samurai Set
+1407958 | Nightfall Stalker Set
+1407959 | Pink Bunny Cadet Set
+1407960 | The Fourth's Cloak Set
+1407961 | Naruto Outfit Set
+1407962 | Naruto Uzumaki Character Set
+1407963 | Sasuke Uchiha Character Set
+1407964 | Sakura Haruno Character Set
+1407965 | Kakashi Character Set
+1407966 | Hinata Hyuga Character Set
+1407967 | Gaara Character Set
+1407968 | Tsunade Character Set
+1407969 | Madara Uchiha Character Set
+1407970 | Jiraiya Character Set
+1407971 | Akatsuki Set
+1407972 | Elite Hidden Leaf Ninja Set
+1407973 | Konoha Anbu Set
+1407974 | Atlantean Ranger Set
+1407975 | Crimson Bigcat Set
+1407976 | Futuretech Jackal Set
+1407977 | Racing Superstar Set
+1407978 | Street Breaker Set
+1407979 | Sunbasker Set
+1407980 | Tide Tracker Set
+1407981 | Electron Energy Set
+1407982 | Proton Power Set
+1407983 | Sakura Neko Set
+1407984 | Verdant Druvaen X-Suit (1-Star)
+1407985 | Verdant Druvaen X-Suit (2-Star)
+1407986 | Verdant Druvaen X-Suit (3-Star)
+1407987 | Verdant Druvaen X-Suit (4-Star)
+1407988 | Verdant Druvaen X-Suit (5-Star)
+1407989 | Verdant Druvaen X-Suit (6-Star)
+1407990 | Verdant Druvaen X-Suit (7-Star)
+1407991 | Equinox Vulpes Set
+1407992 | Darkmoon Corvus Set
+1407993 | Naruto (Sage Mode) Character Set
+1407994 | Naruto (Six Paths Mode) Character Set
+1407995 | Phantasia Siren Set
+1407996 | Energetic Beat Set
+1407997 | Puppet Maestro Set
+1407998 | Wavesong Sprite Set (Lv. 1)
+1407999 | Wavesong Sprite Set (Lv. 2)
 1408000 |  
+1408001 | Wavesong Sprite Set (Lv. 3)
+1408002 | Chromeshark Shredder Set
+1408003 | Fishy Fun Set
+1408004 | Quantum Harmony Set
+1408005 | Quantum Nightmare Set
+1408006 | Breezy Beachgoer Set
+1408007 | New
+1408008 | New
+1408009 | New
+1408010 | Soccer Stripes
+1408011 | Soccer Stripes
+1408012 | Soccer Stripes
+1408013 | Soccer Stripes
+1408014 | Battleground for Every #1 Set
+1408015 | Ancient Charm Set
+1408016 | Ayo Maff Set
+1408017 | Skele Battlesuit Set
+1408018 | Enchanting Time Set
+1408019 | Young Naruto Character Set
+1408020 | Naruto (Sage Mode) Character Set
+1408021 | Naruto (Six Paths Mode) Character Set
+1408022 | Naruto Uzumaki Character Set
+1408023 | Young Naruto Character Set
+1408024 | Sasuke Uchiha Character Set
+1408025 | Sakura Haruno Character Set
+1408026 | Kakashi Character Set
+1408027 | Hinata Hyuga Character Set
+1408028 | Gaara Character Set
+1408029 | Tsunade Character Set
+1408030 | Madara Uchiha Character Set
+1408031 | Jiraiya Character Set
+1408032 | Pyre Druvaen X-Suit (1-Star)
+1408033 | Pyre Druvaen X-Suit (2-Star)
+1408034 | Pyre Druvaen X-Suit (3-Star)
+1408035 | Pyre Druvaen X-Suit (4-Star)
+1408036 | Pyre Druvaen X-Suit (5-Star)
+1408037 | Pyre Druvaen X-Suit (6-Star)
+1408038 | Pyre Druvaen X-Suit (7-Star)
+1408039 | Frost Druvaen X-Suit (1-Star)
+1408040 | Frost Druvaen X-Suit (2-Star)
+1408041 | Frost Druvaen X-Suit (3-Star)
+1408042 | Frost Druvaen X-Suit (4-Star)
+1408043 | Frost Druvaen X-Suit (5-Star)
+1408044 | Frost Druvaen X-Suit (6-Star)
+1408045 | Frost Druvaen X-Suit (7-Star)
+1408046 | Racing Suit
+1408047 | Football Stripes - Yellow & Blue
+1408048 | Football Stripes - Flaming Red
+1408049 | Football Stripes - Black & White
+1408050 | Football Stripes - Burgundy & Blue
+1408051 | Top Youth Set
 1408572 | Blood Raven X-Suit (1-Star)
 1410000 | Chroma Valkyrie Cover
 1410001 | Vivid Beast Cover
@@ -10541,6 +10713,51 @@
 1411127 |  
 1411128 |  
 1411129 |  
+1411130 | Cybernetic Samurai Cover
+1411131 | Nightfall Stalker Cover
+1411132 | Pink Bunny Cadet Cover
+1411133 | Rogue Hidden Leaf Ninja Headband Cover
+1411134 | Hidden Leaf Headband Cover
+1411135 | Hokage's Hat Cover
+1411136 | Atlantean Ranger Cover
+1411137 | Futuretech Jackal Mask
+1411138 | Racing Superstar Helmet
+1411139 | Street Breaker Hat
+1411140 | Sunbasker Cover
+1411141 | Tide Tracker Cover
+1411142 | Electron Energy Cover
+1411143 | Proton Power Cover
+1411144 | Sakura Neko Cover
+1411145 | Equinox Vulpes Cover
+1411146 | Darkmoon Corvus Cover
+1411147 | Phantasia Siren Cover
+1411148 | Puppet Maestro Cover
+1411149 | Chromeshark Shredder Sunglasses
+1411150 | Fishy Fun Cover
+1411151 | Breezy Beachgoer Cover
+1411152 | Ayo Maff Hat
+1411153 | Seaside Traveler Hat
+1411154 | Light Ninjawear Cover
+1411155 | Skele Battlesuit Cover
+1411156 | Enchanting Time Cover
+1411157 |  
+1411158 |  
+1411159 |  
+1411160 |  
+1411161 |  
+1411162 | Cryo King Hat
+1411163 |  
+1411164 |  
+1411165 |  
+1411166 |  
+1411167 |  
+1411168 |  
+1411169 |  
+1411170 |  
+1411171 |  
+1411172 | Racing Suit
+1411173 | Brainrot Gameplay Limited Event Cover
+1411174 |  
 1415256 | Starsea Admiral Cover
 1416657 | Starsea Admiral Set
 1499999 |  
@@ -10550,6 +10767,7 @@
 1500004 | Elite Crate
 1500015 | Soldier's Crate
 1500016 | Soldier's Crate
+1500022 |  
 1500050 | Soldier's Crate
 1500101 | Soldier's Crate
 1501001 | Pre-registration Exclusive Outfit Crate
@@ -10635,6 +10853,8 @@
 1501804 | Variety Face Crate (A18)
 1501805 | Assorted Hairstyle Crate (A19)
 1501806 | Variety Face Crate (A19)
+1501807 | Assorted Hairstyle Crate (A20)
+1501808 | Variety Face Crate (A20)
 1501999 |  
 1502001 | Chicken Dinner BP Crate
 1502002 | Thrill Ride BP Crate
@@ -10930,6 +11150,9 @@
 1504155 | Classic Crate
 1504156 | 5th Anniversary Classic Crate
 1504157 | Supply Crate
+1504158 | Classic Crate
+1504159 | Classic Crate
+1504160 | Supply Crate
 1504201 | Lucky Crate
 1504202 | Lucky Crate
 1504203 | Lucky Crate
@@ -11274,6 +11497,12 @@
 1504674 | Harley-Davidson Crate
 1504675 | Mummy Crate
 1504676 | Advanced Supplies Selection Pack
+1504677 | Druvaen Path Selection Crate
+1504678 | Ethereal Crate
+1504679 | PsyOp Samurai Crate
+1504680 | PsyOp Samurai Crate_Event
+1504681 | Atlantean Ranger Crate
+1504682 | Occult Crate
 1505001 | Reward (2,000,000 players)
 1505002 | Reward (4,000,000 players)
 1505003 | Reward (6,000,000 players)
@@ -11588,6 +11817,11 @@
 1510288 | Classic Crate
 1510289 | Classic Crate
 1510290 | Classic Crate
+1510291 | Classic Crate
+1510292 | Classic Crate
+1510293 | Classic Crate
+1510294 | Classic Crate
+1510295 | Classic Crate
 1510501 | Advanced UC Crate
 1510502 | Advanced UC Crate
 1510503 | Advanced UC Crate
@@ -11722,6 +11956,8 @@
 1510632 | Premium Crate
 1510633 | Premium Crate
 1510634 | Premium Crate
+1510635 | Premium Crate
+1510636 | Premium Crate
 1510701 | Supply Crate
 1510702 | Supply Crate
 1510703 | Supply Crate
@@ -12290,6 +12526,12 @@
 1511267 | Classic Crate
 1511268 | Classic Crate
 1511269 | Classic Crate
+1511270 | Classic Crate
+1511271 | Classic Crate
+1511272 | Classic Crate
+1511273 | Classic Crate
+1511274 | Classic Crate
+1511275 | Classic Crate
 1511301 |  
 1511401 | PUBG Crate
 1511402 | PUBG Crate
@@ -13839,6 +14081,14 @@
 1513120 | PUBG Crate
 1513121 | PUBG Crate
 1513122 | PUBG Crate
+1513123 | PUBG Crate
+1513124 | PUBG Crate
+1513125 | PUBG Crate
+1513126 | PUBG Crate
+1513127 | PUBG Crate
+1513128 | PUBG Crate
+1513129 | PUBG Crate
+1513130 | PUBG Crate
 1513712 | PUBG Premium Crate
 1513713 | PUBG Premium Crate
 1513714 | PUBG Premium Crate
@@ -14010,6 +14260,14 @@
 1514083 | PUBG Premium Crate
 1514084 | PUBG Premium Crate
 1514085 | PUBG Premium Crate
+1514086 | PUBG Premium Crate
+1514087 | PUBG Premium Crate
+1514088 | PUBG Premium Crate
+1514089 | PUBG Premium Crate
+1514090 | PUBG Premium Crate
+1514091 | PUBG Premium Crate
+1514092 | PUBG Premium Crate
+1514093 | PUBG Premium Crate
 1514501 | PMJL SEASON3 EVENT CRATE
 1514502 |  
 1514503 |  
@@ -15272,8 +15530,8 @@
 1515763 | Purple Shadow Package
 1515764 | Rose Dusk Package
 1515765 | Materials Crate1
-1515766 | Chicken Lucky Package
-1515767 | Chicken Lucky Package
+1515766 |  
+1515767 |  
 1515768 | Phantom Core Materials Crate
 1515769 | Voice Select Crate1_KR
 1515770 | Imperial Gold Select Crate
@@ -15310,6 +15568,71 @@
 1515801 | Haunted house CRATE Pack
 1515802 | Traveler Voice Card Select CRATE
 1515803 | Jersey Selection Crate
+1515804 | PUBNIKU Event CRATE
+1515805 | Swim CRATE
+1515806 | Swim CRATE Pack
+1515807 | Vehicle CRATE
+1515808 | Vehicle CRATE Pack
+1515809 | Neon Sport Crate
+1515810 | 2026 Summer Vacation Crate
+1515811 | Soldier Bunny Crate
+1515812 | Aqua Sprite Crate
+1515813 | Crimson Fox Samurai Crate
+1515814 | PUBGM x 999HUMANITY Crate
+1515815 | Neon Sport Package
+1515816 | 2026 Summer Vacation Package
+1515817 | Soldier Bunny Package
+1515818 | Aqua Sprite Package
+1515819 | Crimson Fox Samurai Package
+1515820 | Materials Crate
+1515821 | Voice Select Crate_KR
+1515822 | 2026 Summer Vacation Materials Crate
+1515823 | Summer Vacation Red Set Select Crate
+1515824 | Summer Vacation Red Headgear Select Crate
+1515825 | Crimson Fox Samurai Bonus Crate
+1515826 | PUBGM x 999HUMANITY Bonus Crate
+1515827 | PUBNIKU CRATE
+1515828 | PUBNIKU Event CRATE
+1515829 | Discord CRATE
+1515830 | Collector SP CRATE
+1515831 | Survivor SP CRATE
+1515832 | Traveler SP CRATE
+1515833 | Crimson Oni CRATE
+1515834 | Crimson Oni CRATE Pack
+1515835 | Crimson Oni SP CRATE
+1515836 | Blue Mirage CRATE
+1515837 | Blue Mirage CRATE Pack
+1515838 | Blue Mirage SP CRATE
+1515839 | Neon Bunny CRATE
+1515840 | Neon Bunny CRATE Pack
+1515841 | Neon Bunny SP CRATE
+1515842 | Sweet Bullet CRATE
+1515843 | Sweet Bullet CRATE Pack
+1515844 | Sweet Bullet SP CRATE
+1515845 | Phantom Ninja CRATE
+1515846 | Phantom Ninja CRATE Pack
+1515847 | Danger Zone CRATE
+1515848 | Phantom Ninja SP CRATE
+1515849 | Sweet Chaos CRATE
+1515850 | Sweet Chaos CRATE Pack
+1515851 | Sweet Chaos SP CRATE
+1515852 | Neon Fantasy CRATE
+1515853 | Neon Fantasy CRATE Pack
+1515854 | Neon Fantasy SP CRATE
+1515855 | Smooth Hitman CRATE
+1515856 | Smooth Hitman CRATE Pack
+1515857 | Black Market GUN CRATE
+1515858 | Smooth Hitman SP CRATE
+1515859 |  
+1515860 |  
+1515861 |  
+1515862 |  
+1515863 |  
+1515864 |  
+1515865 | Traveler Voice Card Select CRATE
+1515866 | Ferrari Crate
+1515867 | Ferrari Package Lucky Medal
+1515868 | PUBNIKU CRATE  Coupon pack
 1518001 | RP Gold Crate
 1518002 | Rainforest Golden Crate
 1518003 | Rainforest Diamond Crate
@@ -15401,6 +15724,8 @@
 1518089 | RP Treasure Crate
 1518090 | RP Treasure Crate
 1518091 | RP Treasure Crate
+1518092 | RP Treasure Crate
+1518093 | RP Treasure Crate
 1518098 | RP Golden Chicken Crate
 1518099 | RP Golden Chicken Crate
 1519001 | Clan Perk Crate
@@ -17248,25 +17573,43 @@
 1522916 | Miss Sunshine Crate
 1522917 | Issam Chaouali Voice Pack Crate
 1522918 | Striker's Streetwear Pack
-1522919 | Discount Pack
-1522920 | Discount Pack
-1522921 | Discount Pack
-1522922 | Discount Pack
-1522923 | Discount Pack
-1522924 | Discount Pack
-1522925 | Discount Pack
-1522926 | Discount Pack
-1522927 | Discount Pack
-1522928 | Discount Pack
-1522929 | Discount Pack
-1522930 | Discount Pack
-1522931 | Discount Pack
-1522932 | Discount Pack
-1522933 | Discount Pack
-1522934 | Discount Pack
-1522935 | Discount Pack
-1522936 | Discount Pack
+1522919 | Vibrant Crate
+1522920 | Tender Care Crate
+1522921 | Golden Legacy Crate
+1522922 | Four Great Houses Crate
+1522923 | Ayo Maff Crate
+1522924 | Urbane Captain Pack
+1522925 | Underworld Outlaw Pack
+1522926 | Hazmat Vanguard Pack
+1522927 | Exorcist Extraordinaire Pack
+1522928 | Snowward Stranger Pack
+1522929 | Lieutenant Chaos Pack
+1522930 | Backpack Pack
+1522931 | Faris Punjabi Voice Pack Crate
+1522932 | Neon Meow Crate
+1522933 | Chicken Extinguisher Crate
+1522934 | Spacetoon Reunion Voice Pack Crate
+1522935 | Trezeguet Voice Pack Crate
+1522936 | Four Great Houses Voice Pack Crate
 1522937 | Fashion Crate
+1522938 | Uğurcan Çakır Voice Pack Crate
+1522939 | Voice Actor Collaboration Voice Pack Crate
+1522940 | NARUTO Spanish Voice Pack Crate
+1522941 | NARUTO Portuguese Voice Pack Crate
+1522942 | Discount Pack
+1522943 | Discount Pack
+1522944 | Discount Pack
+1522945 | Discount Pack
+1522946 | Discount Pack
+1522947 | Discount Pack
+1522948 | Discount Pack
+1522949 | Discount Pack
+1522950 | Discount Pack
+1522951 | Discount Pack
+1522952 | Discount Pack
+1522953 | Discount Pack
+1522954 | Discount Pack
+1522955 | Discount Pack
 1523007 | Limited Pack
 1523028 | Cash Purchase Pack
 1523029 | Cash Purchase Pack
@@ -18018,11 +18361,20 @@
 1524054 | Stellar Operative Pack
 1524055 | Cash Purchase Pack
 1524056 | Nakiri Ayame Crate Coupon pack
-1524057 | Cash Purchase Pack
-1524058 | Cash Purchase Pack
-1524059 | Cash Purchase Pack
-1524060 | Cash Purchase Pack
-1524061 | Cash Purchase Pack
+1524057 | Nocturnal Hunter Pack
+1524058 | Desert Taskforce Pack
+1524059 | Fistfight Maiden Pack
+1524060 | Immortal Guardian Pack
+1524061 | Boom Squad Pack
+1524062 | Grinning Executioner Pack
+1524063 | Cash Purchase Pack
+1524064 | Cash Purchase Pack
+1524065 | Cash Purchase Pack
+1524066 | Cash Purchase Pack
+1524067 | Cash Purchase Pack
+1524068 | Cash Purchase Pack
+1524069 | Cash Purchase Pack
+1524070 | Cash Purchase Pack
 1524081 | Daily Deal Reward Pack
 1524082 | Daily Deal Reward Pack
 1524083 | Daily Deal Reward Pack
@@ -18793,6 +19145,8 @@
 1526310 | Corsair Pack
 1526311 | Falcon Warrior Fortune Bag
 1526312 | Falcon Warrior Pack
+1526313 | Deepsea Hunter Fortune Bag
+1526314 | Deepsea Hunter Pack
 1526501 | Fortune Bag
 1526502 | Final Reward Crate
 1526503 | Fortune Bag
@@ -18817,6 +19171,18 @@
 1526522 | Final Reward Crate
 1526523 | Fortune Bag
 1526524 | Fortune Pack
+1526525 | Fortune Bag
+1526526 | Final Reward Crate
+1526527 | Fortune Bag
+1526528 | Fortune Pack
+1526529 | Fortune Bag
+1526530 | Final Reward Crate
+1526531 | Fortune Bag
+1526532 | Fortune Pack
+1526533 | Fortune Bag
+1526534 | Final Reward Crate
+1526535 | Fortune Bag
+1526536 | Fortune Pack
 1527001 | Custom Pack
 1527002 | Custom Pack
 1527003 | Custom Pack
@@ -18995,6 +19361,11 @@
 1527193 | Custom Pack
 1527194 | Custom Pack
 1527195 | Custom Pack
+1527196 | Custom Pack
+1527197 | Custom Pack
+1527198 | Custom Pack
+1527199 | Custom Pack
+1527200 | Custom Pack
 1528001 |  
 1528002 |  
 1528003 |  
@@ -19093,6 +19464,7 @@
 1528102 | Progress Crate
 1528103 | Progress Crate
 1528104 | Progress Crate
+1528105 | Progress Crate
 1529000 | Daily Surprise Pack
 1529001 | Daily Deal Pack
 1529002 | Daily Deal Pack
@@ -20131,20 +20503,20 @@
 1534265 | White Wolf Space Gift
 1534266 | Bloodfeather Spartan Space Gift
 1534267 | Aberrant Aphrodite Space Gift
-1534268 |  
-1534269 |  
-1534270 |  
-1534271 |  
-1534272 |  
-1534273 |  
-1534274 |  
-1534275 |  
-1534276 |  
-1534277 |  
-1534278 |  
-1534279 |  
-1534280 |  
-1534281 |  
+1534268 | Spacetoon Space Gift
+1534269 | Kurama Space Gift
+1534270 | Naruto Uzumaki (Kurama Linked Mode) Space Gift
+1534271 | Ayo Maff Space Gift
+1534272 | Dare to 1v1? Space Gift
+1534273 | Four Great Houses Space Gift
+1534274 | Ferrari Space Gift
+1534275 | Druvaen Space Gift
+1534276 | Naruto (Six Paths Mode) Space Gift
+1534277 | Phantasia Siren Space Gift
+1534278 | Popularity Crystal
+1534279 | Popularity Crystal
+1534280 | Popularity Crystal
+1534281 | Popularity Crystal
 1534282 |  
 1534283 |  
 1534284 |  
@@ -20483,7 +20855,7 @@
 1534617 | Graceping
 1534618 | Bonnyping
 1534619 | SAKAMOTO TARO Space Gift
-1534620 | Nakiri Ayame(mini character) Space Gift
+1534620 | Nakiri Ayame(ミニキャラ) Space Gift
 1534621 | Nakiri Ayame Space Gift
 1534622 | Joker Space Gift
 1534623 | Chennai Super Kings Space Gift
@@ -20495,6 +20867,8 @@
 1534629 | Purewing Pact
 1534630 | 5th Anniversary Space Gift
 1534631 | BMPS 2026 Space Gift
+1534632 | Friendship Day Space Gift
+1534633 | New
 1535001 | Premium Crate Coupon
 1535002 | Classic Crate Coupon
 1535003 | Supply Crate Coupon
@@ -20636,6 +21010,12 @@
 1535418 | Jujutsu Kaisen Lucky Spin Single Draw Voucher
 1535419 | Usada Pekora Crate Coupon
 1535420 | BLUE LOCK Lucky Spin Single Draw Voucher
+1535421 | PUBNIKU Crate Coupon
+1535422 | Carry Minati Spin 20 UC Discount Voucher
+1535423 | Carry Minati Spin 30 UC Discount Voucher
+1535424 | Summer Lucky Spin TICKET
+1535425 | Carry Minati Spin 50 UC Discount Voucher
+1535426 | NARUTO Lucky Spin Single Draw Voucher
 1535555 | Results LIKE (RP Plus Exclusive)
 1536001 | Custom Pack
 1536002 | Custom Pack
@@ -20880,6 +21260,26 @@
 1538173 | Custom Pack
 1538174 | Custom Pack
 1538175 | Custom Pack
+1538176 | Custom Pack
+1538177 | Custom Pack
+1538178 | Custom Pack
+1538179 | Custom Pack
+1538180 | Custom Pack
+1538181 | Custom Pack
+1538182 | Custom Pack
+1538183 | Custom Pack
+1538184 | Custom Pack
+1538185 | Custom Pack
+1538186 | Custom Pack
+1538187 | Custom Pack
+1538188 | Custom Pack
+1538189 | Custom Pack
+1538190 | Custom Pack
+1538191 | Custom Pack
+1538192 | Custom Pack
+1538193 | Custom Pack
+1538194 | Custom Pack
+1538195 | Custom Pack
 1540001 | Custom Crate
 1540002 | Golden Cipher Crate
 1540003 | Golden Cipher Crate
@@ -21139,7 +21539,7 @@
 1540257 | Chaosphage Crate
 1540258 | Chaosphage Crate
 1540259 | Chaosphage Avatar Pack
-1540260 | PUBG Lucky Crate
+1540260 | NARUTO Limited-Time Finish Selection Crate
 1540261 | Polar Spectrophage Select Crate
 1540262 | Polar Spectrophage Crate
 1540263 | Polar Spectrophage Crate
@@ -21189,7 +21589,7 @@
 1540307 | Intermediate Crate
 1540308 | Basic Crate
 1540309 | Advanced Supplies Selection Pack
-1540310 | PUBG Lucky Crate
+1540310 | Naruto Character Set Selection Crate
 1540311 | Emote Selection Crate
 1540312 | Ornament Selection Crate
 1540313 | Premium Crate - Fire Extinguisher Machete
@@ -21208,6 +21608,12 @@
 1540326 | Lion Buddy Outfit Selection Crate
 1540327 | Harley Crate
 1540328 | Harley Crate
+1540329 | NARUTO Legendary Set Selection Crate
+1540330 | NARUTO Voice Pack Selection Crate
+1540331 | NARUTO Mask Selection Crate
+1540332 | NARUTO Character Selection Crate
+1540333 | Grizzly Bear Buddy Outfit Selection Crate
+1540563 | Ferrari Selection Crate
 1541001 | Victory Crate (7d)
 1541002 | Victory Crate (1d)
 1541005 | Supply Crate
@@ -21742,6 +22148,14 @@
 1596409 | Reward (4,000,000 players)
 1596410 | Reward (6,000,000 players)
 1596411 | Reward (8,000,000 players)
+1596412 | Reward (2,000,000 players)
+1596413 | Reward (4,000,000 players)
+1596414 | Reward (6,000,000 players)
+1596415 | Reward (8,000,000 players)
+1596416 | Reward (2,000,000 players)
+1596417 | Reward (4,000,000 players)
+1596418 | Reward (6,000,000 players)
+1596419 | Reward (8,000,000 players)
 1600020 |  
 1600021 |  
 1601001 | Reset Character Card
@@ -21824,6 +22238,9 @@
 1601079 | Tactical Protector Buddy Set
 1601080 | Turf Ref Ray Set
 1601081 | Turf Ref Ray Set
+1601082 | Mummified Chaos Buddy Set
+1601083 | Druid Covenant Buddy Set
+1601084 | Nautical Expert Ray Set
 1602001 | Expired Items
 1602002 | Expired Items
 1602003 | Expired Items
@@ -22404,6 +22821,12 @@
 1603226 | Bonus Pass Upgrade Card (Lv. 1–30) (A19)
 1603227 | Bonus Pass Upgrade Card (Lv. 31–60) (A19)
 1603228 | Bonus Pass Upgrade Card (Lv. 1–60) (A19)
+1603229 | Bonus Pass Upgrade Card (Lv. 1–30) (A20)
+1603230 | Bonus Pass Upgrade Card (Lv. 31–60) (A20)
+1603231 | Bonus Pass Upgrade Card (Lv. 1–60) (A20)
+1603232 | RP Upgrade Card (Lv. 1–50) (A21)
+1603233 | RP Upgrade Card (A21)
+1603234 | Elite RP Upgrade Card (A21)
 1608005 | Expired Items
 1608006 | Expired Items
 1608007 | Expired Items
@@ -22635,6 +23058,7 @@
 1610142 | EZ Mission License (A18)
 1610143 | EZ Mission License (A19)
 1610144 | EZ Mission License (A20)
+1610145 | EZ Mission License (A21)
 1613091 | Expired Items
 1613092 | Expired Items
 1613093 | Expired Items
@@ -22688,6 +23112,7 @@
 1613141 | Mission Card (A18)
 1613142 | Mission Card (A19)
 1613143 | Mission Card (A20)
+1613144 | Mission Card (A21)
 1614001 | Outfit Voucher (20 UC)
 1614002 | Outfit Voucher (30 UC)
 1614003 | Outfit Voucher (40 UC)
@@ -23742,6 +24167,11 @@
 1615174 | RP Points Voucher (70 UC) (A20)
 1615175 | RP Points Voucher (100 UC) (A20)
 1615176 | RP Points Voucher (200 UC) (A20)
+1615177 | RP Points Voucher (20 UC) (A21)
+1615178 | RP Points Voucher (50 UC) (A21)
+1615179 | RP Points Voucher (70 UC) (A21)
+1615180 | RP Points Voucher (100 UC) (A21)
+1615181 | RP Points Voucher (200 UC) (A21)
 1615200 | RP Voucher (30 UC) (A12)
 1615201 | RP Voucher (60 UC) (A12)
 1615202 | RP Voucher (90 UC) (A12)
@@ -23787,6 +24217,11 @@
 1615242 | RP Voucher (90 UC) (A20)
 1615243 | RP Voucher (100 UC) (A20)
 1615244 | RP Voucher (200 UC) (A20)
+1615245 | RP Voucher (30 UC) (A21)
+1615246 | RP Voucher (60 UC) (A21)
+1615247 | RP Voucher (90 UC) (A21)
+1615248 | RP Voucher (100 UC) (A21)
+1615249 | RP Voucher (200 UC) (A21)
 1615550 | Anukhra Voucher (30 UC)
 1615551 | Anukhra Voucher (40 UC)
 1615552 | Anukhra Voucher (50 UC)
@@ -23802,6 +24237,12 @@
 1615562 | Phoenixtra Voucher (30 UC)
 1615563 | Phoenixtra Voucher (40 UC)
 1615564 | Phoenixtra Voucher (50 UC)
+1615565 | Druvaen Voucher (30 UC)
+1615566 | Druvaen Voucher (40 UC)
+1615567 | Druvaen Voucher (50 UC)
+1615568 | Druvaen Voucher (30 UC)
+1615569 | Druvaen Voucher (40 UC)
+1615570 | Druvaen Voucher (50 UC)
 1616001 | Discount Pack
 1616002 | Discount Pack
 1616003 | Discount Pack
@@ -24379,6 +24820,16 @@
 1620333 | Bloodfeather Spartan Draw 10 Voucher
 1620334 | Aberrant Aphrodite Draw 10 Voucher
 1620335 | Gemini's Favor Draw 10 Voucher
+1620337 | Naruto Uzumaki Voucher (30 UC)
+1620338 | Naruto Uzumaki Voucher (40 UC)
+1620339 | Naruto Uzumaki Voucher (50 UC)
+1620340 | Naruto Uzumaki Voucher (60 UC)
+1620341 | Phantasia Siren Voucher (30 UC)
+1620342 | Phantasia Siren Voucher (40 UC)
+1620343 | Phantasia Siren Voucher (50 UC)
+1620344 | Phantasia Siren Voucher (60 UC)
+1620345 | Naruto Uzumaki Draw 10 Voucher
+1620346 | Phantasia Siren Draw 10 Voucher
 1621001 | Lv. 1 Elite Veteran Icon
 1621002 | Lv. 1 Elite Veteran
 1621003 | Lv. 1 Elite Veteran Reward Bonus
@@ -24478,6 +24929,7 @@
 1622143 | RP Rebate Pack (A18)
 1622144 | RP Rebate Pack (A19)
 1622145 | RP Rebate Pack (A20)
+1622146 | RP Rebate Pack (A21)
 1622201 | RP Badge (S19)
 1622202 | RP Badge (M1)
 1622203 | RP Badge (M2)
@@ -24561,6 +25013,7 @@
 1628006 | Prize Path Card
 1628007 | Prize Path Card
 1628008 | Prize Path Card
+1628009 | Prize Path Card
 1660001 | Deposit Voucher - UC
 1660002 | Deposit Voucher - BP
 1660003 | Deposit Voucher - AG
@@ -24573,6 +25026,7 @@
 1660010 | Deposit Voucher - Blue White Crystal
 1660011 | Deposit Voucher - Orange Crystal
 1660012 | Deposit Voucher - Green White Crystal
+1660013 | Deposit Voucher - Chicken Medal
 1661001 | Basic Group-Free Voucher
 1661002 | Advanced Group-Free Voucher
 1663001 | Selected Character Trial Card (1d)
@@ -25461,7 +25915,7 @@
 1702912 | BMPS 2026 Exchange Token
 1702913 | Golden Ticket
 1702914 | Perk Voucher (V4.4)
-1702915 |  
+1702915 | Perk Voucher (V4.5)
 1702916 |  
 1702917 |  
 1702918 |  
@@ -25494,6 +25948,14 @@
 1702945 | Ravi Gupta Spin Token
 1702946 | Commemorative Stamp (JP 8th Anniv)
 1702947 | Exchange Coin (ERANGEL ORIGINALS)
+1702948 | Exchange Token (Bronze)
+1702949 | Exchange Token (Silver)
+1702950 | Exchange Token (Gold)
+1702951 | Carry Minati Spin Token
+1702952 | Independence Day Spin Token
+1702953 | Diwali Spin Token
+1702954 | Exchange Coin (Blue)
+1702955 | “PUBG Summer Vacation” Well done! Sticker
 1703001 | Glyph
 1703002 | Blood Raven Coin
 1703003 | Thug Emblem
@@ -25604,7 +26066,7 @@
 1703109 | Lucky Medal - Transformer
 1703110 | Lucky Medal - Porsche
 1703111 | Lucky Medal - Apollo
-1703112 | Lucky Medal
+1703112 | Lucky Medal - Ferrari
 1703113 | Lucky Medal
 1703114 | Lucky Medal
 1703115 | Lucky Medal
@@ -25740,6 +26202,7 @@
 1703330 | Underworld Token
 1703331 | Banner Token
 1703332 | Blaze Token
+1703333 | Druvaen Token
 1703335 | Dimensional Wand
 1703336 | Dimensional Wand Fragment
 1703337 | Multiverse Tie
@@ -25748,6 +26211,11 @@
 1703340 | Spartan Crest Fragment
 1703341 | Heart Gem
 1703342 | Heart Gempiece
+1703343 | Hidden Leaf Crest
+1703344 | Hidden Leaf Crest Fragment
+1703345 | Siren Gem
+1703346 | Siren Gempiece
+1703347 | Season Series Catch-Up Core (2026H2)
 1703351 | Pink Crystal
 1710000 | Circus Backpack (3d)
 1720000 | Sanguine Helmet (3d)
@@ -26229,6 +26697,7 @@
 1801251 | Vibrant Era Plane Finish
 1801252 | Starlight Galaxy Plane Finish
 1801253 | Laurel Academy Plane Finish
+1801254 | Treasure Beach Plane Finish
 1801299 | Violet Stargate Finish (7-Day)
 1802015 | Expired Items
 1803015 | Expired Items
@@ -27108,6 +27577,14 @@
 1900863 | BLUE LOCK Anime
 1900864 | Usada Pekora(Wild Event)
 1900865 | Usada Pekora(Wild Gift)
+1900866 | New
+1900867 | Not Your Type Limited Voice
+1900868 | New
+1900869 | New
+1900870 | New
+1900871 | New
+1900872 | New
+1900873 | New
 1901001 | Motorcycle
 1901003 | Hot Pizza 2-Seat Motorcycle
 1901004 | Neon Punk 2-Seat Motorcycle (Blue)
@@ -27455,29 +27932,92 @@
 1901752 | ЛЕТНИЙ ВОЙС-ПАК Voice Pack (Basic Edition A)
 1901753 | ЛЕТНИЙ ВОЙС-ПАК Voice Pack (Basic Edition B)
 1901754 | ЛЕТНИЙ ВОЙС-ПАК Voice Pack (Enhanced Edition)
-1901755 |  
-1901756 |  
-1901757 |  
-1901758 |  
-1901759 |  
-1901760 |  
-1901761 |  
-1901762 |  
-1901763 |  
-1901764 |  
-1901765 |  
-1901766 |  
-1901767 |  
-1901768 |  
-1901769 |  
-1901770 |  
-1901771 |  
-1901772 |  
-1901773 |  
-1901774 |  
-1901775 |  
-1901776 |  
-1901777 |  
+1901755 | Tender Care Voice Pack A (Basic Edition)
+1901756 | Tender Care Voice Pack B (Basic Edition)
+1901757 | Naruto Uzumaki English Voice Pack (Ultimate Edition)
+1901758 | Naruto Uzumaki Spanish Voice Pack (Ultimate Edition)
+1901759 | Naruto Uzumaki Portuguese Voice Pack (Ultimate Edition)
+1901760 | Sasuke Uchiha English Voice Pack (Ultimate Edition)
+1901761 | Sasuke Uchiha Spanish Voice Pack (Ultimate Edition)
+1901762 | Sasuke Uchiha Portuguese Voice Pack (Ultimate Edition)
+1901763 | Sakura Haruno English Voice Pack (Ultimate Edition)
+1901764 | Sakura Haruno Spanish Voice Pack (Ultimate Edition)
+1901765 | Kakashi Hatake English Voice Pack (Ultimate Edition)
+1901766 | Kakashi Hatake Spanish Voice Pack (Ultimate Edition)
+1901767 | Trezeguet Voice Pack (Basic Edition)
+1901769 | Trezeguet Voice Pack (Ultimate Edition)
+1901770 | Spacetoon Reunion Voice Pack (Basic Edition)
+1901772 | Spacetoon Reunion Voice Pack (Ultimate Edition)
+1901773 | Sakura Haruno Portuguese Voice Pack (Ultimate Edition)
+1901774 | Kakashi Hatake Portuguese Voice Pack (Ultimate Edition)
+1901775 | Faris Shafi Punjabi Voice Pack (Enhanced Edition)
+1901776 | Faris Shafi Punjabi Voice Pack (Basic Edition)
+1901777 | Faris Shafi English Voice Pack (Enhanced Edition)
+1901778 | Naruto Uzumaki Voice Pack (Ultimate Edition)
+1901779 | Sasuke Uchiha Voice Pack (Ultimate Edition)
+1901780 | Sakura Haruno Voice Pack (Ultimate Edition)
+1901781 | Kakashi Hatake Voice Pack (Ultimate Edition)
+1901782 | Naruto Uzumaki Voice Pack (Enhanced Edition)
+1901783 | Sasuke Uchiha Voice Pack (Enhanced Edition)
+1901784 | Sakura Haruno Voice Pack (Enhanced Edition)
+1901785 | Kakashi Hatake Voice Pack (Enhanced Edition)
+1901786 | Naruto Uzumaki Voice Pack (Basic Edition)
+1901787 | Sasuke Uchiha Voice Pack (Basic Edition)
+1901788 | Sakura Haruno Voice Pack (Basic Edition)
+1901789 | Kakashi Hatake Voice Pack (Basic Edition)
+1901790 | Faris Shafi English Voice Pack (Basic Edition)
+1901791 | Fenerbahce Voice Pack (Basic Edition)
+1901792 | Galatasaray Voice Pack (Basic Edition)
+1901793 | Besiktas Voice Pack (Basic Edition)
+1901794 | Trabzon Voice Pack (Basic Edition)
+1901795 | Four Great Houses Voice Pack (Enhanced Edition)
+1901796 | Four Great Houses Voice Pack (Ultimate Edition)
+1901797 | Uğurcan Çakır Voice Pack (Basic Edition)
+1901798 | Uğurcan Çakır Voice Pack (Enhanced Edition)
+1901799 | Uğurcan Çakır Voice Pack (Ultimate Edition)
+1901800 | Ayo Maff Voice Pack (Basic Edition)
+1901801 | Naruto Uzumaki English Voice Pack (Basic Edition)
+1901802 | Naruto Uzumaki Spanish Voice Pack (Basic Edition)
+1901803 | Naruto Uzumaki Portuguese Voice Pack (Basic Edition)
+1901804 | Sasuke Uchiha English Voice Pack (Basic Edition)
+1901805 | Sasuke Uchiha Spanish Voice Pack (Basic Edition)
+1901806 | Sasuke Uchiha Portuguese Voice Pack (Basic Edition)
+1901807 | Sakura Haruno English Voice Pack (Basic Edition)
+1901808 | Sakura Haruno Spanish Voice Pack (Basic Edition)
+1901809 | Sakura Haruno Portuguese Voice Pack (Basic Edition)
+1901810 | Kakashi Hatake English Voice Pack (Basic Edition)
+1901811 | Kakashi Hatake Spanish Voice Pack (Basic Edition)
+1901812 | Kakashi Hatake Portuguese Voice Pack (Basic Edition)
+1901813 | Olga Sirina Voice Pack (Ultimate Edition A)
+1901814 | Olga Sirina Voice Pack (Ultimate Edition B)
+1901815 | Alexey Voytyuk Voice Pack (Ultimate Edition)
+1901816 | Aleksandr Gavrilin Voice Pack (Ultimate Edition)
+1901817 | Olga Sirina Voice Pack (Basic Edition A)
+1901818 | Olga Sirina Voice Pack (Basic Edition B)
+1901819 | Alexey Voytyuk Voice Pack (Basic Edition)
+1901820 | Aleksandr Gavrilin Voice Pack (Basic Edition)
+1901821 |  
+1901822 |  
+1901823 |  
+1901824 |  
+1901825 |  
+1901826 |  
+1901827 |  
+1901828 |  
+1901829 |  
+1901830 |  
+1901831 |  
+1901832 |  
+1901833 |  
+1901834 |  
+1901835 |  
+1901836 |  
+1901837 |  
+1901838 |  
+1901839 |  
+1901840 |  
+1901841 |  
+1901842 |  
 1902001 | Sidecar Motorcycle
 1902010 | The Fool Sidecar Motorcycle
 1902011 | Poker Riders Sidecar Motorcycle
@@ -27626,6 +28166,9 @@
 1903226 | Kia EV4(Black)
 1903227 | Kia EV4(Yacht Blue Matte)
 1903228 | Starlight Galaxy Dacia
+1903230 | Ferrari Roma (Rosso Corsa)
+1903231 | Ferrari Roma (Grigio Silverstone)
+1903232 | Ferrari Roma (Starry Night Black)
 1904001 | Mini Bus
 1904004 | White Rabbit Bus
 1904005 | Winning Chicken Bus
@@ -27708,6 +28251,7 @@
 1907072 | Dragon's Ascent Buggy (Lv. 4)
 1907073 | Catch! Teenieping - Buggy
 1907074 | Eden Charge Buggy
+1907075 | New
 1907099 |  
 1908001 | UAZ
 1908002 | The Skulls Off-Roader
@@ -27802,6 +28346,13 @@
 1908110 | Misty Soul UAZ
 1908111 | Laurel Academy UAZ
 1908112 | Kia EV3(Ivory Silver)
+1908113 | Dimensional Warp UAZ (Lv. 1)
+1908114 | Dimensional Warp UAZ (Lv. 2)
+1908115 | Dimensional Warp UAZ (Lv. 3)
+1908116 | Dimensional Warp UAZ (Lv. 4)
+1908117 | Ferrari Purosangue (Blazing Ascent)
+1908118 | Ferrari Purosangue (Rosso Corsa)
+1908119 | Ferrari Purosangue (Giallo Modena)
 1908188 | Dodge Hornet GLH Concept - Redline
 1908189 | Dodge Hornet - Sunburst
 1909001 | UAZ (Closed Top)
@@ -27894,6 +28445,7 @@
 1915025 | Dimensional Shuttle Convertible (Lv. 3)
 1915026 | Dimensional Shuttle Convertible (Lv. 4)
 1915027 | BLUE LOCK Convertible
+1915028 | Beach Pool Convertible
 1915099 | Golden Mirado (Open Top)
 1916001 | Rony
 1916002 | Rony
@@ -27953,6 +28505,7 @@
 1953018 | Painted Traveler Monster Truck
 1953019 | Ford F-150 Raptor R (Orange Flame)
 1953020 | Ford F-150 Raptor R (Ruby Red)
+1953021 | Gamabunta Monster Truck
 1954001 | Armed Dacia
 1955001 | Armed Pickup
 1956001 | Armed Buggy
@@ -28017,6 +28570,10 @@
 1961067 | Apollo EVO (Glacier)
 1961068 | Ford Mustang GTD (Verdant Legend)
 1961069 | Ford Mustang GTD (Spirit of America)
+1961070 | Ferrari LaFerrari (Crimson Nebula)
+1961071 | Ferrari LaFerrari (Rosso Corsa)
+1961072 | Ferrari LaFerrari (Nero Daytona)
+1961073 | Ferrari LaFerrari (Scarlet Glory)
 1961136 | Dodge Challenger SRT Hellcat - Blaze
 1961137 | Bentley Batur (Holoprism)
 1961138 | Bentley Batur (Solar Pulse)
@@ -28109,6 +28666,9 @@
 1999002 | Anukhra Flying Vehicle
 1999003 | Dragon Two-Seater Flying Vehicle
 1999004 |  
+1999005 |  
+1999006 |  
+1999007 |  
 2000000 | S29 Conqueror Avatar Frame
 2000103 | Undaunted Clan Avatar Frame
 2000104 | Elite Clan Avatar Frame
@@ -28320,13 +28880,13 @@
 2001207 | Blazing Eagle Avatar Frame
 2001208 | Top Clan Avatar Frame
 2001209 | Denim Rebel Avatar Frame
-2001210 |  
-2001211 |  
-2001212 |  
-2001213 |  
-2001214 |  
-2001215 |  
-2001216 |  
+2001210 | Vibrant Vacation Avatar Frame
+2001211 | Golden Legacy Avatar Frame
+2001212 | Four Great Houses Avatar Frame
+2001213 | Ayo Maff Avatar Frame
+2001214 | Rhyming Tentacle Avatar Frame
+2001215 | Dare to 1v1? Avatar Frame
+2001216 | 2026 PMGO S2 Avatar Frame
 2001217 |  
 2001218 |  
 2001219 |  
@@ -28337,6 +28897,7 @@
 2001224 |  
 2001225 |  
 2001226 |  
+2002000 | S31 Conqueror Avatar Frame
 2002001 | [Silver] Honor Frame
 2002002 | [Gold] Honor Frame
 2002003 | [Platinum] Honor Frame
@@ -28422,7 +28983,7 @@
 2002966 | S28 Ultimate Royale Legend Avatar Frame
 2002967 | S29 Ultimate Royale Legend Avatar Frame
 2002968 | S30 Ultimate Royale Legend Avatar Frame
-2002969 |  
+2002969 | S31 Ultimate Royale Legend Avatar Frame
 2002970 |  
 2002971 |  
 2002972 |  
@@ -28734,6 +29295,7 @@
 2005265 | Guardian Dragon Avatar Frame
 2005266 | Sound Wave Vision Avatar Frame
 2005267 | Winged Pegasus Avatar Frame
+2005268 | Mystic Fox Avatar Frame
 2010001 | Pro Collector Avatar Frame
 2010002 | Rookie Collector Avatar Frame
 2010003 | Elite Collector Avatar Frame
@@ -29560,6 +30122,10 @@
 2199232 | Point Card: 100 (A20)
 2199233 | Point Card: 200 (A20)
 2199234 | Point Card: 250 (A20)
+2199235 | Point Card: 50 (A21)
+2199236 | Point Card: 100 (A21)
+2199237 | Point Card: 200 (A21)
+2199238 | Point Card: 250 (A21)
 2200002 | Argentina 3-Star Avatar Frame
 2200003 | 2023 Valentine's Day Avatar Frame
 2200004 | C4S10 Reunion Avatar Frame
@@ -29726,6 +30292,8 @@
 2200169 | Phoenixtra Avatar Frame
 2200170 | RP Avatar Frame (A18)
 2200171 | RP Avatar Frame (A19)
+2200172 | RP Avatar Frame (A20)
+2200173 | Druvaen Avatar Frame
 2200201 | Thanks!
 2200210 | Godzilla King of the Monsters Avatar Frame
 2200211 | Scout Regiment Avatar Frame
@@ -29764,8 +30332,13 @@
 2200244 | Usada Pekora Avatar Frame
 2200245 | WOW Curator Avatar Frame
 2200246 | 5th Anniversary Avatar Frame
-2200247 | PUBGM 8th Anniversary Frame
+2200247 | PUBG MOBILE 8th Anniversary Border
 2200248 | BLUE LOCK Avatar Frame
+2200249 | Spider-Man: Brand New Day Avatar Frame
+2200250 | New
+2200251 | New
+2200252 | New
+2200253 | NARUTO Avatar Frame
 2200301 | Applause
 2200401 | Laugh
 2200501 | Beckon
@@ -29835,7 +30408,7 @@
 2205021 | Dance
 2205022 |  
 2205023 |  
-2205031 | Give Flowers
+2205031 | Lay Flowers
 2205032 |  
 2205033 |  
 2205041 |  
@@ -29926,6 +30499,10 @@
 2206051 | You Won't Get Away
 2206052 | Ready For Action
 2206053 | Friends Again
+2206054 | Purple Carpet Arrival
+2206055 | Shimmering Strike
+2206056 | Bubble Moment
+2206057 | Passionate Playing
 2207001 | Connection Emote (Default)
 2207002 |  
 2207003 | Car Photo Op - Connection Emote
@@ -30369,7 +30946,7 @@
 2310265 | SAKAMOTO TARO Graffiti
 2310266 | ASAKURA SHIN Graffiti
 2310267 | NAGUMO Graffiti
-2310268 | Nakiri Ayame(mini character) Graffiti
+2310268 | Nakiri Ayame(ミニキャラ) Graffiti
 2310269 | Nakiri Ayame Graffiti
 2310270 | Nakiri Ayame(KV) Graffiti
 2310271 | Jujutsu Kaisen Graffiti
@@ -30379,11 +30956,11 @@
 2310275 | Issam Chaouali Graffiti
 2310276 | White Wolf Graffiti
 2310277 | Carefree Lamb Graffiti
-2310278 |  
-2310279 |  
-2310280 |  
-2310281 |  
-2310282 |  
+2310278 | Vibrant Vacation Graffiti
+2310279 | Four Great Houses Graffiti
+2310280 | Ayo Maff Graffiti
+2310281 | Dare to 1v1? Graffiti
+2310282 | Infinix Graffiti
 2310283 |  
 2310284 |  
 2310285 |  
@@ -30393,6 +30970,13 @@
 2310289 | Usada Pekora(KV) Graffiti
 2310290 | BLUE LOCK Graffiti
 2310291 | Absolute Self Graffiti
+2310292 | New
+2310293 | New
+2310294 | New
+2310295 | New
+2310296 | New
+2310297 | Uchiha Clan Crest Graffiti
+2310298 | Mangekyo Sharingan Graffiti
 2490001 | Solo Wins
 2490002 | Duo Wins
 2490003 | Squad Wins
@@ -31003,6 +31587,7 @@
 2493334 | S28 Arena Dominator
 2493335 | S29 Arena Dominator
 2493336 | S30 Arena Dominator
+2493337 | S31 Arena Dominator
 2493500 |  
 2493501 |  
 2493502 |  
@@ -31678,6 +32263,28 @@
 2494311 | S30 Ultimate Royale Squad Legend
 2494312 | S30 Ultimate Royale Squad Legend
 2494313 | S30 Ultimate Royale Squad Legend
+2494314 | RP A20 No. 1
+2494315 | RP A20 No. 2
+2494316 | RP A20 No. 3
+2494317 | RP A20 Top 10
+2494318 | S31 Ultimate Royale Supreme
+2494319 | S31 Ultimate Royale Peerless
+2494320 | S31 Ultimate Royale Legend
+2494321 | S31 Ultimate 500 Top 10
+2494322 | S31 Ultimate 500 Top 100
+2494323 | S31 Ultimate 500 Top 500
+2494324 | S31 Ultimate Royale Terminator
+2494325 | S31 Ultimate Royale Terminator
+2494326 | S31 Ultimate Royale Terminator
+2494327 | S31 Ultimate Royale Dominator
+2494328 | S31 Ultimate Royale Dominator
+2494329 | S31 Ultimate Royale Dominator
+2494330 | S31 Ultimate Royale Duo Champion
+2494331 | S31 Ultimate Royale Duo Champion
+2494332 | S31 Ultimate Royale Duo Champion
+2494333 | S31 Ultimate Royale Squad Legend
+2494334 | S31 Ultimate Royale Squad Legend
+2494335 | S31 Ultimate Royale Squad Legend
 2494400 | Resonant Dream
 2494401 | Aegis of Glory
 2494402 | Jolly Ghost
@@ -31702,7 +32309,7 @@
 2494421 | PMGO Regional Elite
 2494422 | PMGO Global Star
 2494423 | Myth Challenger
-2494424 |  
+2494424 | Hidden Leaf Guardian
 2494425 |  
 2494426 |  
 2494427 |  
@@ -31720,6 +32327,7 @@
 2494439 |  
 2494440 |  
 2494441 | Triumphant Laurel
+2494442 | Shell Crown
 2494800 | Race Track Star
 2495001 | Bugatti Collector
 2495002 | Bugatti Collector Pro
@@ -31753,6 +32361,10 @@
 2495431 | S30 Ace Master Title
 2495432 | S30 Ace Dominator Title
 2495433 | S30 Conqueror Title
+2495530 | S31 Ace Title
+2495531 | S31 Ace Master Title
+2495532 | S31 Ace Dominator Title
+2495533 | S31 Conqueror Title
 2499011 | S11 Ace Title
 2499012 | S11 Conqueror Title
 2499013 | C2S5 Box Collector
@@ -31820,6 +32432,12 @@
 2603022 | Starforge Stone
 2603023 | Star Fragment
 2603024 | Starforge Stone
+2603025 | Star Fragment
+2603026 | Starforge Stone
+2603027 | Star Forging Component
+2603028 | Star Forging Blueprint
+2603029 | Star Fragment (Druvaen-Exclusive)
+2603030 | Starforge Stone (Druvaen-Exclusive)
 2701001 | Fine Gear
 2701002 | Superior Wrench
 2701003 | Engine Core
@@ -31937,7 +32555,7 @@
 3001044 | Password Letter (Green)
 3001045 | Password Letter (Black)
 3001046 | Playing Cards
-3001047 | Military Kettle
+3001047 | Military Canteen
 3001048 | Can
 3001049 | Water Purifier
 3001050 | Lubricating Oil
@@ -32002,7 +32620,7 @@
 3001109 | Military Watch
 3001110 | Toy Dagger
 3001111 | Heart Necklace
-3001112 | Brand New Combat Boots
+3001112 | Brand-New Combat Boots
 3001113 | Notebook
 3001114 | Damaged Map
 3001115 | Damaged Design Drawing
@@ -32086,8 +32704,13 @@
 3001193 | Winter Penguin Coin
 3001194 | Penguin Ice Sculpture
 3001195 | Penguin Sled Model
+3001197 | Ninjutsu Scroll
+3001198 | Shuriken
+3001199 | Ichiraku Ramen
+3001200 | Make-Out Paradise
+3001201 | Special Kunai
 3001300 | Gold Mechanical Wristwatch
-3001301 | Gold Military Kettle
+3001301 | Gold Military Canteen
 3001302 | Heart of Gold Necklace
 3001303 | Gold Playing Cards
 3001304 | Fortune Pointer
@@ -32194,6 +32817,8 @@
 3300020 | Violet Shard (7d)
 3300021 | Sunlit Laurel (Permanent)
 3300022 | Sunlit Laurel (7d)
+3300023 | Wildfire Gale (Permanent)
+3300024 | Wildfire Gale (7d)
 3301001 | Radio
 3400509 | Western Duel Set (20d)
 3400510 | Western Duel Set (30d)
@@ -32650,6 +33275,10 @@
 3901149 | Exchange Coin (Orenge)
 3901150 | Exchange Coin (Blue)
 3901151 | Exchange Coin (Purple)
+3901152 | Exchange Coin (PUBNIKU)
+3901153 | Exchange Coin (Red)
+3901154 | Exchange Coin (Blue)
+3901155 | Exchange Coin
 4000427 | Diwali Token
 4100000 | Winner
 4100001 | Triumphant Victory
@@ -32798,6 +33427,14 @@
 4151141 | Cerberus Glider
 4151142 | Enchanting Pearl Glider
 4151143 | Starlight Galaxy Glider
+4151144 | Earthly Pedestal Glider
+4151145 | Blazing Kurama Glider
+4151146 | Eternal Concerto Glider
+4151147 |  
+4151148 | Darkwing Piercer Glider
+4151149 | Earthly Pedestal Glider
+4151150 | Earthly Pedestal Glider
+4151151 | Earthly Pedestal Glider
 4151204 |  
 4152008 |  
 4152009 |  
@@ -32913,9 +33550,18 @@
 4152141 |  
 4152142 |  
 4152143 |  
+4152144 |  
+4152145 |  
+4152146 |  
+4152147 |  
+4152148 |  
+4152149 |  
+4152150 |  
+4152151 |  
 4181001 | Power Arm
 4181002 | Stimulant Pack
 4181003 | Tactical Landing Pack
+4181010 | Spider-Man: Brand New Day Outfit
 4181011 |  
 4181012 |  
 4191001 | Power Vest
@@ -32979,8 +33625,12 @@
 4301639 | Crystal House
 4301640 | Normal Ghost
 4301641 | Default House
+4301642 | Infrared Anti-Theft Alarm
+4301800 | Crystal Blind Box Brainrot
 4301801 | Advanced Brainrot Blind Box
 4301802 | Basic Brainrot Blind Box
+4301836 | UChik Chik Chik Chik Chun
+4301852 | Tang Tang Pan Sahur
 4302001 |  
 4302002 |  
 4302003 |  
@@ -32989,9 +33639,18 @@
 4303003 |  
 4303004 |  
 4402914 | Brainrot Trial Card
+4500001 | Teleport Scroll
+4500002 | Teleport Scroll
+4501601 | Stealth Serum
+4507702 | Brainrot Gameplay Limited Event Avatar
+4507703 | Brainrot Gameplay Limited Event Avatar Frame
 4531001 | Starry Purple Trail
 4531002 | Golden Leaves Trail
+4531003 | Summer Bubble Fantasy Trail
+4531004 | Moonbirch Wisp Trail
 4541001 | Cool Graffiti Footsteps
+4541004 | Azure Sea Ripple Trail
+4541005 | Moonfall Trace Trail
 4600001 | Battle For Glory
 4600002 | Nothing's Getting In Our Way
 4600003 | Dimension Clash
@@ -33179,7 +33838,6 @@
 4600289 | Frosted Dreams
 4600290 | Khel Meri Jaan
 4600291 | Eid Melady
-4600297 | Fight Until The End
 4600298 | Al Shami - Doctor
 4600299 | MALAPETAKA
 4600300 | AY YOLA - Homay
@@ -33201,6 +33859,10 @@
 4600329 | HELION
 4600330 | Dark Arts - aespa
 4600331 | Whiplash - aespa
+4600334 | Naruto Main Theme
+4600335 | Blue Bird
+4600336 | BATTLEGROUND FOR EVERY#1
+4600339 | Ayo Maff - Lifestyle (YA MAN)
 4700000 | Custom Status - Default
 4700001 | Custom Status - Social Star
 4700002 | Custom Status - Everyone's Favorite
@@ -33258,6 +33920,7 @@
 5004400 | Cocoa Cub Buddy
 5004500 | Rabbit Buddy
 5004600 |  
+5004700 | Mini Kurama Buddy
 5221001 | Ace-exclusive Team-Up Special Effect
 5221002 | Ace Master-exclusive Team-Up Special Effect
 5221003 | Ace Dominator-exclusive Team-Up Special Effect
@@ -33566,6 +34229,8 @@
 6007016 | Chicken Craver - Gold
 6007017 | Chicken Craver - Silver
 6007018 | Chicken Craver - Bronze
+6011001 |  
+6011002 |  
 6041001 | Wolf Warrior Transformation
 6041002 | Ray Transformation
 6041003 | Snowfall
@@ -33588,6 +34253,7 @@
 6042009 | Penguin Overlord Unlock Permit
 6042010 | Floral Butterfly Unlock Permit
 6042011 | 8th Anniversary Collectible Unlock Permit
+6042012 | Nine-Tails Collectible Unlock Permit
 6101001 | Glorious Battleground
 6101002 | Moments of Glory
 6101003 | Normal Chicken Dinner Statue
@@ -33607,6 +34273,9 @@
 6680701 | Dazzling Collection Info Monument
 6680702 |  
 6680703 |  
+6680801 | EXP Card (Companion Battle)
+6681001 | Token (Companion Battle)
+6681101 | EXP
 6701001 | Exclusive Upgradable Vehicle Music
 6702001 | Exclusive Upgradable Vehicle Air Stream
 6702002 | Exclusive Upgradable Vehicle Exhaust
@@ -33617,6 +34286,7 @@
 6712005 | Glory Broadcast - Growth
 6712006 | Glory Broadcast - Anniversary
 6712007 | Glory Broadcast - Trial
+6712008 | Glory Broadcast - Hidden Leaf
 7001006 | All-Talent Championship Airdrop
 7001007 |  
 7002001 | Dinosaur Party
@@ -33689,6 +34359,10 @@
 7101066 | Finish Line Moment Nickname Badge (Lv. 2)
 7101067 | Finish Line Moment Nickname Badge (Lv. 3)
 7101068 | Finish Line Moment Nickname Badge (Lv. 4)
+7101069 | Shattered Window Nickname Badge (Lv. 1)
+7101070 | Shattered Window Nickname Badge (Lv. 2)
+7101071 | Shattered Window Nickname Badge (Lv. 3)
+7101072 | Shattered Window Nickname Badge (Lv. 4)
 7301000 | Default License Plate
 7301001 | Honorable Fighter
 7301002 | Arctic Night
@@ -33696,6 +34370,48 @@
 7302002 | Underglow - Emerald Blue
 7303001 | Switch Vehicle - Dissolve
 7303002 |  
+7304003 | Ferrari Purosangue Brake Calipers (Black)
+7304004 | Ferrari Purosangue Brake Calipers (Blue)
+7304005 | Ferrari Purosangue Brake Calipers (Gold)
+7304006 | Ferrari Purosangue Brake Calipers (Aluminum)
+7304007 | Ferrari Purosangue Brake Calipers (White)
+7304008 | Ferrari Purosangue Brake Calipers (Rosso Scuderia)
+7304009 | Ferrari Purosangue Brake Calipers (Rosso Corsa)
+7304010 | Ferrari Purosangue Brake Calipers (Yellow)
+7304011 | Ferrari LaFerrari Brake Calipers (Black)
+7304012 | Ferrari LaFerrari Brake Calipers (Blue)
+7304013 | Ferrari LaFerrari Brake Calipers (Gold)
+7304014 | Ferrari LaFerrari Brake Calipers (Aluminum)
+7304015 | Ferrari LaFerrari Brake Calipers (White)
+7304016 | Ferrari LaFerrari Brake Calipers (Rosso Scuderia)
+7304017 | Ferrari LaFerrari Brake Calipers (Rosso Corsa)
+7304018 | Ferrari LaFerrari Brake Calipers (Yellow)
+7304019 | SF90 XX Spider Brake Calipers (Black)
+7304020 | SF90 XX Spider Brake Calipers (Blue)
+7304021 | SF90 XX Spider Brake Calipers (Gold)
+7304022 | SF90 XX Spider Brake Calipers (Aluminum)
+7304023 | SF90 XX Spider Brake Calipers (White)
+7304024 | SF90 XX Spider Brake Calipers (Rosso Scuderia)
+7304025 | SF90 XX Spider Brake Calipers (Rosso Corsa)
+7304026 | SF90 XX Spider Brake Calipers (Yellow)
+7304027 | Ferrari Roma Brake Calipers (Black)
+7304028 | Ferrari Roma Brake Calipers (Blue)
+7304029 | Ferrari Roma Brake Calipers (Gold)
+7304030 | Ferrari Roma Brake Calipers (Aluminum)
+7304031 | Ferrari Roma Brake Calipers (White)
+7304032 | Ferrari Roma Brake Calipers (Rosso Scuderia)
+7304033 | Ferrari Roma Brake Calipers (Rosso Corsa)
+7304034 | Ferrari Roma Brake Calipers (Yellow)
+7305003 | Ferrari Purosangue Standard Rims
+7305004 | Ferrari Purosangue Matt Black Forged Rims
+7305005 | Ferrari LaFerrari Spoked Alloy Rims
+7305006 | Ferrari LaFerrari 5-Spoke Alloy Rims
+7305007 | Ferrari SF90 XX Spider Standard Rims
+7305008 | Ferrari SF90 XX Spider Glossy Carbon Fiber Racing Rims
+7305009 | Ferrari Roma Chrome Painted Std Rims
+7305010 | Ferrari Roma Forged Painted Rims
+7305011 | Standard Roof
+7305012 | Ferrari Panoramic Roof
 7401001 | Vehicle Decal - Extreme Speed
 7401002 | Vehicle Decal - Infinite Power
 7401003 | Vehicle Decal - GP Explorer
@@ -33713,6 +34429,8 @@
 8000005 |  
 8000006 |  
 8000007 |  
+8000008 |  
+8000009 |  
 9001001 | Jetpack (Thunderbolt)
 9001002 | Jetpack (Red Flame)
 9001003 | Werewolf Finish
@@ -33855,11 +34573,218 @@
 9988128 |  
 9988129 |  
 9988130 |  
+9988131 |  
+9988132 |  
+9988133 |  
+9988134 |  
+9988135 |  
+9988136 |  
+9988137 |  
+9988138 |  
+9988139 |  
+9988140 |  
+9988141 |  
+9988142 |  
+9988143 |  
+9988144 |  
+9988145 |  
+9988146 |  
+9988147 |  
+9988148 |  
+9988149 |  
+9988150 |  
+9988151 |  
+9988152 |  
+9988153 |  
+9988154 |  
+9988155 |  
+9988156 |  
+9988157 |  
+9988158 |  
+9988159 |  
+9988160 |  
+9988161 |  
+9988162 |  
+9988163 |  
+9988164 |  
+9988165 |  
+9988166 |  
+9988167 |  
+9988168 |  
+9988169 |  
+9988170 |  
+9988171 |  
+9988172 |  
+9988173 |  
+9988174 |  
+9988175 |  
+9988176 |  
+9988177 |  
+9988178 |  
+9988179 |  
+9988180 |  
+9988181 |  
+9988182 |  
+9988183 |  
+9988184 |  
+9988185 |  
+9988186 |  
+9988187 |  
+9988188 |  
+9988189 |  
+9988190 |  
+9988191 |  
+9988192 |  
+9988193 |  
+9988194 |  
+9988195 |  
+9988196 |  
+9988197 |  
+9988198 |  
+9988199 |  
+9988200 |  
+9988201 |  
+9988202 |  
+9988203 |  
+9988204 |  
+9988205 |  
+9988206 |  
+9988207 |  
+9988208 |  
+9988209 |  
+9988210 |  
+9988211 |  
+9988212 |  
+9988213 |  
+9988214 |  
+9988215 |  
+9988216 |  
+9988217 |  
+9988218 |  
+9988219 |  
+9988220 |  
+9988221 |  
+9988222 |  
+9988223 |  
+9988224 |  
+9988225 |  
+9988226 |  
+9988227 |  
+9988228 |  
+9988229 |  
+9988230 |  
+9988231 |  
+9988232 |  
+9988233 |  
+9988234 |  
+9988235 |  
+9988236 |  
+9988237 |  
+9988238 |  
+9988239 |  
+9988240 |  
+9988241 |  
+9988242 |  
+9988243 |  
+9988244 |  
+9988245 |  
+9988246 |  
+9988247 |  
+9988248 |  
+9988249 |  
+9988250 |  
+9988251 |  
+9988252 |  
+9988253 |  
+9988254 |  
+9988255 |  
+9988256 |  
+9988257 |  
+9988258 |  
+9988259 |  
+9988260 |  
+9988261 |  
+9988262 |  
+9988263 |  
+9988264 |  
+9988265 |  
+9988266 |  
 9988926 | Emote Audio Split
 9988927 |  
+9989000 |  
+9989001 |  
+9989002 |  
+9989003 |  
+9989004 |  
+9989005 |  
+9989006 |  
+9989007 |  
+9989008 |  
+9989009 |  
+9989010 |  
+9989011 |  
+9989012 |  
+9989013 |  
+9989014 |  
+9989015 |  
+9989016 |  
+9989017 |  
+9989018 |  
+9989019 |  
+9989020 |  
+9989021 |  
+9989022 |  
+9989023 |  
+9989024 |  
+9989025 |  
+9989026 |  
+9989027 |  
+9989028 |  
+9989029 |  
+9989030 |  
+9989031 |  
+9989032 |  
+9989033 |  
+9989034 |  
+9989035 |  
+9989036 |  
+9989037 |  
+9989038 |  
+9989039 |  
+9989040 |  
+9989041 |  
+9989042 |  
+9989043 |  
+9989044 |  
+9989045 |  
+9989046 |  
+9989047 |  
+9989048 |  
+9989049 |  
+9989050 |  
+9989051 |  
+9989052 |  
+9989053 |  
+9989054 |  
+9989055 |  
+9989056 |  
+9989057 |  
+9989058 |  
+9989059 |  
+9989060 |  
+9989061 |  
+9989062 |  
+9989063 |  
+9989064 |  
+9989065 |  
+9989066 |  
+9989067 |  
+9989068 |  
 10101201 | Overgrowth - Honey Badger
 10300101 | Winterland Kar98K
 10310301 | Laurel - M1 Garand
+10812060 |  
+10812061 |  
 10925004 | Path of Glory Dynamic Nickname
 10925005 | Path of Glory: Stellar Ace
 12200501 | Bow
@@ -35308,7 +36233,7 @@
 12220740 | All Eyes on Me
 12220741 | Pan Thrower
 12220742 |  
-12220743 |  
+12220743 | Solo Groove
 12220744 |  
 12220745 |  
 12220746 |  
@@ -35419,7 +36344,8 @@
 12220919 |  
 12220920 | Happy Hotpot Dance
 12220921 | Ecstatic Cheering
-12220922 |  
+12220922 | Airflow Sensation
+12220949 | Home New Style Pack 3
 12220950 | Aphrodite Shop
 12220951 |  
 12220952 |  
@@ -35443,6 +36369,8 @@
 12220970 | Hyped Crowd
 12220971 | Extreme Save
 12220972 | Peko Rap
+12220973 | Home New Style Pack 2
+12220974 | Home New Style Pack 1
 12220975 | Home New Style Pack 3
 12220976 | Home New Style Pack 2
 12220977 | Home New Style Pack 1
@@ -35501,12 +36429,141 @@
 12221035 |  
 12221036 |  
 12221037 |  
+12221038 | Bell of Myriad Beasts
+12221039 | Soul Dweller Mask
+12221040 |  
+12221041 |  
+12221042 |  
+12221043 |  
+12221044 |  
+12221045 |  
+12221046 |  
+12221047 |  
+12221048 |  
+12221049 |  
+12221050 |  
+12221051 |  
+12221052 |  
+12221053 |  
+12221054 |  
+12221055 |  
+12221056 |  
+12221057 |  
+12221058 |  
+12221059 |  
+12221060 |  
+12221061 |  
+12221062 |  
+12221063 |  
+12221064 |  
+12221065 |  
+12221066 |  
+12221067 |  
+12221068 |  
+12221069 |  
+12221070 |  
+12221071 |  
+12221072 |  
+12221073 |  
+12221074 |  
+12221075 |  
+12221076 |  
+12221077 |  
+12221078 |  
+12221079 |  
+12221080 |  
+12221081 |  
+12221082 |  
+12221083 |  
+12221084 | Podium Celebration
+12221086 | Wolfcall Hunt
+12221087 | Serpent Vine Awakening
+12221088 | Naruto Uzumaki Interaction
+12221089 | Naruto Uzumaki Interaction
+12221090 | Naruto Uzumaki Interaction
+12221091 | Sasuke Uchiha Interaction
+12221092 | Sakura Haruno Interaction
+12221093 | Kakashi Interaction
+12221094 |  
+12221095 |  
+12221096 |  
+12221097 |  
+12221098 |  
+12221099 |  
+12221100 |  
 12221101 |  
+12221102 |  
 12221201 |  
 12221202 |  
 12221203 |  
 12221204 |  
 12221205 |  
+12221206 |  
+12221950 |  
+12221951 |  
+12221952 |  
+12221953 |  
+12221954 | Phantasia Siren
+12221955 |  
+12221956 |  
+12221957 |  
+12221958 |  
+12221959 | Naruto (Sage Mode)
+12221960 |  
+12221961 |  
+12221962 |  
+12221963 |  
+12221964 | Naruto (Six Paths Mode)
+12221965 |  
+12221966 |  
+12221967 |  
+12221968 |  
+12221969 |  
+12221970 |  
+12221971 |  
+12221972 |  
+12221973 |  
+12221974 | Ninja Run
+12221975 | Wind-Blown Cloak
+12221976 | 1,000 Years of Pain
+12221977 | Failed Shadow Clone
+12221978 | Summoning Scroll
+12221979 | Eighth Gate of Death: Open
+12221980 | Transformation Jutsu
+12221981 | Gaara Exclusive Emote
+12221982 | Madara Exclusive Emote
+12221983 | Jiraiya Exclusive Emote
+12221984 | Tsunade Exclusive Emote
+12221985 | Hinata Exclusive Emote
+12221986 | Kakashi Exclusive Emote
+12221987 | Sakura Haruno Exclusive Emote
+12221988 | Sasuke Uchiha Exclusive Emote
+12221989 | Spider Descent
+12221990 | Spin & Leap
+12221992 | Lat Kha Maung
+12221993 | Empty Dance Sequence
+12221994 | Deepsea Adventure
+12221995 |  
+12221996 |  
+12221997 |  
+12221998 |  
+12222000 | Hand Seal Dance
+12222100 |  
+12222101 |  
+12222102 |  
+12222103 |  
+12222104 |  
+12222105 |  
+12222106 |  
+12222107 |  
+12222950 |  
+12222951 |  
+12222952 |  
+12222953 |  
+12222954 | Gale Force
+12222955 | Ramen Slurp
+12222956 |  
+12230000 | Emote Name - Bolti Bandh
 14004737 | Racer Set (Blue) (7d)
 14005097 | Western Duel Set (7d)
 14006617 | Mountaineer Set (7d)
@@ -35579,6 +36636,8 @@
 15043923 | Additional V4.3 RP Favorites Crate
 15043924 | Additional V4.3 RP Favorites Crate
 15043925 | Additional V4.4 RP Favorites Crate
+15043926 |  
+15043927 |  
 15050100 | Bonus Pass Fashion Crate
 15100001 |  
 15110001 | Locked Crate
@@ -35925,6 +36984,9 @@
 19106001 | Tracked Amphicarrier
 19106002 | Shadow Strike Armored Vehicle
 19116001 | Roadster
+19116002 | Ferrari SF90 XX Spider (Rosso Corsa)
+19116003 | Ferrari SF90 XX Spider (Metallic White)
+19116004 | Ferrari SF90 XX Spider (Racing Stripe)
 19200001 | GACKT(Top Artist)
 19200002 | アップビートガール
 19200003 | Sumin,Sieun,ISA voice
@@ -36049,6 +37111,9 @@
 19200125 | Usada Pekora(Wild)
 19200126 | Ravi Gupta Special Voice
 19200127 | Bhuvan Bam Special Voice
+19200128 | New
+19200129 | New
+19200130 | New
 19610200 | Lamborghini Aventador SVJ Verde Alceo
 19610210 | Lamborghini Centenario Galassia
 19610240 | Lamborghini Aventador SVJ Blue
@@ -36086,6 +37151,7 @@
 20301029 | Duo Twirl
 20301030 | Charming Step
 20301031 | Keen Edge
+20301032 | Synchro Duet
 20302001 | Connection Emote (Default)
 20401001 | Special RP Level Card
 20401002 | Advanced Special RP Level Card
@@ -36173,6 +37239,18 @@
 22010065 | Victory Dance (A19)
 22010066 |  
 22010067 |  
+22010069 |  
+22010070 |  
+22010071 | Chaotic Dance
+22010072 | Sweetheart Delight
+22010073 | Chromeshark Shredder
+22010074 | Wavesong Sprite
+22010075 | Wavesong Sprite (Screen Emote)
+22010076 | Rhythmic Sound Wave
+22010077 | Quantum Harmony
+22010078 | Victory Dance (A20)
+22010079 | Victory Dance (A20)
+22010080 |  
 22080001 | Firearm Collection Display
 22080002 | Outfit Collection Display
 22080003 | Vehicle Collection Display
@@ -36197,6 +37275,38 @@
 22200003 | Anniversary Cabin Display
 22200004 | BLUE LOCK Cabin Display
 22200005 | Soccer Celebration Cabin Display
+22200006 | NARUTO Cabin Display
+22200007 |  
+22200008 |  
+22200009 |  
+22200010 |  
+22200011 |  
+22200012 |  
+22200013 |  
+22200014 |  
+22200015 |  
+22200016 |  
+22200017 |  
+22200018 |  
+22200019 |  
+22200020 |  
+22200021 |  
+22200022 |  
+22200023 |  
+22200024 |  
+22200025 |  
+22200026 |  
+22200027 |  
+22200028 |  
+22200029 |  
+22200030 |  
+22200031 |  
+22200032 |  
+22200033 |  
+22200034 |  
+22200035 |  
+22200036 |  
+22200037 |  
 23051001 |  
 23051002 |  
 23140001 |  
@@ -36297,6 +37407,11 @@
 25010088 | Silver Collection Milestone - Eternal Pillars
 25010089 | Silver Collection Milestone - War Spear's Edge
 25010090 | Gold Collection Milestone - Restful Bloom
+25010091 | Silver Collection Milestone - Sakura Blade Dance
+25010092 | Silver Collection Milestone - Tide Song Harp
+25010093 | Gold Collection Milestone - Siren's Aria
+25010094 | Silver Collection Milestone - Mini14
+25010095 | Gold Collection Milestone - Mini14
 30007011 | Silver Draw Card
 30007012 | Silver Draw Card
 30007013 | Silver Draw Card
@@ -36392,6 +37507,7 @@
 39001107 | Bronze Soccer Ball
 39001108 | Silver Soccer Ball
 39001109 | Gold Soccer Ball
+39001110 | Crimson Magatama
 40601001 | Hair A
 40601002 | Hair B
 40601003 | Hair C
@@ -36444,6 +37560,7 @@
 40605015 | Ponytail Hairstyle
 40605016 | Shadow Ember Hairstyle
 40605017 | Neon Rain Hairstyle
+40605018 | Side Part Bob Hairstyle
 40606001 | Hair A
 40606002 | Hair B
 40606003 | Hair C
@@ -36459,6 +37576,7 @@
 41010004 | Primewood Genesis MVP Emote
 41010005 | Evolving Universe MVP Emote
 41010006 | Hero's Crown MVP Emote
+41010007 | Instant Combo MVP Emote
 41020001 | Default Squad Results Pose
 41020002 | Spooky Soiree Squad Results Pose
 41020003 | Crowned Star Squad Results Pose
@@ -36466,6 +37584,7 @@
 41020005 | Primewood Genesis Squad Results Pose
 41020006 | Evolving Universe Squad Results Pose
 41020007 | Hero's Crown Squad Results Pose
+41020008 | Hidden Mantra Squad Results Pose
 41030001 | Default MVP Badge
 41030002 | Spooky Soiree MVP Badge
 41030003 | Crowned Star MVP Badge
@@ -36473,6 +37592,7 @@
 41030005 | Primewood Genesis MVP Badge
 41030006 | Evolving Universe MVP Badge
 41030007 | Hero's Crown MVP Badge
+41030008 | Vermilion Fan MVP Badge
 42060001 | Scorpion Horn
 42060401 | Florawings
 42060402 | Targeting Vine
@@ -36503,11 +37623,13 @@
 46002009 | Victory Dance (A17)
 46002010 | Victory Dance (A18)
 46002011 | Victory Dance (A19)
+46002012 | Victory Dance (A20)
 50000001 | Crying Ray
 50000002 | Ray LIKEs
 50000003 | Juggle
 50000004 | Ray Greeting
 50000005 | Ray Greeting
+50000006 | Ray Heart
 50001001 | Stand
 50001002 | Appear
 50001003 | Leave
@@ -36872,6 +37994,11 @@
 50046003 | Run
 50046004 | Jump
 50046005 | Swim
+50047001 | Idle
+50047002 | Walk
+50047003 | Run
+50047004 | Jump
+50047005 | Swim
 60241001 | Swordfish Syringe
 60241002 | Swordfish Syringe (Green)
 61010001 | Default
@@ -36941,6 +38068,9 @@
 61010065 | PMGO Esports Player Pop-Up Finish
 61010066 | Laurel Crown Pop-Up Finish (Lv. 1)
 61010067 | Laurel Crown Pop-Up Finish (Lv. 2)
+61010068 | Japanese Art Pop-Up Finish (Lv. 1)
+61010069 | Japanese Art Pop-Up Finish (Lv. 2)
+61010070 | Silent Sea Melody Time-Limited Pop-Up Finish
 61100001 | Default
 61100002 | Noble Crown Dynamic Info Card
 61100003 | Dancing Lion Info Card
@@ -37074,6 +38204,16 @@
 61100131 | Helion Info Card
 61100132 | S30 Diamond Info Card
 61100134 | Glory Info Card
+61100135 | Japanese Art Info Card
+61100136 | Mystic Fox Dynamic Info Card (Lv. 1)
+61100137 | Mystic Fox Dynamic Info Card (Lv. 2)
+61100138 | Mystic Fox Dynamic Info Card (Lv. 3)
+61100139 | Treasured Relics Info Card
+61100140 | Shattered Window Dynamic Info Card
+61100141 | S31 Diamond Info Card
+61100142 | Conch Melody Info Card
+61100143 | Silent Sea Melody Time-Limited Info Card
+61100144 | Ichiraku Naruto Info Card
 61200001 | Default
 61200002 | Rising Star Player Card
 61200003 | Advance Player Card
@@ -37207,6 +38347,15 @@
 61200132 | Finish Line Moment Dynamic Player Card
 61200133 | Helion Social Player Card
 61200134 | WOW Curator Player Card
+61200135 | Japanese Art Player Card
+61200136 | Mystic Fox Dynamic Player Card (Lv. 1)
+61200137 | Mystic Fox Dynamic Player Card (Lv. 2)
+61200138 | Mystic Fox Dynamic Player Card (Lv. 3)
+61200139 | Treasured Relics Player Card
+61200140 | Shattered Window Dynamic Player Card
+61200141 | Conch Melody Social Player Card
+61200142 | Silent Sea Melody Time-Limited Player Card
+61200143 | Ichiraku Naruto Social Player Card
 61300001 | Default
 61300002 | Neon Cat Dynamic Nickname
 61300003 | Royale Leo Dynamic Nickname
@@ -37254,7 +38403,7 @@
 61300046 | C9S27 Ultimate Royale Peerless Dynamic Nickname
 61300047 | S29 Ultimate Royale Peerless Dynamic Nickname
 61300048 | S30 Ultimate Royale Peerless Dynamic Nickname
-61300049 |  
+61300049 | S31 Ultimate Royale Peerless Dynamic Nickname
 61300050 |  
 61300051 |  
 61300052 | Mechanical Kite Dynamic Nickname
@@ -37280,6 +38429,11 @@
 61300073 | Winged Pegasus Dynamic Nickname (Lv. 1)
 61300074 | Winged Pegasus Dynamic Nickname (Lv. 2)
 61300075 | Centaur Lyre Dynamic Nickname
+61300076 | Mystic Fox Dynamic Nickname (Lv. 1)
+61300077 | Mystic Fox Dynamic Nickname (Lv. 2)
+61300078 | Swiftwater Blade Time-Limited Dynamic Nickname
+61300079 | Vortex Sigil Time-Limited Dynamic Nickname
+61300080 | Ichiraku Ramen Dynamic Nickname
 61400001 | Default
 61400002 | Neon Cat Chat Bubble
 61400003 | Royale Leo Chat Bubble
@@ -37360,9 +38514,9 @@
 61400078 | S30 Ultimate Royale Supreme Chat Bubble
 61400079 | Winged Pegasus Chat Bubble (Lv. 1)
 61400080 | Winged Pegasus Chat Bubble (Lv. 2)
-61400081 |  
-61400082 |  
-61400083 |  
+61400081 | Mystic Fox Chat Bubble (Lv. 1)
+61400082 | Mystic Fox Chat Bubble (Lv. 2)
+61400083 | S31 Ultimate Royale Supreme Chat Bubble
 61400084 |  
 61400085 |  
 61400086 |  
@@ -37372,6 +38526,11 @@
 61400090 | Centaur Lyre Chat Bubble
 61400091 | WOW Curator Chat Bubble
 61400092 | Glory Chat Bubble
+61400093 | Summer Sea Salt Chat Bubble
+61400094 | Shell Whisper Chat Bubble
+61400095 | Swiftwater Blade Time-Limited Chat Bubble
+61400096 | Vortex Sigil Time-Limited Chat Bubble
+61400097 | Ichiraku Ramen Chat Bubble
 61510000 | Default
 61510001 | Colossal Dragon Background
 61510002 | Moonlight Background
@@ -37396,11 +38555,14 @@
 61510021 | Glowing Stage Background (Lv. 2)
 61510022 | Sunset Temple Background (Lv. 1)
 61510023 | Sunset Temple Background (Lv. 2)
+61510024 | City Corner Background (Lv. 1)
+61510025 | City Corner Background (Lv. 2)
 61520001 | Spooky Soiree Start Animation
 61520002 | Frosty Funland Start Animation
 61520003 | Primewood Genesis Match Start Animation
 61520004 | Evolving Universe Match Start Animation
 61520005 | Hero's Crown Match Start Animation
+61520006 | NARUTO Match Start Animation
 61600001 | Ocean Palace Background
 61600002 | Crimson Castle Background
 61600003 | Frostbound Kingdom Background
@@ -37521,6 +38683,10 @@
 61810109 | Winged Pegasus Sticker
 61810110 | Ford Collection Sticker
 61810111 | Omniwarrior
+61810112 | Mystic Fox Sticker
+61810113 | Seafloor Shell Realm Sticker
+61810114 | Sunny Shell Coast Sticker
+61810115 | Ocean Melody Sticker
 61820001 | Info Card Background (Basic)
 61820002 | Info Card Background (Advanced)
 61820003 | Info Card Background (Radiant)
@@ -37539,6 +38705,7 @@
 61840010 | Ceremony Incarnate Sticker
 61840011 | Bright Star Sticker
 61840012 | Grand Guard Sticker
+61840013 | Mountain Sanctum Sticker
 61910001 | Collection Nickname - Gold
 61910002 | Default Nickname
 61910003 | Ultimate Royale Legend Nickname Color
@@ -37595,6 +38762,10 @@
 62110027 | Winged Pegasus Chat Room Background (Lv. 1)
 62110028 | Winged Pegasus Chat Room Background (Lv. 2)
 62110029 | Finish Line Moment Chat Room Background
+62110030 | Summer Sea Salt Chat Room Background
+62110031 | Mystic Fox Chat Room Background (Lv. 1)
+62110032 | Mystic Fox Chat Room Background (Lv. 2)
+62110033 | Shattered Window Chat Room Background
 62110101 | Two Hearts as One Chat Background
 62110102 | Friendship Boat Chat Background
 62110103 | Romantic Castle Chat Background
@@ -37606,6 +38777,7 @@
 62110109 | Primewood Genesis Chat Background
 62110110 | Evolving Universe Chat Background
 62110111 | Hero's Crown Chat Background
+62110112 | NARUTO Chat Background
 62120101 | Glorious Return Chat Background
 62310001 | Default Info Card Frame
 62310002 |  
@@ -37618,8 +38790,11 @@
 62410004 |  
 62410005 |  
 62510001 | Hero's Crown Crew Nickname
+62510002 | NARUTO Crew Nickname
 62520001 | Hero's Crown Crew Appearance
+62520002 | NARUTO Crew Appearance
 62530001 | Hero's Crown Crew Spawn Island Broadcast
+62530002 | NARUTO Crew Spawn Island Broadcast
 63201581 | Mystery Crate
 66230001 | Halloweeks Prank Graffiti
 66611001 | Basic Square Floor
@@ -37681,6 +38856,15 @@
 66611060 | Sanctum Grass III
 66611061 | Stellar Orbit Cosmos Floor
 66611062 | Deep Blue Cosmos Floor
+66611063 | Wave Flow Floor I
+66611064 | Wave Flow Floor II
+66611065 | Large Wave Flow Floor
+66611066 | Pearl Shell Shallow Tide Floor
+66611067 | Shallow Tide Straight Floor
+66611068 | Fan-Shaped Shallow Tide Floor
+66611069 | Pearl Shell Shallow Tide Pool
+66611070 | Fan-Shaped Shallow Tide Pool
+66611071 | Crescent Shallow Tide Pool
 66612001 | Oasis Roof
 66612002 | Large Oasis Roof
 66612003 | Ancient Capital Roof I (Edge)
@@ -37745,7 +38929,6 @@
 66612062 | Simple Round-Cornered Roof
 66612063 | Charming Cafe Roof
 66612064 | Charming Kitty Roof
-66612065 | Simple Small Crescent Roof
 66612066 | Oasis Lavish Glass Roof
 66612067 | Bronzework Bastion Large Spire
 66612068 | Bronzework Bastion Cupola Spire
@@ -37826,6 +39009,13 @@
 66612147 | Midnight Roof II
 66612148 | Midnight Roof III
 66612149 | Stellar Orbit Magic Roof
+66612151 | Large Aquarium Roof
+66612152 | Bay Aqua Ripple Roof
+66612153 | Aqua Ripple Ceiling I
+66612154 | Aqua Ripple Ceiling II
+66612155 | Large Seadream Ceiling
+66612156 | Bay Wave Flow Roof
+66612157 | Bay Corridor Ceiling
 66613001 | Basic Wall
 66613002 | 1/2 Basic Wall
 66613003 | 1/4 Basic Wall
@@ -38009,6 +39199,13 @@
 66613182 | Sanctum Gleam Arch
 66613183 | Sanctum Gleam Low Wall
 66613184 | Sanctum Courtyard Low Wall
+66613185 | Bay Wave Flow Stone Wall
+66613186 | Bay Bubbles Decorative Wall
+66613187 | Bubbles Large Decorative Wall
+66613188 | Bay Wave Flow Arc-Shaped Wall
+66613189 | Bay Wave Flow Decorative Wall
+66613190 | Bay Wave Flow High Wall
+66613191 | 1/2 Wave Flow Stone Wall
 66614001 | Basic Door
 66614002 | Large Basic Door
 66614003 | Large Lake Mirror Door
@@ -38073,6 +39270,11 @@
 66614064 | Sanctum High Window Stone Door
 66614065 | Sanctum Gleam Stone Door
 66614066 | Stellar Orbit Auric Tall Door
+66614067 | Bay Wave Flow Doorway
+66614068 | Bay Tall Doorway
+66614069 | Pearl Shell Tall Doorway
+66614070 | Bubbles Decorative Doorway
+66614071 | Seaview Tall Doorway
 66615001 | Basic Window
 66615002 | Fine Delicate Window
 66615003 | Delicate Window
@@ -38155,6 +39357,14 @@
 66615084 | Sanctum Gleam Stone Window
 66615085 | Stellar Orbit Cosmos Tall Window
 66615086 | Starry Midnight Tall Window
+66615087 | Bay Wave Flow Stone Window
+66615088 | Bay Wave Flow Tall Window
+66615089 | Pearl Shell Wave Flow Tall Window
+66615090 | Bay Arc-Shaped Tall Window
+66615091 | Large Seaview Window
+66615092 | Tall Seaview Window
+66615093 | Bay Bubbles Stone Window
+66615094 | Bubbles Large Decorative Window
 66616001 | Basic Wooden Railing
 66616002 | Delicate Railing
 66616003 | Oasis Stone-Carved Railing
@@ -38204,6 +39414,9 @@
 66616047 | Glazed Luster Fan-Shaped Railing
 66616048 | Auric Stellar Orbit Railing
 66616049 | Sanctum Gleam Railing
+66616050 | Bay Pearl Shell Railing
+66616051 | Wave Flow Fan-Shaped Railing
+66616052 | Wave Flow Railing
 66617001 | Tall Minimalist Stairs
 66617002 | Tall Iron Stairs
 66617003 | Medium Minimalist Stairs
@@ -38275,6 +39488,11 @@
 66617069 | Glazed Wonderland Stairs
 66617070 | Auric Entrance Stairs
 66617071 | Midnight Galaxy Staircase
+66617072 | Bay Stone Pattern Stairs
+66617073 | Bay Pearl Shell Staircase
+66617074 | Wave Flow Gangway I
+66617075 | Wave Flow Gangway II
+66617076 | Wave Flow Gangway III
 66618001 | Oasis Inner Balcony
 66618002 | Ancient Capital Pavilion
 66618003 | Ancient Capital-Style Doorway (1st Story)
@@ -38309,6 +39527,8 @@
 66618033 | Devotion Simple Round Tower
 66618034 | Glazed Palace Courtyard Gate
 66618035 | Stellar Orbit Courtyard Gate
+66618036 | Bay Pearl Shell Sunshade Pavilion
+66618037 | Bay Wave Flow Entrance Door
 66619001 | Oasis Stone Pillar I
 66619002 | Oasis Stone Pillar II
 66619003 | Ancient Capital Wooden Pillar
@@ -38351,6 +39571,9 @@
 66619040 | Courtyard White Stone Tall Pillar
 66619041 | Sanctum Auric Tall Pillar
 66619042 | Sanctum Cosmos Tall Pillar
+66619043 | Bay Wave Flow Tall Pillar
+66619044 | Bay Wave Flow Stone Pillar
+66619045 | Bay Pearl Shell Stone Pillar
 66619101 | Circular Floating Base
 66619102 | Fan-Shaped Floating Base
 66619103 | Square Floating Base
@@ -38542,6 +39765,8 @@
 66620277 | Glazed Jadeite Floor Tile
 66620278 | Dreamy Palace White Stone Floor Tile
 66620279 | Deep Blue Sanctum Floor Tile
+66620280 | Bay Aqua Ripple Floor Tile
+66620281 | Playful Bay Beach
 66620301 | Natural Color Walnut Wood Tile
 66620302 | Straight Laid Walnut Wood Tile
 66620303 | Neatly Laid Beech Wood Tile
@@ -38590,6 +39815,8 @@
 66620432 | Gold Wisp Green Leaf Wallpaper
 66620433 | Midnight Meteor Wallpaper
 66620434 | Cosmic Constellation Wallpaper
+66620435 | Bay Swimming Fish Wallpaper
+66620436 | Relaxing Bubbles Wallpaper
 66620501 | Subzero Frost Wallpaper
 66620502 | Evergreen Mansion Grass
 66620503 | Entwined Blossom Wallpaper
@@ -38604,6 +39831,10 @@
 66620512 | Stellar Orbit Mark Wallpaper
 66620513 | Cosmic Skyscape Wallpaper
 66620514 | Starry Sanctum Wallpaper
+66620515 | Summer Shell Wallpaper (Royale Pass-exclusive)
+66620516 | Wave Flow Seashell Wallpaper
+66620517 | Cheerful Dolphin Wallpaper
+66620518 | Summer Sea Breeze Wallpaper
 66630101 | Small Silver Tree
 66630102 | Small Golden Tree
 66630103 | Huge Golden Tree
@@ -38772,6 +40003,7 @@
 66630317 | Devotion Double Bed
 66630318 | Glazed Illusion Double Bed
 66630319 | Midnight Dream Double Bed
+66630320 | Seadream Jellyfish Bed
 66630401 | Minimalist Double Sofa
 66630402 | Azure Double Sofa
 66630403 | Beige Double Sofa
@@ -38931,6 +40163,8 @@
 66630557 | Stellar Orbit Throne Side Table
 66630558 | Stellar Orbit Round Table
 66630559 | Midnight Starry Desk
+66630560 | Star Conch Coffee Table
+66630561 | Seadream Pearl Shell Dining Table
 66630601 | White Closet
 66630602 | Beige TV Cabinet
 66630603 | Minimalist Bookshelf
@@ -38983,6 +40217,7 @@
 66630650 | Stellar Orbit Starry Closet
 66630651 | Midnight Auric Bookshelf
 66630652 | Angled Auric Bookshelf
+66630653 | Pearl Shell Shelf
 66630701 | Wooden Guitar
 66630702 | Simple Piano
 66630703 | Luxury Piano
@@ -39001,6 +40236,7 @@
 66630716 | Moonlit Glaze Piano
 66630717 | Neon Dazzle Electric Guitar
 66630718 | Devotion Rose Harp
+66630719 | Seadream Pearl Shell Piano
 66630801 | Standing Vinyl Record Player
 66630802 | Minimalist Music Box
 66630803 | Oasis Music Box
@@ -39029,6 +40265,7 @@
 66630917 | Electro Pixel Arcade Cabinet
 66630918 | Tournament Viewing Station
 66630919 | Neon Electro Dance Machine
+66630920 | Sweet Summer Vending Machine
 66631001 | Small Oasis Carpet
 66631002 | Red Oasis Curtains
 66631003 | Cyan Oasis Curtains
@@ -39121,6 +40358,11 @@
 66631090 | Stellar Orbit Order Bell
 66631091 | Stellar Orbit Auric Carpet
 66631092 | Cosmos Sanctum Balancing Scale
+66631093 | Sweet Summer Wave Flow Wall Decor
+66631094 | Bay Pearl Shell Door Curtain
+66631095 | Bay Cool Water Curtain
+66631096 | Star Conch Wall Decoration
+66631097 | Wave Flow Carpet
 66631101 | Minimalist Kitchen
 66631102 | Toilet
 66631103 | Bathtub
@@ -39158,6 +40400,8 @@
 66631135 | Lustrous Jade Bar Counter
 66631136 | Stellar Orbit Auric Sink
 66631137 | Midnight Starry Bathtub
+66631138 | Seadream Star Conch Bathtub
+66631139 | Sharky Bay Bistro
 66631201 | Oasis Tower (Bottom)
 66631202 | Oasis Tower (Top)
 66631203 | Ancient Capital Corridor Bridge
@@ -39476,6 +40720,11 @@
 66631536 | Bachira Meguru Home Figure
 66631537 | Nagi Seishiro Home Figure
 66631538 | Itoshi Rin Home Figure
+66631539 | Royale Pass A20 Collectible Statue
+66631540 | Nine-Tails
+66631541 | Naruto Uzumaki Home Statue
+66631542 | Sasuke Uchiha Home Statue
+66631543 | Sakura Haruno Home Statue
 66631704 | Black Photo Frame
 66631705 | White Photo Frame
 66631706 | Brown Photo Frame
@@ -39505,6 +40754,10 @@
 66632110 | Stellar Orbit Auric Base
 66632111 | Deep Blue Cosmos Sofa
 66632112 | Stellar Orbit Seat
+66632113 | Cartoon Lobster Sofa
+66632114 | Seadream Pearl Shell Dining Chair
+66632115 | Jellyfish Outdoor Sofa
+66632116 | Sharky Round Stool
 66632300 | Enchanted Fairy Mushroom
 66632301 | Fairy Magic Carriage
 66632302 | Enchanted Fairy Swing
@@ -39615,7 +40868,7 @@
 66632407 | Glazed Unicorn Statue
 66632408 | Glazed Jadeite Decorative Pillar
 66632409 | Dreamy Palace Water Stone Steps
-66632410 | Dreamy Palace Tower Roof
+66632410 | Dreamy Palace Tower Top
 66632411 | Dreamy Palace Spire I
 66632412 | Dreamy Palace Spire II
 66632413 | Dreamy Palace Spire III
@@ -39636,13 +40889,37 @@
 66632428 | Stellar Orbit Telescope
 66632429 | Stellar Orbit Cosmos Screen
 66632430 | Stellar Orbit Cosmos Decorative Pillar
+66632431 | Bay Bubble Bazooka
+66632432 | Bay Kiddie Ride
+66632433 | Giant Coconut Observation Deck
+66632434 | Seadream Check-In Stand
+66632435 | Bay Double Slide
+66632436 | Bay Spiral Slide
+66632437 | Seadream Coral Statue
+66632438 | Star Conch Wall Fountain
+66632439 | Seadream Eco Tank
+66632440 | Bay Roaming Jellyfish
+66632441 | Bubbly Fish Balloon
+66632442 | Seadream Passage
+66632443 | Bay Star Conch Tower
+66632444 | Bay Water Curtain Tower Top
+66632445 | Seaview Star Conch Spire
+66632446 | Breezy Star Conch Tower Top
+66632447 | Seaview Pearl Shell Tower
+66632448 | Bay Pearl Shell Passage
+66632449 | Cool Wave Flow Passage
+66632450 | Bay Sweet Summer Suspension Bridge
 66632700 | Glazed Petal Chandelier
 66632701 | Glazed Gold Wisp Floor Lamp
 66632702 | Stellar Orbit Cosmos Chandelier
 66632703 | Stellar Orbit Cosmos Table Lamp
 66632704 | Stellar Orbit Cosmos Corridor Lamp
+66632705 | Seaydream Manta Ray Chandelier
+66632706 | Bay Pearl Shell Candle Holder
 66633000 | Scarlet Affection Advanced Portal
 66633934 | Stellar Orbit Cosmos Advanced Portal
+66633935 | Seadream Advanced Portal
+66633936 | Bay Dream Bubble Blower
 66639901 | Homing Pigeon
 66639902 | Hawk
 66640001 | Street in Summer
@@ -39720,6 +40997,7 @@
 66660015 | Rose Mansion Doorplate Finish
 66660016 | Glazed Palace Doorplate Finish
 66660017 | Starfall Sanctuary Doorplate Finish
+66660018 | Seashell Bay Doorplate Finish
 66660100 | Blissful Duo Doorplate Finish
 66670001 |  
 66680001 | Basic Roommate Crystal
@@ -39746,14 +41024,32 @@
 66688819 | Gold AKM Statue
 66688820 | Metro Mogul Statue
 66688821 | Peerless Soccer Champ Statue
+66688822 | Nine-Tails Statue
 66701001 | Default
 66701002 | Summer Home Pack Finish
 66701003 | Halloweeks Home Pack Finish
 66702001 | Default
 66702002 | Summer Home Invitation Letter
 66702003 | Pink Rejuvenation Home Invitation Letter
-66800001 | Default Profile Details Share Photo
+66800001 | Hero's Crown Details Share Image
 66800002 |  
+66801201 | Basic Cushion
+66801202 | Meowy Cushion
+66801203 | Basic Display Cabinet
+66801204 | Warm Wooden Display Cabinet
+66809001 | Power Strike
+66809002 | Strike Barrage
+66809003 | Multi-Strike
+66809004 | Charge
+66809005 | Drain Strike
+66809006 | Strength Boost
+66809007 | Defense Boost
+66809008 | Health Boost
+66809009 | Dodge Boost
+66809010 | Health Recovery
+66809011 | Lower Defense
+66809012 | Lower Attack
+66809013 | Instant Heal
 66810001 |  
 66810002 |  
 66860001 | Windmill Meadow
@@ -40238,6 +41534,43 @@
 98010010 | Soccer Celebration Card Pack
 98010011 | Steal a Brainrot Card Pack
 98010012 | Gourmet Series - Middle East Pack
+98010013 | Playful Battleground 3.0 Card Pack
+98010014 | Ninja Nation Card Pack
+98010015 | Legendary Ninja Card Pack
+98010016 | Collector Card Pack
+98010017 |  
+98010018 |  
+98010019 |  
+98010020 |  
+98010021 |  
+98010022 |  
+98010023 |  
+98010024 |  
+98010025 |  
+98010026 |  
+98010027 |  
+98010028 |  
+98010029 |  
+98010030 |  
+98010031 |  
+98010032 |  
+98010033 |  
+98010034 |  
+98010035 |  
+98010036 |  
+98010037 |  
+98010038 |  
+98010039 |  
+98010040 |  
+98010041 |  
+98010042 |  
+98010043 |  
+98010044 |  
+98010045 |  
+98010046 |  
+98010047 |  
+98010048 |  
+98010049 |  
 99010001 | Evacuation Master
 99010002 | Melody Strongest Team
 99010003 | Raging Rush Strongest Team
@@ -40300,6 +41633,310 @@
 99010060 | TT
 99010061 | DK
 99010062 | DRX
+99010063 | DX
+99010064 | AE
+99010065 | AE-ROSEMARY
+99010066 | R8-AMOORI
+99010067 | KARA-CEO
+99010068 | ULF-KECTH
+99010069 | GOAT
+99010070 | REG
+99010071 | MAD
+99010072 | EA
+99010073 | R8
+99010074 | KARA
+99010075 | VPE
+99010076 | FL
+99010077 | Desert Camels
+99010078 | Celestial Golden Dome
+99010079 | Reversal Blade
+99010080 | The Princess' Dream
+99010081 | Attack Titan
+99010082 | Colossal Titan
+99010083 | Captain Levi
+99010084 | Train
+99010085 | Cybertron
+99010086 | Decepticon Leader
+99010087 | Autobot Leader
+99010088 | Energon Core
+99010089 | Temporal Vault
+99010090 | Achilles' Phantom
+99010091 | Battle Flag - Activate
+99010092 | Helion
+99010093 | Laurel
+99010094 | Karambit - Blazing Sun
+99010095 | Karambit - Blazing Sun
+99010096 | Training Ground
+99010097 | Sun Chariot
+99010098 | Golden Ball
+99010099 | Sacred Fire
+99010100 | Wax Wings
+99010101 | Heart of Fury
+99010102 | Spartan Infantry
+99010103 | Battle Flag
+99010104 | Trial Point
+99010105 | Pandora's Crate
+99010106 | Floating Door
+99010107 | Crown's Abode
+99010108 | BLUE LOCK
+99010109 | Nagi Seishiro
+99010110 | Isagi Yoichi
+99010111 | Bachira Meguru
+99010112 | Chigiri Hyoma Vehicle
+99010113 | Itoshi Rin
+99010114 | BLUE LOCK Backpack
+99010115 | Prison Shackles
+99010116 | Soccer Ball Pendant
+99010117 | 67
+99010118 | Droppalero Droppala
+99010119 | Simit Kedi
+99010120 | Pingu
+99010121 | Habibini Panini
+99010122 | La Esok Sekolah
+99010123 | Bananino Taurino
+99010124 | Pesciolino Cascolino
+99010125 | Capibarello Cocosini
+99010126 | Padellone Testosterone
+99010127 | Maasai Maasai Maasai Sahur
+99010128 | Rickshaw TukTukini
+99010129 | Caramello Filtrello
+99010130 | Pato Pato Quack Quack
+99010131 | Argentina National Football Team
+99010132 | Portugal National Football Team
+99010134 | Iraq National Football Team
+99010135 | Uzbekistan National Football Team
+99010136 | Richarlison
+99010137 | Rizky Ridho
+99010138 | Mahmoud Trezeguet
+99010139 | Issam Chaouali
+99010140 | Feras Albrikan
+99010141 | Richarlison
+99010143 | Rizky Ridho
+99010144 | T. Rex
+99010145 | Velociraptor
+99010146 | Pterosaur
+99010147 | Convertible Car
+99010148 | Ford Mustang GTD
+99010149 | PMGO S1 Winner's Trophy
+99010150 | Brilliant Shot
+99010151 | Ford F-150 Raptor
+99010152 | Harley-Davidson
+99010153 | TRIAL OF FIRE REALITY SHOW CARD
+99010154 | Celebrate Together
+99010155 | WOW DASH FINAL CHALLENGE
+99010156 | V4.5 Mysterious Scroll
+99010157 |  
+99010158 |  
+99010159 | Prometheus' Trial
+99010160 | Spartan's Trial
+99010161 |  
+99010162 | Centaur Warrior
+99010163 | Elite Heroic Shadow
+99010164 | Icarus Pickup
+99010165 | Kabsa
+99010166 | Dolma
+99010167 | Kharouf Mashwi
+99010168 | Kebdah
+99010169 | Ra's kharoof
+99010170 | Mashawi Mshakal
+99010171 | Malfouf
+99010172 | Hummus with Spiced Meat
+99010173 | Mandi
+99010174 | Fattah
+99010175 | Shish Kebab
+99010176 | Kofta
+99010177 | Mansaf
+99010178 | Couscous
+99010179 | Kibbeh
+99010180 | Ma'amul
+99010181 | Kunafa
+99010182 | Baklava
+99010183 | Tabbouleh
+99010184 | Rish Kharouf
+99010185 | Mahmoud Trezeguet
+99010186 | Feras Albrikan
+99010187 | Uğurcan Çakır
+99010188 | Uğurcan Çakır
+99010189 | Nine-Tails Tailed Beast Ball
+99010190 | Nine-Tails
+99010191 | Reanimation Jutsu
+99010192 | Gamabunta
+99010193 | Nine-Tails Space
+99010194 | Valley of the End
+99010195 | Make-Out Paradise
+99010196 | Hokage Generations
+99010197 | Flying Raijin
+99010198 | Chidori
+99010199 | Rasengan
+99010200 | Anbu
+99010201 | Sexy Jutsu
+99010202 | Multiple Shadow Clones
+99010203 | Fire Style: Great Fireball Jutsu
+99010204 | Mud Wall
+99010205 | Ninjutsu Scroll
+99010206 | Substitution Jutsu
+99010207 | Training Ground Three
+99010208 | Ichiraku Ramen
+99010209 | Shuriken
+99010210 | Rogue Ninja
+99010211 | Ichiraku Ramen Shop
+99010212 | Ninja Academy
+99010213 | Hokage Mansion
+99010214 | NARUTO SHIPPUDEN
+99010215 | Naruto (Six Paths Mode)
+99010216 | Naruto (Sage Mode)
+99010217 | Naruto Uzumaki
+99010218 | Sasuke Uchiha
+99010219 | Sakura Haruno
+99010220 | Kakashi
+99010221 | The Fourth's Cloak Set
+99010222 | Jiraiya
+99010223 | Tsunade
+99010224 | Madara Uchiha
+99010225 | Gaara
+99010226 | Hinata Hyuga
+99010227 | New
+99010228 | Air Drop Carnival 2026 Commemorative Card
+99010229 | Paris, France
+99010230 | Champion YG
+99010231 | Champion 4T
+99010232 | FMVP ULF-KECTH
+99010233 | 2nd Place ULF
+99010234 | 3rd Place FURIA
+99010235 |  
+99010236 | Summer Love Rendezvous
+99010237 | Blood Moon Bat
+99010238 | Mysterious Coffin
+99010239 | Hunter Hat
+99010240 |  
+99010241 |  
+99010242 |  
+99010243 |  
+99010244 |  
+99010245 |  
+99010246 |  
+99010247 |  
+99010248 |  
+99010249 |  
+99010250 |  
+99010251 |  
+99010252 |  
+99010253 |  
+99010254 |  
+99010255 |  
+99010256 |  
+99010257 |  
+99010258 |  
+99010259 |  
+99010260 |  
+99010261 |  
+99010262 |  
+99010263 |  
+99010264 |  
+99010265 |  
+99010266 |  
+99010267 |  
+99010268 |  
+99010269 |  
+99010270 |  
+99010271 |  
+99010272 |  
+99010273 |  
+99010274 |  
+99010275 |  
+99010276 |  
+99010277 |  
+99010278 |  
+99010279 |  
+99010280 |  
+99010281 |  
+99010282 |  
+99010283 |  
+99010284 |  
+99010285 |  
+99010286 |  
+99010287 |  
+99010288 |  
+99010289 |  
+99010290 |  
+99010291 |  
+99010292 |  
+99010293 |  
+99010294 |  
+99010295 |  
+99010296 |  
+99010297 |  
+99010298 |  
+99010299 |  
+99010300 |  
+99010301 |  
+99010302 |  
+99010303 |  
+99010304 |  
+99010305 |  
+99010306 |  
+99010307 |  
+99010308 |  
+99010309 |  
+99010310 |  
+99010311 |  
+99010312 |  
+99010313 |  
+99010314 |  
+99010315 |  
+99010316 |  
+99010317 |  
+99999999 | Ignis X-Suit (4-Star)
+101001002 | Glory - AKM
+101001027 | Bright Yellow - AKM
+101002001 | Sharktooth - M16A4
+101002002 | Blue Tint - M16A4
+101003001 | Rage - SCAR-L
+102001001 | Rage - UZI
+102002001 |  
+102002002 | Glory - UMP45
+102004001 | Blue Tint - Thompson SMG
+103001001 | Blue Tint - Kar98K
+106001001 | Rage - P92
+106002001 | Blue Tint - P1911
+140008945 | Sea Spirit Cap (45d)
+140008960 | Sea Spirit Cap (60d)
+140015503 | Horse Mask (3d)
+140023703 | White Rabbit Set (3d)
+140028260 | Skeleton Suit (60d)
+140032803 | Bunny Swimsuit Headband (3d)
+140032903 | Bunny Swimsuit (Black) (3d)
+140038945 | Lucky Chicken Cover (45d)
+140038960 | Lucky Chicken Cover (60d)
+140041403 | Angry Teddy Mask (3d)
+140041503 | Angry Teddy Suit (3d)
+140046460 | Riveting Set (Male) (60d)
+140047320 | Racer Set (Blue) (20d)
+140047330 | Racer Set (Blue) (30d)
+140047845 | Lumberjack Set (Female) (45d)
+140047860 | Lumberjack Set (Female) (60d)
+140052645 | Slayer Bear Set (45d)
+140052660 | Slayer Bear Set (60d)
+140066120 | Mountaineer Set (20d)
+140066130 | Mountaineer Set (30d)
+140070801 | Crew Uniform
+140070802 | Crew Uniform
+140070803 | Crew Uniform
+140070804 | Crew Uniform
+140070805 | Crew Uniform
+140070806 | Crew Uniform
+140210745 | Operation Leo Beret (45d)
+140210760 | Operation Leo Beret (60d)
+140224445 | S6 Crew Challenge Victor Mask (45d)
+140224460 | S6 Crew Challenge Victor Mask (60d)
+140225700 | Riot Force Cover
+140245415 | Sonic Hunter Headgear (15d)
+140256807 | Karaagekun Headgear (7d)
+140256814 | Karaagekun Headgear (14d)
+140256830 | Karaagekun Headgear (30d)
+140259207 | ZENITH Graphic Helmet (7d)
+140260207 | Karaagekun Headgear (Red) (7d)
+140260214 | Karaagekun Headgear (Red) (14d)
 140260230 | Karaagekun Headgear (Red) (30d)
 140301645 | Crew Challenge Victor Mask (45d)
 140301660 | Crew Challenge Victor Mask (60d)
@@ -40386,6 +42023,7 @@
 181101037 | Vibrant Era Wingman
 181101038 | Dioscuri Wingman
 181101039 | Laurel Academy Wingman
+181101040 | Treasure Beach Wingman
 190105007 | MWT-9 (7d)
 190300503 | Skeleton Hand Sedan (3d)
 202408001 | New Era Theme
@@ -40503,6 +42141,11 @@
 202408119 | Dawn Sanctuary Theme
 202408120 | Love Cloud Terrace Theme
 202408121 | Twin Star Oracle Theme
+202408122 | Shinobi Outset Theme
+202408123 | Shadow Rock Theme
+202408124 | Fiery Night Valley Theme
+202408125 | Phantasia Siren Theme
+202408126 | Spider-Man: Brand New Day Theme
 202501001 | Classic Lobby BGM
 202501002 | Lobby BGM
 202501003 | Cozy Cabin BGM
@@ -40525,6 +42168,7 @@
 220010458 | Mutated Vine Avatar Frame
 220010459 | Speed Victory Avatar Frame
 220010460 | Valiant Crown Avatar Frame
+220010462 | Nine-Tails Seal Avatar Frame
 300000001 | Stellar Voyage Avatar Frame
 300000002 | Gilded Summit Avatar Frame
 300000003 | Glacial Zenfish Avatar Frame
@@ -40543,9 +42187,14 @@
 300000016 | Breaking Waves Avatar Frame
 300000017 | Pixel Twins Avatar Frame
 300000018 | Twin Paradise Avatar Frame
+300000019 | Golden Wilds Avatar Frame
+300000020 | Golden Harvest Avatar Frame
+300000021 | Speed Neon Avatar Frame
+300000022 | Apex Race Avatar Frame
 300010001 | New Moon Wind Lamp Avatar
 300010002 | Easter Egg Avatar
 300010003 | Sunshine Beach Avatar
+300010004 | Golden Wilds Avatar
 301010001 | Light Blue WOW Profile
 301010002 | Stellar Voyage WOW Dynamic Profile
 301010003 | WOW Default Profile Appearance
@@ -40566,6 +42215,10 @@
 301010018 | Breaking Waves WOW Dynamic Profile
 301010019 | Pixel Twins WOW Profile
 301010020 | Twin Paradise WOW Dynamic Profile
+301010021 | Golden Wilds WOW Profile
+301010022 | Golden Harvest WOW Dynamic Profile
+301010023 | Speed Neon WOW Profile
+301010024 | Apex Race WOW Dynamic Profile
 301020001 | Gilded Summit WOW Room Entry Notification
 301020002 | Stellar Voyage WOW Room Entry Notification
 301020003 | WOW Default Room Entry Notice
@@ -40586,11 +42239,16 @@
 301020018 | Breaking Waves WOW Room Entry Notification
 301020019 | Pixel Twins WOW Room Entry Notification
 301020020 | Twin Paradise WOW Room Entry Notification
+301020021 | Golden Wilds WOW Room Entry Notification
+301020022 | Golden Harvest WOW Room Entry Notification
+301020023 | Speed Neon WOW Room Entry Notification
+301020024 | Apex Race WOW Room Entry Notification
 301030001 | Default WOW Room Appearance
 301030002 | Gilded Summit WOW Room Appearance
 301030003 | Stellar Voyage WOW Room Appearance
 301040001 | Gilded Summit WOW Comment Finish
 301040002 | Stellar Voyage WOW Comment Finish
+301040003 | WOW Default Comment Finish
 301050001 | Glacial Zenfish WOW Room Light Curtain
 301050002 | Frozen Solitude WOW Room Light Curtain
 303010001 | Target Shutdown WOW Elimination Effect
@@ -40603,6 +42261,8 @@
 303010008 | Pisces Arcana WOW Elimination Effect
 303010009 | Breaking Waves WOW Elimination Effect
 303010010 | Twin Paradise WOW Elimination Effect
+303010011 | Golden Harvest WOW Elimination Effect
+303010012 | Apex Race WOW Elimination Effect
 303020001 | Target Shutdown WOW Respawn Effect
 303020002 | Stellar Voyage WOW Respawn Effect
 303020003 | Frozen Solitude WOW Respawn Effect
@@ -40612,6 +42272,8 @@
 303020007 | Pisces Arcana WOW Respawn Effect
 303020008 | Breaking Waves WOW Respawn Effect
 303020009 | Twin Paradise WOW Respawn Effect
+303020010 | Golden Harvest WOW Respawn Effect
+303020011 | Apex Race WOW Respawn Effect
 304010001 | WOW Pass Mission Card (S1)
 304010002 | WOW Pass Mission Card (S1)
 304010003 | WOW Pass Mission Card (S2)
@@ -40622,6 +42284,8 @@
 304010008 | WoW Pass Mission Card（S4）
 304010009 | WOW Pass Mission Card (S5)
 304010010 | WoW Pass Mission Card（S5）
+304010011 | WOW Pass Mission Card (S6)
+304010012 | WoW Pass Mission Card（S6）
 401992001 |  
 401992002 |  
 406001001 | Hair A (Trial)
@@ -40968,6 +42632,14 @@
 417004451 | Heartstring Bow Ornament
 417004452 | Laurel Academy Ornament
 417004453 | Cryptic Gaze Ornament
+417004454 | Cybernetic Samurai Ornament
+417004455 | Kunai Ornament
+417004456 | Atlantean Ranger Ornament
+417004457 | Ferrari Ornament
+417004458 | Wallet Ornament
+417004459 | Siren Conch Ornament
+417004460 | Wave Cascade Ornament
+417004461 | Cyber Shackles Ornament
 417004999 | BT21 KOYA Ornament
 417418207 | Twilight Vigilante Ornament
 418004001 | Default Ornament
@@ -41317,6 +42989,12 @@
 418004451 | Heartstring Bow Ornament
 418004452 | Laurel Academy Ornament
 418004453 | Cryptic Gaze Ornament
+418004454 | Cybernetic Samurai Ornament
+418004456 | Atlantean Ranger Ornament
+418004458 | Wallet Ornament
+418004459 | Siren Conch Ornament
+418004460 | Wave Cascade Ornament
+418004461 | Cyber Shackles Ornament
 418004999 | BT21 KOYA Ornament
 418418207 | Twilight Vigilante Ornament
 419004169 |  
@@ -41394,6 +43072,7 @@
 602110007 |  
 610100560 | Debut Pop-Up Finish
 610100561 | Sacred Fire Altar Pop-Up Finish
+610100562 | Ichiraku Ramen Shop Pop-Up Finish
 612004000 | Frag Grenade
 612004001 | Arctic Witch Grenade
 612004002 | Thanksgiving
@@ -41554,6 +43233,12 @@
 612004233 | Dioscuri Grenade
 612004234 | Battle Valor Grenade
 612004235 | Saccharine Cage Grenade
+612004236 | Racing Red Grenade
+612004237 | Naturespirit Growth Grenade
+612004238 | Rasenshuriken Grenade
+612004239 | Phantasia Siren Grenade
+612004240 | Wave Cascade Grenade
+612004241 | New
 613004000 | Smoke Grenade
 613004001 | Reindeer Smoke Grenade
 613004002 | Snowflake Smoke Grenade
@@ -41654,6 +43339,8 @@
 613004107 | Lonely City Smoke Grenade
 613004108 | Beast Venom Smoke Grenade
 613004109 | Laurel Academy Smoke Grenade
+613004110 | Electron Mist Smoke Grenade
+613004111 | Coolant Haze Smoke Grenade
 613004139 | Violet Feather Smoke Grenade
 613004141 |  
 614004000 | Stun Grenade
@@ -41703,6 +43390,8 @@
 614004152 | Chromatic Strike Stun Grenade
 614004153 | Striker Shot Stun Grenade
 614004154 | Donut Rush Stun Grenade
+614004155 | Sakura Neko Stun Grenade
+614004156 | Wave Cascade Stun Grenade
 614004199 | Galactic Nova Stun Grenade (7-Day)
 615004000 | Molotov Cocktail
 615004001 |  
@@ -41813,14 +43502,43 @@
 615004115 | Battle Valor Molotov Cocktail
 615004116 | Saccharine Cage Molotov Cocktail
 615004117 | Laurel Academy Molotov Cocktail
+615004118 | Cybernetic Samurai Molotov Cocktail
+615004119 | Naturespirit Growth Molotov Cocktail
+615004120 | Explosive Tag Molotov Cocktail
+615004121 | Phantasia Siren Molotov Cocktail
 619100001 | Companion Sharing Perk
 619110001 | Firearm Sharing Perk
 619120001 | Companion Slot Perk
 619130001 | Companion Head Emoji Perk
 619140001 | Collection Bestowal Perk
 619150001 | Collection Ace Eliminator Broadcast
+619150002 | Verdant Druvaen Ace Eliminator Broadcast
+619150003 | Pyre Druvaen Ace Eliminator Broadcast
+619150004 | Frost Druvaen Ace Eliminator Broadcast
 622010001 | Companion Appearance: Swirl
 622010002 | Companion Appearance: Purple Gleam
+675481001 | Emerald Forest Veins
+675481002 | Azure Radiance
+675481003 | Verdant Deer Spirit
+675481004 | Frostbound Deer
+675481005 | Antler Forest Run
+675481006 | Jade Antler Wild Hunt
+675481007 | Forest Deer Spirit
+675481008 | Celestial Moon Spirit
+675481009 | Wolf Shadow Wilds
+675481010 | Fiery Incarnation
+675481011 | Blazing Wild Howl
+675481012 | White Wolf Descent
+675481013 | Golden Fang Rift
+675481014 | Radiant Ashpiercer
+675481015 | Flame Wolf Spirit
+675481016 | Frostwing Hunt
+675481017 | Ice Crystal Refraction
+675481018 | Soaring Blue Feathers
+675481019 | Pristine Sky Patrol
+675481020 | Frostplume Wilds
+675481021 | Cloudpiercing Wing
+675481022 | Ice Eagle Spirit
 800403194 | [10d] Brawler's Shirt (Yellow)
 800404073 | [10d] Brawler's Pants (Yellow)
 800405037 | [10d] Brawler's Shoes (Yellow)
@@ -42470,6 +44188,8 @@
 1010011232 | Flash Hider
 1010011233 | Compensator
 1010011234 | Suppressor
+1010011235 | 6x Scope
+1010011236 | Canted Sight
 1010011482 | 4x Scope
 1010011483 | 3x Scope
 1010011484 | 2x Scope
@@ -42572,7 +44292,6 @@
 1010012593 | Quickdraw Mag
 1010012594 | Extended Quickdraw Mag
 1010012595 | Canted Sight
-1010012671 | PUBG MOBILE × aespa - AKM Mag
 1010012692 | 6x Scope
 1010012693 | 4x Scope
 1010012694 | 3x Scope
@@ -42961,6 +44680,7 @@
 1010042049 | Half Grip
 1010042054 | Laser Sight
 1010042055 | Canted Sight
+1010042075 | Heavy Stock
 1010042114 | 6x Scope
 1010042115 | 4x Scope
 1010042116 | 3x Scope
@@ -43131,6 +44851,82 @@
 1010060804 | Light Grip
 1010060805 | Half Grip
 1010060806 | Canted Sight
+1010060913 | 6x Scope
+1010060914 | 4x Scope
+1010060915 | 3x Scope
+1010060916 | 2x Scope
+1010060917 | Holographic Sight
+1010060918 | Red Dot Sight
+1010060919 | Extended Mag
+1010060923 | Quickdraw Mag
+1010060924 | Extended Quickdraw Mag
+1010060925 | Compensator
+1010060926 | Flash Hider
+1010060927 | Suppressor
+1010060928 | Angled Foregrip
+1010060929 | Thumb Grip
+1010060930 | Vertical Foregrip
+1010060933 | Laser Sight
+1010060934 | Light Grip
+1010060935 | Half Grip
+1010060936 | Canted Sight
+1010060953 | 6x Scope
+1010060954 | 4x Scope
+1010060955 | 3x Scope
+1010060956 | 2x Scope
+1010060957 | Holographic Sight
+1010060958 | Red Dot Sight
+1010060959 | Extended Mag
+1010060960 | Quickdraw Mag
+1010060963 | Extended Quickdraw Mag
+1010060964 | Compensator
+1010060965 | Flash Hider
+1010060966 | Suppressor
+1010060967 | Angled Foregrip
+1010060968 | Thumb Grip
+1010060969 | Vertical Foregrip
+1010060970 | Laser Sight
+1010060973 | Light Grip
+1010060974 | Half Grip
+1010060975 | Canted Sight
+1010060993 | 6x Scope
+1010060994 | 4x Scope
+1010060995 | 3x Scope
+1010060996 | 2x Scope
+1010060997 | Holographic Sight
+1010060998 | Red Dot Sight
+1010060999 | Extended Mag
+1010061000 | Quickdraw Mag
+1010061003 | Extended Quickdraw Mag
+1010061004 | Compensator
+1010061005 | Flash Hider
+1010061006 | Suppressor
+1010061007 | Angled Foregrip
+1010061008 | Thumb Grip
+1010061009 | Vertical Foregrip
+1010061010 | Laser Sight
+1010061013 | Light Grip
+1010061014 | Half Grip
+1010061015 | Canted Sight
+1010061033 | 6x Scope
+1010061034 | 4x Scope
+1010061035 | 3x Scope
+1010061036 | 2x Scope
+1010061037 | Holographic Sight
+1010061038 | Red Dot Sight
+1010061039 | Extended Mag
+1010061040 | Quickdraw Mag
+1010061043 | Extended Quickdraw Mag
+1010061044 | Compensator
+1010061045 | Flash Hider
+1010061046 | Suppressor
+1010061047 | Angled Foregrip
+1010061048 | Thumb Grip
+1010061049 | Vertical Foregrip
+1010061050 | Laser Sight
+1010061053 | Light Grip
+1010061054 | Half Grip
+1010061055 | Canted Sight
 1010070402 | 4x Scope
 1010070403 | 3x Scope
 1010070404 | 2x Scope
@@ -43391,6 +45187,25 @@
 1010081589 | Thumb Grip
 1010081590 | Laser Sight
 1010081592 | Canted Sight
+1010081642 | 6x Scope
+1010081643 | 4x Scope
+1010081644 | 3x Scope
+1010081645 | 2x Scope
+1010081646 | Holographic Sight
+1010081647 | Red Dot Sight
+1010081648 | Extended Mag
+1010081649 | Quickdraw Mag
+1010081650 | Extended Quickdraw Mag
+1010081652 | Flash Hider
+1010081653 | Compensator
+1010081654 | Suppressor
+1010081655 | Angled Foregrip
+1010081656 | Vertical Foregrip
+1010081657 | Light Grip
+1010081658 | Half Grip
+1010081659 | Thumb Grip
+1010081660 | Laser Sight
+1010081662 | Canted Sight
 1010120012 |  
 1010120042 |  
 1010120052 |  
@@ -43606,6 +45421,41 @@
 1011020482 |  
 1011020491 |  
 1011020492 |  
+1011020501 |  
+1011020502 |  
+1011020504 | 6x Scope
+1011020505 | 4x Scope
+1011020506 | 3x Scope
+1011020507 | 2x Scope
+1011020508 | Holographic Sight
+1011020509 | Red Dot Sight
+1011020510 | Extended Mag
+1011020511 |  
+1011020512 |  
+1011020514 | Quickdraw Mag
+1011020515 | Extended Quickdraw Mag
+1011020516 | Flash Hider
+1011020517 | Compensator
+1011020518 | Suppressor
+1011020519 | Angled Foregrip
+1011020520 | Thumb Grip
+1011020521 |  
+1011020522 |  
+1011020524 | Vertical Foregrip
+1011020525 | Tactical Stock
+1011020526 | Light Grip
+1011020527 | Half Grip
+1011020528 | Laser Sight
+1011020529 | Canted Sight
+1011020530 | Heavy Stock
+1011020531 |  
+1011020532 |  
+1011020541 |  
+1011020542 |  
+1011020551 |  
+1011020552 |  
+1011020561 |  
+1011020562 |  
 1020011132 | Holographic Sight
 1020011133 | Red Dot Sight
 1020011134 | Extended Mag
@@ -43979,6 +45829,11 @@
 1030030569 | Compensator
 1030030570 | Suppressor
 1030030572 | Cheek Pad
+1030030573 | 3x Scope
+1030030574 | 2x Scope
+1030030575 | Holographic Sight
+1030030576 | Red Dot Sight
+1030030577 | Canted Sight
 1030030732 | 8x Scope
 1030030733 | 6x Scope
 1030030734 | 4x Scope
@@ -44157,8 +46012,6 @@
 1050010644 | Gun Shield
 1050010645 | 6x Scope
 1050010646 | Canted Sight
-1050010771 | PUBG MOBILE × aespa - M249 Mag
-1050010772 | PUBG MOBILE × aespa - M249 Stock
 1050020842 | 6x Scope
 1050020843 | 4x Scope
 1050020844 | 3x Scope
@@ -44212,6 +46065,8 @@
 1060080212 |  
 1060080221 |  
 1060080222 |  
+1060080231 |  
+1060080232 |  
 1060100011 |  
 1060100021 |  
 1080417707 | Karaagekun regular - Pan (7d)
@@ -44555,6 +46410,7 @@
 1101002155 | Saccharine Cage - M16A4 (Lv. 6)
 1101002156 | Saccharine Cage - M16A4 (Lv. 7)
 1101002157 | Laurel Melody - M16A4
+1101002158 | Seafoam Spray - M16A4
 1101003001 | Yellow Stripes - SCAR-L
 1101003002 | Desert Camo - SCAR-L
 1101003003 | Blood Oath - SCAR-L
@@ -44742,6 +46598,7 @@
 1101003225 | Phoenix Rising - SCAR-L (Lv. 6)
 1101003226 | Phoenix Rising - SCAR-L (Lv. 7)
 1101003227 | Phoenix Rising - SCAR-L (Lv. 8)
+1101003228 | Shoreside Tide - SCAR-L
 1101004001 | Yellow Stripes - M416
 1101004002 | Viper - M416
 1101004003 | Graffiti - M416
@@ -44980,6 +46837,7 @@
 1101005103 | Singam Roar - Groza (Lv. 3)
 1101005104 | Singam Roar - Groza (Lv. 4)
 1101005105 | Singam Roar - Groza (Lv. 5)
+1101005106 | Alien Fusion - Groza
 1101006001 | Neon Destroyer - AUG
 1101006002 | Witherer - AUG
 1101006003 | Blood Oath - AUG
@@ -45049,6 +46907,23 @@
 1101006087 | Hazard Circuit - AUG
 1101006088 | Knight Dominion - AUG
 1101006089 | AUG(Usada Pekora)
+1101006090 | 01 Top Speed - AUG
+1101006091 | Nine-Tails Fury - AUG (Lv. 1)
+1101006092 | Nine-Tails Fury - AUG (Lv. 2)
+1101006093 | Nine-Tails Fury - AUG (Lv. 3)
+1101006094 | Nine-Tails Fury - AUG (Lv. 4)
+1101006095 | Nine-Tails Fury - AUG (Lv. 5)
+1101006096 | Nine-Tails Fury - AUG (Lv. 6)
+1101006097 | Nine-Tails Fury - AUG (Lv. 7)
+1101006098 | Nine-Tails Fury - AUG (Lv. 8)
+1101006099 | Nine-Tails Boost - AUG (Lv. 1)
+1101006100 | Nine-Tails Boost - AUG (Lv. 2)
+1101006101 | Nine-Tails Boost - AUG (Lv. 3)
+1101006102 | Nine-Tails Boost - AUG (Lv. 4)
+1101006103 | Nine-Tails Boost - AUG (Lv. 5)
+1101006104 | Nine-Tails Boost - AUG (Lv. 6)
+1101006105 | Nine-Tails Boost - AUG (Lv. 7)
+1101006106 | Nine-Tails Boost - AUG (Lv. 8)
 1101007001 | Vampire - QBZ
 1101007002 | Phantom - QBZ
 1101007003 | Raging Chicken - QBZ
@@ -45117,6 +46992,11 @@
 1101007077 | Icy Lure - QBZ (Lv. 4)
 1101007078 | Icy Lure - QBZ (Lv. 5)
 1101007079 | Jester's Gambit - QBZ
+1101007080 | Digital Mirage - QBZ (Lv. 1)
+1101007081 | Digital Mirage - QBZ (Lv. 2)
+1101007082 | Digital Mirage - QBZ (Lv. 3)
+1101007083 | Digital Mirage - QBZ (Lv. 4)
+1101007084 | Digital Mirage - QBZ (Lv. 5)
 1101008010 | Naughty Christmas - M762
 1101008011 | Scarlet Beast - M762
 1101008012 | Frozen Roar - M762
@@ -45248,6 +47128,13 @@
 1101008161 | Soulspecter Shredder - M762 (Lv. 5)
 1101008162 | Soulspecter Shredder - M762 (Lv. 6)
 1101008163 | Soulspecter Shredder - M762 (Lv. 7)
+1101008164 | Phantasia Siren - M762 (Lv. 1)
+1101008165 | Phantasia Siren - M762 (Lv. 2)
+1101008166 | Phantasia Siren - M762 (Lv. 3)
+1101008167 | Phantasia Siren - M762 (Lv. 4)
+1101008168 | Phantasia Siren - M762 (Lv. 5)
+1101008169 | Phantasia Siren - M762 (Lv. 6)
+1101008170 | Phantasia Siren - M762 (Lv. 7)
 1101009001 | Cherry Blossom - Mk47
 1101009002 | Venomous Skull - Mk47
 1101009003 | Avant Guard - Mk47 Mutant
@@ -45271,6 +47158,7 @@
 1101009021 | Saccharine Riot - Mk47
 1101009022 | S28 - Mk47
 1101009023 | Channel Zero - Mk47
+1101009024 | Shoreside Tide - Mk47
 1101009099 | Cosmos Fortress - Mk47 (7-Day)
 1101010010 | Elegant - G36C
 1101010011 | Armed Hound - G36C
@@ -45289,6 +47177,7 @@
 1101010027 | Soccer Pulse - G36C (Lv. 3)
 1101010028 | Soccer Pulse - G36C (Lv. 4)
 1101010029 | Soccer Pulse - G36C (Lv. 5)
+1101010030 | Energetic Beat - G36C
 1101012001 | Extreme Graffiti - Honey Badger
 1101012004 | Poolside Floatie - Honey Badger
 1101012005 | Vivid Glare - Honey Badger (Lv. 1)
@@ -45392,6 +47281,13 @@
 1101102047 | Butterfly Whispers - ACE32 (Lv. 6)
 1101102048 | Butterfly Whispers - ACE32 (Lv. 7)
 1101102049 | Butterfly Whispers - ACE32 (Lv. 8)
+1101102050 | Naturespirit Growth - ACE32 (Lv. 1)
+1101102051 | Naturespirit Growth - ACE32 (Lv. 2)
+1101102052 | Naturespirit Growth - ACE32 (Lv. 3)
+1101102053 | Naturespirit Growth - ACE32 (Lv. 4)
+1101102054 | Naturespirit Growth - ACE32 (Lv. 5)
+1101102055 | Naturespirit Growth - ACE32 (Lv. 6)
+1101102056 | Naturespirit Growth - ACE32 (Lv. 7)
 1102001001 | Desert Camo - UZI
 1102001002 | Hot Pizza - UZI
 1102001003 | Neon Punk (Blue) - UZI
@@ -45498,6 +47394,7 @@
 1102001132 | Astralbloom Sting - UZI
 1102001133 | Lush Mirage - UZI
 1102001134 | Mirage Phantom - UZI
+1102001135 | New
 1102001998 | Savagery - UZI (Lv. 5)
 1102001999 | Savagery - UZI (Lv. 3)
 1102002001 | Rugged (Beige) - UMP45
@@ -45647,6 +47544,8 @@
 1102002444 | Crimson Twin - UMP45 (Lv. 6)
 1102002445 | Crimson Twin - UMP45 (Lv. 7)
 1102002446 | Crimson Twin - UMP45 (Lv. 8)
+1102002447 | Pink Bunny Cadet - UMP45
+1102002448 | New
 1102002999 | Bloody Zone - UMP45
 1102003001 | White Rabbit - Vector
 1102003002 | Drifter - Vector
@@ -45728,6 +47627,7 @@
 1102003103 | Neon Surge - Vector
 1102003104 | Decisive Moment - Vector
 1102003105 | Moonlit Slumber - Vector
+1102003106 | Cybernetic Samurai - Vector
 1102003199 | Guncraft Firearm - Vector
 1102004001 | Silver Plate - Thompson SMG
 1102004011 | Smooth Hitman - Thompson SMG
@@ -45770,6 +47670,11 @@
 1102004053 | Noh Mask Ninja - Thompson SMG
 1102004054 | Foggy City - Thompson SMG
 1102004055 | Astral Golden Moon - Thompson SMG
+1102004056 | New
+1102004057 | New
+1102004058 | New
+1102004059 | New
+1102004060 | New
 1102005001 | Field Commander - PP-19 Bizon
 1102005002 | Anniversary Celebration - PP-19 Bizon
 1102005003 | Blazing Chameleon - PP-19 Bizon (Lv. 1)
@@ -45880,6 +47785,7 @@
 1102105027 | Golden Pegasus - P90 (Lv. 6)
 1102105028 | Golden Pegasus - P90 (Lv. 7)
 1102105029 | Bullet Line - P90
+1102105030 | Nightfall Stalker - P90
 1103001001 | Rugged (Beige) - Kar98K
 1103001002 | Scorching - Kar98K
 1103001003 | Yellow Stripes - Kar98K
@@ -46028,6 +47934,9 @@
 1103001201 | Frostbite Fang - Kar98K (Lv. 7)
 1103001202 | Frostbite Fang - Kar98K (Lv. 8)
 1103001203 | Lawful Hunt - Kar98K
+1103001204 | Wavesong Sprite - Kar98K (Lv. 1)
+1103001205 | Wavesong Sprite - Kar98K (Lv. 2)
+1103001206 | Wavesong Sprite - Kar98K (Lv. 3)
 1103002001 | Space Travel - M24
 1103002011 | Timeworn Pattern - M24
 1103002012 | Space Explorer - M24
@@ -46047,7 +47956,7 @@
 1103002028 | Pharaoh's Might - M24 (Lv. 5)
 1103002029 | Pharaoh's Might - M24 (Lv. 6)
 1103002030 | Pharaoh's Might - M24 (Lv. 7)
-1103002031 | Stylin' 14 - M24
+1103002031 | Season 14 - M24
 1103002032 | Gold and Silk - M24
 1103002033 | Precise Machinery - M24
 1103002034 | Refined Xolotl - M24
@@ -46302,6 +48211,7 @@
 1103004087 | Melodic Climax - SKS (Lv. 5)
 1103004088 | Forest Stroll - SKS
 1103004089 | Phantom Rush - SKS
+1103004090 | Meow Fuzzster - SKS
 1103005010 | Botanical Garden - VSS
 1103005011 | Frost Ravager - VSS
 1103005012 | Venomous Skull - VSS
@@ -46406,6 +48316,7 @@
 1103006074 | Dynamic Realm - Mini14 (Lv. 4)
 1103006075 | Dynamic Realm - Mini14 (Lv. 5)
 1103006076 | Amphibiraider - Mini14
+1103006077 | Jade Shadow - Mini14
 1103007010 | Season 11 - MK14
 1103007011 | Metal Medley - MK14
 1103007015 | C2S4 - MK14
@@ -46486,6 +48397,9 @@
 1103009050 | Hollow Wake - SLR (Lv. 4)
 1103009051 | Hollow Wake - SLR (Lv. 5)
 1103009052 | Dovewing Dawn - SLR
+1103009053 | Nautical Expert - SLR (Lv. 1)
+1103009054 | Nautical Expert - SLR (Lv. 2)
+1103009055 | Nautical Expert - SLR (Lv. 3)
 1103010001 | Lonewolf - QBU
 1103010002 | Past Glory - QBU
 1103010003 | Blue Spider - QBU
@@ -46591,6 +48505,7 @@
 1104001033 | Lethal Venom - S686 (Lv. 3)
 1104001034 | Lethal Venom - S686 (Lv. 4)
 1104001035 | Lethal Venom - S686 (Lv. 5)
+1104001036 | Shoreside Tide - S686
 1104002002 | Winning Chicken - S1897
 1104002003 | Space Travel - S1897
 1104002004 | Golden Sand - S1897
@@ -46623,6 +48538,11 @@
 1104002048 | Splendid Assault - S1897 (Lv. 2)
 1104002049 | Splendid Assault - S1897 (Lv. 3)
 1104002050 | Legendary Noble - S1897
+1104002051 | Sakura Neko - S1897 (Lv. 1)
+1104002052 | Sakura Neko - S1897 (Lv. 2)
+1104002053 | Sakura Neko - S1897 (Lv. 3)
+1104002054 | Sakura Neko - S1897 (Lv. 4)
+1104002055 | Sakura Neko - S1897 (Lv. 5)
 1104003001 | Rugged (Beige) - S12K
 1104003002 | Desert Camo - S12K
 1104003003 | Witherer - S12K
@@ -46630,7 +48550,7 @@
 1104003015 | Candy Cane - S12K
 1104003017 | Cherry Blossom - S12K
 1104003018 | Elegant-S12K
-1104003019 | Sacred Sentinel - S12k
+1104003019 | Temple Guardian - S12K
 1104003020 | S12K(GACKT Lv. 1)
 1104003021 | S12K(GACKT Lv. 2)
 1104003022 | S12K(GACKT Lv. 3)
@@ -46770,6 +48690,7 @@
 1105001077 | PUBG MOBILE × aespa - M249
 1105001078 | Pineapple Summer - M249
 1105001079 | Wingless Pigeon - M249
+1105001080 | Atlantean Ranger - M249
 1105002001 | Silver Plate - DP-28
 1105002011 | Street Art - DP-28
 1105002012 | Shark's Bite - DP28
@@ -46847,6 +48768,7 @@
 1105002096 | Rebel Roguefox - DP-28 (Lv. 3)
 1105002097 | Heart Hacker - DP-28
 1105002098 | Queen of Suits - DP-28
+1105002099 | Glacial Steed - DP-28
 1105002199 | Guncraft Firearm - DP-28
 1105010001 | C2S6 - MG3
 1105010004 | Soaring Dragon - MG3 (Lv. 1)
@@ -46934,8 +48856,9 @@
 1106008020 | Arcane Star Chart - Skorpion (Lv. 1)
 1106008021 | Arcane Star Chart - Skorpion (Lv. 2)
 1106008022 | Arcane Star Chart - Skorpion (Lv. 3)
+1106008023 | Shoreside Tide - Skorpion
 1106010001 | Aquarius - Desert Eagle
-1106010002 | Sacred Sentinel - Desert Eagle
+1106010002 | Temple Guardian - Desert Eagle
 1106010003 | Supreme Spark - Desert Eagle
 1106011001 | Candied Haunter - MP7 (Lv. 1)
 1106011002 | Candied Haunter - MP7 (Lv. 2)
@@ -46954,7 +48877,7 @@
 1107001017 | Circus of Screams - Crossbow (Lv. 2)
 1107001018 | Circus of Screams - Crossbow (Lv. 3)
 1107001019 | Origami Drake - MP5K
-1107001020 | Heart Hunter - Crossbow
+1107001020 | Heart Hunter - Tactical Crossbow
 1107008001 | Wildwood Wrath - Explosive Bow
 1107098001 | Loadfire Pulse - MGL (Lv. 1)
 1107098002 | Loadfire Pulse - MGL (Lv. 2)
@@ -47037,6 +48960,10 @@
 1108001102 | Chain Handcuffs - Machete (Lv. 2)
 1108001103 | Chain Handcuffs - Machete (Lv. 3)
 1108001104 | Dioscuri - Machete
+1108001105 | Kusanagi Blade (Lv. 1)
+1108001106 | Kusanagi Blade (Lv. 2)
+1108001107 | Kusanagi Blade (Lv. 3)
+1108001108 | Dimension Rift - Machete
 1108002001 | Hockey Stick - Crowbar
 1108002003 | Golden Scepter - Crowbar
 1108002010 | Ice Hockey - Crowbar
@@ -47445,6 +49372,22 @@
 1108004441 | Darkfeather Wings
 1108004442 | Heroic Assault
 1108004443 | Darkfeather Wings
+1108004444 | Gilded Darksteel - Pan
+1108004445 | New
+1108004446 | Blue Ocean Smoke
+1108004447 | Gale Force
+1108004448 | Lightning Shuriken
+1108004449 | |Ninja|
+1108004450 | Perfect Mud Wall
+1108004451 | Ramen Slurp
+1108004452 | Undying Flame
+1108004453 | Blue Ocean Smoke
+1108004454 | Gale Force
+1108004455 | Lightning Shuriken
+1108004456 | |Ninja|
+1108004457 | Perfect Mud Wall
+1108004458 | Ramen Slurp
+1108004459 | Undying Flame
 1108005046 | Crimson Boneslayer - Dagger
 1108005047 | Shark Industries - Dagger
 1108005048 | Tundra Knight Dagger (Lv. 1)
@@ -47453,6 +49396,7 @@
 1108005051 | Cogwheel Core - Dagger
 1108005052 | Papillon Kiss - Dagger
 1108005053 | Violet Spiritblade - Dagger
+1108005054 | Lifejade Blade - Dagger
 1108008001 | Vibrant Glory - Shadow Blade
 1501000019 | Bag Lunch Backpack
 1501000026 | Silly Chicken Backpack
@@ -48063,6 +50007,22 @@
 1501000731 | Rock Reverb Backpack
 1501000732 | Psionic Electrobolt Backpack
 1501000733 | S30 Backpack
+1501000734 | Nightfall Stalker Backpack
+1501000735 | Pink Bunny Cadet Backpack
+1501000736 | Atlantean Ranger Backpack
+1501000737 | Track Legend Backpack
+1501000738 | Ferrari Backpack
+1501000739 | Tide Tracker Backpack
+1501000740 | Sakura Neko Backpack
+1501000741 | Sanctuary Traveler Backpack
+1501000742 | NARUTO Ninja Scroll Backpack
+1501000743 | Tempting Nest Backpack
+1501000744 | Wave Cascade Backpack
+1501000745 | Dimensional Armory Backpack
+1501000746 | New
+1501000747 | New
+1501000748 | New
+1501000749 | Meow Fuzzster Backpack
 1501001001 | Hot Pizza Backpack (Lv. 1)
 1501001002 | White Rabbit Backpack (Lv. 1)
 1501001003 | Skeleton Hand Backpack (Lv. 1)
@@ -48695,6 +50655,22 @@
 1501001731 | Rock Reverb Backpack (Lv. 1)
 1501001732 | Psionic Electrobolt Backpack (Lv. 1)
 1501001733 | S30 Backpack (Lv. 1)
+1501001734 | Nightfall Stalker Backpack (Lv. 1)
+1501001735 | Pink Bunny Cadet Backpack (Lv. 1)
+1501001736 | Atlantean Ranger Backpack (Lv. 1)
+1501001737 | Track Legend Backpack (Lv. 1)
+1501001738 | Ferrari Backpack (Lv. 1)
+1501001739 | Tide Tracker Backpack (Lv. 1)
+1501001740 | Sakura Neko Backpack (Lv. 1)
+1501001741 | Sanctuary Traveler Backpack (Lv. 1)
+1501001742 | NARUTO Ninja Scroll Backpack (Lv. 1)
+1501001743 | Tempting Nest Backpack (Lv. 1)
+1501001744 | Wave Cascade Backpack (Lv. 1)
+1501001745 | Dimensional Armory Backpack (Lv. 1)
+1501001746 | New
+1501001747 | New
+1501001748 | New
+1501001749 | Meow Fuzzster Backpack (Lv. 1)
 1501002001 | Hot Pizza Backpack (Lv. 2)
 1501002002 | White Rabbit Backpack (Lv. 2)
 1501002003 | Skeleton Hand Backpack (Lv. 2)
@@ -49327,6 +51303,22 @@
 1501002731 | Rock Reverb Backpack (Lv. 2)
 1501002732 | Psionic Electrobolt Backpack (Lv. 2)
 1501002733 | S30 Backpack (Lv. 2)
+1501002734 | Nightfall Stalker Backpack (Lv. 2)
+1501002735 | Pink Bunny Cadet Backpack (Lv. 2)
+1501002736 | Atlantean Ranger Backpack (Lv. 2)
+1501002737 | Track Legend Backpack (Lv. 2)
+1501002738 | Ferrari Backpack (Lv. 2)
+1501002739 | Tide Tracker Backpack (Lv. 2)
+1501002740 | Sakura Neko Backpack (Lv. 2)
+1501002741 | Sanctuary Traveler Backpack (Lv. 2)
+1501002742 | NARUTO Ninja Scroll Backpack (Lv. 2)
+1501002743 | Tempting Nest Backpack (Lv. 2)
+1501002744 | Wave Cascade Backpack (Lv. 2)
+1501002745 | Dimensional Armory Backpack (Lv. 2)
+1501002746 | New
+1501002747 | New
+1501002748 | New
+1501002749 | Meow Fuzzster Backpack (Lv. 2)
 1501003001 | Hot Pizza Backpack (Lv. 3)
 1501003002 | White Rabbit Backpack (Lv. 3)
 1501003003 | Skeleton Hand Backpack (Lv. 3)
@@ -49959,6 +51951,22 @@
 1501003731 | Rock Reverb Backpack (Lv. 3)
 1501003732 | Psionic Electrobolt Backpack (Lv. 3)
 1501003733 | S30 Backpack (Lv. 3)
+1501003734 | Nightfall Stalker Backpack (Lv. 3)
+1501003735 | Pink Bunny Cadet Backpack (Lv. 3)
+1501003736 | Atlantean Ranger Backpack (Lv. 3)
+1501003737 | Track Legend Backpack (Lv. 3)
+1501003738 | Ferrari Backpack (Lv. 3)
+1501003739 | Tide Tracker Backpack (Lv. 3)
+1501003740 | Sakura Neko Backpack (Lv. 3)
+1501003741 | Sanctuary Traveler Backpack (Lv. 3)
+1501003742 | NARUTO Ninja Scroll Backpack (Lv. 3)
+1501003743 | Tempting Nest Backpack (Lv. 3)
+1501003744 | Wave Cascade Backpack (Lv. 3)
+1501003745 | Dimensional Armory Backpack (Lv. 3)
+1501003746 | New
+1501003747 | New
+1501003748 | New
+1501003749 | Meow Fuzzster Backpack (Lv. 3)
 1502000022 | Black Magma Helmet
 1502000023 | Glacier Helmet
 1502000025 | Winter Guardian Helmet
@@ -50373,6 +52381,17 @@
 1502000502 | Lightning Visor Helmet
 1502000503 | Psionic Electrobolt Helmet
 1502000504 | S30 Helmet
+1502000505 | Cybernetic Samurai Helmet
+1502000506 | Nightfall Stalker Helmet
+1502000507 | Pink Bunny Cadet Helmet
+1502000508 | Pakkun Helmet
+1502000509 | Sakura Neko Helmet
+1502000510 | Sacred Grove Helmet
+1502000511 | Wave Cascade Helmet
+1502000512 | Dimension Guardian Helmet
+1502000513 | New
+1502000514 | New
+1502000515 | Meow Fuzzster Helmet
 1502001001 | Hot Pizza Helmet (Lv. 1)
 1502001002 | White Rabbit Helmet (Lv. 1)
 1502001003 | Neon Punk Helmet (Blue) (Lv. 1)
@@ -50805,6 +52824,17 @@
 1502001502 | Lightning Visor Helmet (Lv. 1)
 1502001503 | Psionic Electrobolt Helmet (Lv. 1)
 1502001504 | S30 Helmet (Lv. 1)
+1502001505 | Cybernetic Samurai Helmet (Lv. 1)
+1502001506 | Nightfall Stalker Helmet (Lv. 1)
+1502001507 | Pink Bunny Cadet Helmet (Lv. 1)
+1502001508 | Pakkun Helmet (Lv. 1)
+1502001509 | Sakura Neko Helmet (Lv. 1)
+1502001510 | Sacred Grove Helmet (Lv. 1)
+1502001511 | Wave Cascade Helmet (Lv. 1)
+1502001512 | Dimension Guardian Helmet (Lv. 1)
+1502001513 | New
+1502001514 | New
+1502001515 | Meow Fuzzster Helmet (Lv. 1)
 1502002001 | Hot Pizza Helmet (Lv. 2)
 1502002002 | White Rabbit Helmet (Lv. 2)
 1502002003 | Neon Punk Helmet (Blue) (Lv. 2)
@@ -51237,6 +53267,17 @@
 1502002502 | Lightning Visor Helmet (Lv. 2)
 1502002503 | Psionic Electrobolt Helmet (Lv. 2)
 1502002504 | S30 Helmet (Lv. 2)
+1502002505 | Cybernetic Samurai Helmet (Lv. 2)
+1502002506 | Nightfall Stalker Helmet (Lv. 2)
+1502002507 | Pink Bunny Cadet Helmet (Lv. 2)
+1502002508 | Pakkun Helmet (Lv. 2)
+1502002509 | Sakura Neko Helmet (Lv. 2)
+1502002510 | Sacred Grove Helmet (Lv. 2)
+1502002511 | Wave Cascade Helmet (Lv. 2)
+1502002512 | Dimension Guardian Helmet (Lv. 2)
+1502002513 | New
+1502002514 | New
+1502002515 | Meow Fuzzster Helmet (Lv. 2)
 1502003001 | Hot Pizza Helmet (Lv. 3)
 1502003002 | White Rabbit Helmet (Lv. 3)
 1502003003 | Neon Punk Helmet (Blue) (Lv. 3)
@@ -51669,6 +53710,17 @@
 1502003502 | Lightning Visor Helmet (Lv. 3)
 1502003503 | Psionic Electrobolt Helmet (Lv. 3)
 1502003504 | S30 Helmet (Lv. 3)
+1502003505 | Cybernetic Samurai Helmet (Lv. 3)
+1502003506 | Nightfall Stalker Helmet (Lv. 3)
+1502003507 | Pink Bunny Cadet Helmet (Lv. 3)
+1502003508 | Pakkun Helmet (Lv. 3)
+1502003509 | Sakura Neko Helmet (Lv. 3)
+1502003510 | Sacred Grove Helmet (Lv. 3)
+1502003511 | Wave Cascade Helmet (Lv. 3)
+1502003512 | Dimension Guardian Helmet (Lv. 3)
+1502003513 | New
+1502003514 | New
+1502003515 | Meow Fuzzster Helmet (Lv. 3)
 1504000001 | Hot Pizza Backpack
 1504000002 | White Rabbit Backpack
 1504000003 | Skeleton Hand Backpack
@@ -51715,7 +53767,3 @@
 2103001002 | Scorching - Kar98K (30d)
 2103004003 | Skeleton Hand - SKS (7d)
 2108004002 | Two Eggs - Pan (7d)
-1515805 | Swim CRATE
-1515806 | Swim CRATE Pack
-1515807 | Vehicle CRATE
-1515808 | Vehicle CRATE Pack
