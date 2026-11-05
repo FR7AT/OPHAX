@@ -1,4 +1,4 @@
-1000 | BP
+﻿1000 | BP
 1001 | Silver
 1002 | Health
 1003 | EXP
@@ -1067,7 +1067,7 @@
 31524 |  
 31525 |  
 31526 |  
-31527 |  
+31527 | Clayface: Look Fear In The Face Avatar
 31528 |  
 31529 |  
 31530 |  
@@ -24337,6 +24337,7 @@
 1603238 | Bonus Pass Upgrade Card (Lv. 1–30) (A21)
 1603239 | Bonus Pass Upgrade Card (Lv. 31–60) (A21)
 1603240 | Bonus Pass Upgrade Card (Lv. 1–60) (A21)
+1603247 | New User Trial RP Upgrade Card (A22)
 1608005 | Expired Items
 1608006 | Expired Items
 1608007 | Expired Items
@@ -30639,7 +30640,7 @@
 2001233 |  
 2001234 |  
 2001235 |  
-2001236 |  
+2001236 | Clayface: Meet The New Face Of Gotham Avatar Frame
 2001237 |  
 2001238 |  
 2002000 | S31 Conqueror Avatar Frame
@@ -35756,8 +35757,8 @@
 4601010 | Pumpkinì Pumpkinà
 4601020 | U Din Din Din Din Dun Ma Din Din Din Dun
 4601021 | Taurino Assassino
-4607701 |  
-4607702 |  
+4607701 | Brainrot Classical Court Avatar
+4607702 | Brainrot Court Avatar Frame
 4610001 |  
 4610002 | 教官Sara头部(女)
 4610003 | 教官Sara头发(女)
